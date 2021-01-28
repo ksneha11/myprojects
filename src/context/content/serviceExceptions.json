@@ -1,0 +1,1212 @@
+[
+    {
+        "errorCode": "400",
+        "errorMessage": "We are unable to complete your request at this time. Please contact member services at the phone number on the back of your member ID card for assistance.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "403?",
+        "errorMessage": "Your account has been disabled. Please call member services for assistance.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "500",
+        "errorMessage": "Please give us some time to fix it. Then, try again",
+        "errorTitle": "Sorry, looks like something isn't working",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.00",
+        "errorMessage": "This app supports Amerigroup users at this time. We couldn't find an Amerigroup account with that username and password. After six attempts to log in, we'll lock your account to protect your information.\n%1 and %2 are not supported in this app.",
+        "errorTitle": "Unable to log in",
+        "links": [
+            {
+                "action": "https://www.myamerigroup.com/Medicare2018/Pages/Medicare.aspx",
+                "text": "Medicare"
+            },
+            {
+                "action": "https://www.myamerigroup.com/txmmp/home.html",
+                "text": "MMP"
+            }
+        ],
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.01",
+        "errorMessage": "Please tap Forgot Password to reset your password and unlock your account. If your account has been temporarily disabled, please contact member services number on your member ID card for help.",
+        "errorTitle": "This account may be locked or disabled for your protection.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.02",
+        "errorMessage": "We do not currently have an application that supports your Medicaid state. Please call the Member Services number on your member ID card for help.",
+        "errorTitle": "This app supports Amerigroup Medicaid members.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.03",
+        "errorMessage": "We do not currently have an application that supports your Medicaid state. Please call the Member Services number on your member ID card for help.",
+        "errorTitle": "This app supports Amerigroup Medicaid members.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.04",
+        "errorMessage": "You are no longer eligible to log in. We are happy to help if you call the Member Services number on your member ID card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.05",
+        "errorMessage": "You are no longer eligible to log in. We are happy to help if you call the Member Services number on your member ID card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.06",
+        "errorMessage": "Member has a Temporary Password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.07",
+        "errorMessage": "We're sorry, but this member is now over 18! Members who are no longer minors must manage their own account. If you have questions, please call Member Services at the number found on the back of the Member ID Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.08",
+        "errorMessage": "Because this member is a minor, there's a 7-day waiting period after registration before you can access this account. If you need immediate assistance, please call Member Services at the number found on the back of the Member ID Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.13",
+        "errorMessage": "This app is for Amerigroup members who have Medicaid benefits. If you are a member from a different state, please check your benefits and find the correct app.",
+        "errorTitle": "Unable to log in",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.18",
+        "errorMessage": "Your response did not match our records. Please try again.",
+        "errorTitle": "Hmmm..."
+    },
+    {
+        "errorCode": "auth.403.01",
+        "errorMessage": "Please tap Forgot Password to reset your password and unlock your account. If your account has been temporarily disabled, please contact member services number on your member ID card for help.",
+        "errorTitle": "This account may be locked or disabled for your protection.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.password.check",
+        "errorMessage": "Please check password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.enter",
+        "errorMessage": "Please enter a password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.guide",
+        "errorMessage": "Create a better password using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.maxlength",
+        "errorMessage": "Password should not be more than 20 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.minlength",
+        "errorMessage": "Password should be at least 8 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.username.check",
+        "errorMessage": "Please check the username.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.username.enter",
+        "errorMessage": "Please enter a username.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.caregiverRegistered",
+        "errorMessage": "Thanks for registering! There's a 7-day waiting period for parents and guardians to access a member's account. However, if you need immediate assistance, or you can't log in after 7 days, please contact Member Services at the number on the back of your member ID card. The member will get a letter in the mail, notifying them that their account has been registered.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.iAmTheMember",
+        "errorMessage": "We're sorry, but only a parent or legal guardian of this member is allowed to register this account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.nonChecked",
+        "errorMessage": "In order to continue, please check the attestation box confirming that you are the parent or legal guardian of the member.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noneChecked",
+        "errorMessage": "Please select radio button and attestation to continue.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noneOfTheAbove",
+        "errorMessage": "Because you're under 18, you'll need to get a parent or guardian to register your account. If needed, you can contact Member Services at the number on the back of your member ID card for help.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noSelected",
+        "errorMessage": "We're sorry, but only parents and guardians are allowed to access an under 18 year old member's account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "core.500",
+        "errorMessage": "Please give our help line a call at 866-755-2680, M-F, 8am-8pm ET.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.01",
+        "errorMessage": "Please verify that you entered your information correctly.",
+        "errorTitle": "We do not have an account with those credentials."
+    },
+    {
+        "errorCode": "fup.401.03",
+        "errorMessage": "We are unable to complete your request at this time. Please contact member services at the phone number on the back of your member ID card for assistance.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.04",
+        "errorMessage": "Your response did not match our records. Please try again.",
+        "errorTitle": "Hmmm..."
+    },
+    {
+        "errorCode": "fup.401.05",
+        "errorMessage": "Your password is incorrect. One more incorrect attempt and your account will be locked.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.07",
+        "errorMessage": "Please check the information you have entered. It does not match our records.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.08",
+        "errorMessage": "We do not have an account registered for this member, who is under 18 years of age.  If you are the parent or legal guardian of this member, please proceed to registration.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.09",
+        "errorMessage": "Please proceed to registration in order to setup your account.",
+        "errorTitle": "We do not have an account registered for this member.",
+        "primaryButtonTitle": "Register",
+        "secondaryButtonTitle": "Not Now"
+    },
+    {
+        "errorCode": "fup.403.01",
+        "errorMessage": "Please proceed to registration in order to setup your account.",
+        "errorTitle": "We do not have an account registered for this member.",
+        "primaryButtonTitle": "Register",
+        "secondaryButtonTitle": "Not Now"
+    },
+    {
+        "errorCode": "fup.caregiver.register",
+        "errorMessage": "We do not have an account registered for this member, who is under 18 years of age. If you are the parent or legal guardian of this member, please proceed to registration.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.dob.check",
+        "errorMessage": "Please check the date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.dob.enter",
+        "errorMessage": "Please enter a date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.id.check",
+        "errorMessage": "Please check the number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.id.enter",
+        "errorMessage": "Please enter an ID number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.lastname.enter",
+        "errorMessage": "Please enter a last name.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.location.find",
+        "errorMessage": "We can't find that location.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.noncaregiver.register",
+        "errorMessage": "We do not have an account registered for this member. Please proceed to registration in order to setup your account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.check",
+        "errorMessage": "Please check password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.enter",
+        "errorMessage": "Please enter a password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.guide",
+        "errorMessage": "Create a better password using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.match",
+        "errorMessage": "Those passwords don't match.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.maxlength",
+        "errorMessage": "Password should not be more than 20 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.minlength",
+        "errorMessage": "Password should be at least 8 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.reenter",
+        "errorMessage": "Please re-enter the new password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.question.answer",
+        "errorMessage": "Please answer the security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.secquestion.answer",
+        "errorMessage": "Security answer is required.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.check",
+        "errorMessage": "Please check the information you have entered. It does not match our records.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.lock",
+        "errorMessage": "Your password is incorrect. One more incorrect attempt and your account will be locked.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.locked",
+        "errorMessage": "For your protection, your online account has been temporarily disabled. Please call the Member Services number on your member ID card for help.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.zip.check",
+        "errorMessage": "Please enter a valid ZIP code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.zip.enter",
+        "errorMessage": "Please enter a ZIP code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "idcard.403.00",
+        "errorMessage": "You are part of a benefits plan that does not allow access to digital ID Card.  Please contact Member Services for help.",
+        "errorTitle": "Access to ID Card is Denied"
+    },
+    {
+        "errorCode": "idcard.404.00",
+        "errorMessage": "Please contact Member Services for help.",
+        "errorTitle": "We cannot find an ID Card for you in our system."
+    },
+    {
+        "errorCode": "idcard.500.05",
+        "errorMessage": "We cannot find an ID Card for you in our system.  Please contact Member Services for help.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "idcard.500.07",
+        "errorMessage": "We cannot find an ID Card for you in our system.  Please contact Member Services for help.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "validateOtp.401.00",
+        "errorMessage": "",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pf.401.09",
+        "errorMessage": "Email can only be updated once a day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1000",
+        "errorMessage": "Invalid account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1001",
+        "errorMessage": "You must include either Bank or Credit Card information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1002",
+        "errorMessage": "There is a problem processing your payment. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1003",
+        "errorMessage": "You must enter a valid login and password for this service to enter this application.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1004",
+        "errorMessage": "Payment Remit Fields can not be longer than 35 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1005",
+        "errorMessage": "User is not authorized to process payment refunds.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1008",
+        "errorMessage": "The entered payment amount cannot be greater than the Maximum Allowed Limit",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1009",
+        "errorMessage": "The payment amount must be greater than $1.00.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1010",
+        "errorMessage": "There have been too many failed payment attempts with this bank account. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1011",
+        "errorMessage": "Our records show we already received payment or have payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1012",
+        "errorMessage": "You have reached the maximum number of payment attempts with this bank account information, please check your information and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1013",
+        "errorMessage": "Please send a request with either BANK_FUNDING or CREDIT_FUNDING. You can not submit both funding types.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1014",
+        "errorMessage": "This account is not actively enrolled in this system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1015",
+        "errorMessage": "Please send a single funding choice type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1016",
+        "errorMessage": "You must pass at least one of the following: BankAccount, CreditCard, DebitCard.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1017",
+        "errorMessage": "You can only pass one of the following: BankAccount, CreditCard, DebitCard.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1018",
+        "errorMessage": "Due to the status of your enrollment, you are not allowed to access this function.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1019",
+        "errorMessage": "You must pass all the standard funding account information i.e account-address-1, account-city, account-state, account-postal-code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1020",
+        "errorMessage": "Sorry, there are no funding accounts on file for this billing account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1021",
+        "errorMessage": "Sorry, this billing account is not registered with this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1022",
+        "errorMessage": "Sorry, funding account id must be provide with this request type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1023",
+        "errorMessage": "The incoming funding account id does not match the passed billing account id and/or the funding account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1024",
+        "errorMessage": "Our records show we already received payment or have a payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1025",
+        "errorMessage": "The expiration date for this credit/debit card is invalid. Please verify the expiration date on your card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1026",
+        "errorMessage": "Card number does not match card type selected.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1027",
+        "errorMessage": "The value entered for the security code is invalid. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1028",
+        "errorMessage": "Our records show we already received payment or have a payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1029",
+        "errorMessage": "This funding account is no longer active.You are not allowed to perform any maintenance functions against it.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1030",
+        "errorMessage": "This funding account is no longer active.You cannot use it to make a payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1031",
+        "errorMessage": "The entered division code is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1032",
+        "errorMessage": "The billing account number/division code combination is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1033",
+        "errorMessage": "Sorry, you already have a funding account with that nickname in the system. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1034",
+        "errorMessage": "Sorry, you are trying to update the account nickname to a nickname that is already in use. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1035",
+        "errorMessage": "Sorry, the funding account id/account nickname combination is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1036",
+        "errorMessage": "Sorry, your search request returned no results.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1039",
+        "errorMessage": "You've provided an invalid refund code.Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1040",
+        "errorMessage": "Reimbursement cannot be processed until the payment date is at least 5 days old.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1041",
+        "errorMessage": "Payment has already been fully reimbursed or returned.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1042",
+        "errorMessage": "The requested refund amount exceeds the amount of the original payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1043",
+        "errorMessage": "The requested refund amount exceeds the amount remaining against the original payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1044",
+        "errorMessage": "A payment with this Confirmation Number can not be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1045",
+        "errorMessage": "An unexpected error has occurred.Your refund request has not been processed.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1046",
+        "errorMessage": "The provided funding account can not be processed as a Debit Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1047",
+        "errorMessage": "This account has already been enrolled in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1048",
+        "errorMessage": "Invalid payment method type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1049",
+        "errorMessage": "Invalid autodebit type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1050",
+        "errorMessage": "Debit card funding can not be used for automatic payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1051",
+        "errorMessage": "Enrollment in autodebit can not be completed without a funding account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1052",
+        "errorMessage": "The auto debit rule selected requires a value for auto debit day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1053",
+        "errorMessage": "The auto debit amount rule selected requires a value for auto debit set amount.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1054",
+        "errorMessage": "Auto debit rules are not permitted for the MAM auto debit type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1055",
+        "errorMessage": "Auto debit rules are not permitted for ON DEMAND payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1056",
+        "errorMessage": "There can only be one type of funding in the enrollment request.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1057",
+        "errorMessage": "Requests to this service may only be done for automatic payment enrollments.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1058",
+        "errorMessage": "Sorry, access this service is restricted.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1059",
+        "errorMessage": "Credit Card Authorization Failure. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1060",
+        "errorMessage": "The address that you entered does not match your credit/debit card address. Please check your entry and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1061",
+        "errorMessage": "Credit Card Authentication Failure: Invalid Security Code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1062",
+        "errorMessage": "You have reached the maximum number of attempts to use this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1063",
+        "errorMessage": "The auto debit rule selected requires a value for both auto debit days.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1064",
+        "errorMessage": "The auto debit rule selected requires a value for auto debit start date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1065",
+        "errorMessage": "You must enter either a billing account number or an email address in order to retrieve an enrollment profile.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1066",
+        "errorMessage": "Sorry, we are unable to retrieve an enrollment profile with the email address provided.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1067",
+        "errorMessage": "This company is not configured to allow enrollment profile retrieval with an email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1068",
+        "errorMessage": "Sorry, the account can not be enrolled.You have reached the maximum number of enrollments allowed in a profile.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1069",
+        "errorMessage": "You must pass at least one of the following: payment-id, confirmation-number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1070",
+        "errorMessage": "A payment can not be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1071",
+        "errorMessage": "Sorry, we are unable to set up paperless billing without a valid email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1072",
+        "errorMessage": "This payment cannot be canceled; it has already been processed.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1073",
+        "errorMessage": "You must pass a funding token id for this type of request.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1074",
+        "errorMessage": "The funding token id provided cannot be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1075",
+        "errorMessage": "The funding associated with the token has been deactivated.All the pending payments using this funding were canceled.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.14",
+        "errorMessage": "The credit/debit card number is invalid. Please verify it.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2000",
+        "errorMessage": "Information is missing in a required field.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2001",
+        "errorMessage": "Invalid characters have been found in one or more fields.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2002",
+        "errorMessage": "The amount you specified for your payment was not formatted correctly; dollars and cents, no commas. (i.e. 1000.00).",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2003",
+        "errorMessage": "The entered date is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2004",
+        "errorMessage": "The bank account type is not valid for this customer on this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2005",
+        "errorMessage": "Invalid Routing number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2006",
+        "errorMessage": "Invalid Account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2007",
+        "errorMessage": "The card type is not valid for this customer on this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2008",
+        "errorMessage": "Invalid Credit Card number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2009",
+        "errorMessage": "Invalid Expiration Month.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2010",
+        "errorMessage": "Invalid Expiration Date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2011",
+        "errorMessage": "The entered security code is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2012",
+        "errorMessage": "The entered ecommerce indicator is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2013",
+        "errorMessage": "The notification type is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2014",
+        "errorMessage": "Invalid Name on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2015",
+        "errorMessage": "Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2016",
+        "errorMessage": "Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2017",
+        "errorMessage": "Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2018",
+        "errorMessage": "Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2019",
+        "errorMessage": "Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2020",
+        "errorMessage": "The e-mail address is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2021",
+        "errorMessage": "The phone number is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2022",
+        "errorMessage": "The payment method is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2023",
+        "errorMessage": "The SEC code is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2024",
+        "errorMessage": "The paper preference is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2025",
+        "errorMessage": "The pin is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2026",
+        "errorMessage": "The division is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2027",
+        "errorMessage": "Invalid account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2028",
+        "errorMessage": "You've entered an invalid request type, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2029",
+        "errorMessage": "The funding account id is required for this request type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2030",
+        "errorMessage": "The entered security code is not valid for this card type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2031",
+        "errorMessage": "The entered security code is not valid for this card type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2032",
+        "errorMessage": "The country is not a valid. Please check the country and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2033",
+        "errorMessage": "One of your fields exceeds the maximum allowable length.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2034",
+        "errorMessage": "The entered date is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2035",
+        "errorMessage": "You entered a non numeric value in a numeric only field.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2036",
+        "errorMessage": "Invalid auto debit rule.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2037",
+        "errorMessage": "Invalid auto debit amount rule.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2038",
+        "errorMessage": "Invalid auto debit day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2039",
+        "errorMessage": "The entered ecommerce indicator is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2040",
+        "errorMessage": "You must enter a billing account number or confirmation number to perform a payment search.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.3002",
+        "errorMessage": "System is unavailable. Please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.3003",
+        "errorMessage": "System is unavailable. Please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5",
+        "errorMessage": "There is a problem processing your payment with this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5000",
+        "errorMessage": "You've exceeded the allowable number of attempts to login.Your login has been locked. Please see the system administrator to reset your password. (VL1)",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5001",
+        "errorMessage": "You must enter a valid login and password to enter this application. Please try again",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5065",
+        "errorMessage": "A scheduled payment cannot be more than 30 days in the future. Please re-enter the payment date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5087",
+        "errorMessage": "Invalid routing number or account number. Please check your entry and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5090",
+        "errorMessage": "Invalid account information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5091",
+        "errorMessage": "Invalid Expiration date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5092",
+        "errorMessage": "Expired Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5093",
+        "errorMessage": "Card expires in few days. Please enter another card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5094",
+        "errorMessage": "Invalid Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5095",
+        "errorMessage": "Account does not have sufficient funds.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5101",
+        "errorMessage": "We are unable to accept this account for payment. Please provide a different bank account or credit card number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5243",
+        "errorMessage": "Invalid account information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.57",
+        "errorMessage": "There is a problem processing your payment with this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.other",
+        "errorMessage": "Sorry, looks like something isn't working.  Please try again later, or you can call Member Services.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.pp",
+        "errorMessage": "Sorry, looks like something isn't working.  Please try again later, or you can call Member Services at <a href='tel:1-866-408-6131' target='_blank'>1-866-408-6131</a> (TTY 711) for Hoosier Healthwise and Healthy Indiana Plan or <a href='tel:1-844-284-1797' target='_blank'>1-844-284-1797</a> (TTY 711) for Hoosier Care Connect.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.problem1",
+        "errorMessage": "There is a problem processing your payment from this account, please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.problem2",
+        "errorMessage": "There is a problem with processing your request, please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "prof.401.03",
+        "errorMessage": "Please enter a different number.",
+        "errorTitle": "This number is already registered to a member."
+    },
+    {
+        "errorCode": "prof.401.06",
+        "errorMessage": "We are unable to process your request at this time. Please try again later",
+        "errorTitle": "Password cannot be changed"
+    },
+    {
+        "errorCode": "prof.401.08",
+        "errorMessage": "We are unable to process your request at this time. Please try again later",
+        "errorTitle": "Password cannot be changed"
+    },
+    {
+        "errorCode": "prof.401.09",
+        "errorMessage": "Email can only be updated once a day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "prov.results.none",
+        "errorMessage": "Maybe try searching a different location, specialty or name?",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.01",
+        "errorMessage": "No account found",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.02",
+        "errorMessage": "You are no longer eligible to log in. We are happy to help if you call the Member Services number on your member ID card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.03",
+        "errorMessage": "Please give us some time to fix it. Then, try again.",
+        "errorTitle": "Sorry, looks like something isn't working.",
+        "primaryButtonTitle": "Okay"
+    },
+    {
+        "errorCode": "reg.401.04",
+        "errorMessage": "Member not authorized",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.422.01",
+        "errorMessage": "Looks like you're already registered. Please login instead.",
+        "errorTitle": "You're already registered",
+        "hasFooter": true,
+        "primaryButtonTitle": "Log In"
+    },
+    {
+        "errorCode": "reg.422.02",
+        "errorMessage": "This app supports Anthem Indiana, Kentucky, Nevada, Wisconsin and Virginia Medicaid users. We couldn't find an Anthem Medicaid account with that username and password. After six attempts to log in, we'll lock your account to protect your information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.422.03",
+        "errorMessage": "Username not available",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.502.00",
+        "errorMessage": "We are unable to process your request at this time. Please try again.",
+        "errorTitle": "We're sorry. We can't process your request",
+        "primaryButtonTitle": "Okay"
+    },
+    {
+        "errorCode": "reg.answer.guide",
+        "errorMessage": "Create a better answer using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.answer.minlength",
+        "errorMessage": "Answer should be at least 4 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.age",
+        "errorMessage": "We can't register anyone under 18.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.check",
+        "errorMessage": "Please check the date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.enter",
+        "errorMessage": "Please enter a date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.check",
+        "errorMessage": "Please check the email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.enter",
+        "errorMessage": "Please enter an email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.match",
+        "errorMessage": "Those email addresses don't match.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.id.enter",
+        "errorMessage": "Please enter an ID number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.lastname.enter",
+        "errorMessage": "Please enter a last name.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.location.find",
+        "errorMessage": "We can't find that location.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.enter",
+        "errorMessage": "Please enter a password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.guide",
+        "errorMessage": "Create a better password using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.match",
+        "errorMessage": "Those passwords don't match.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.maxlength",
+        "errorMessage": "Password should not be more than 20 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.minlength",
+        "errorMessage": "Password should be at least 8 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.reenter",
+        "errorMessage": "Please re-enter the password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.review.information",
+        "errorMessage": "Please review to make sure the information below is correct.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.secquestion.answer",
+        "errorMessage": "Please answer the security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.secquestion.select",
+        "errorMessage": "Please select a security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.enter",
+        "errorMessage": "Please create and enter a username.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.guide",
+        "errorMessage": "Create a better username using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.minlength",
+        "errorMessage": "Username should be at least 6 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.zip.enter",
+        "errorMessage": "Please enter a zip code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "sfvc.500.02",
+        "errorMessage": "Email can only be updated once a day.",
+        "errorTitle": "We can't update your email."
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "content": "Legal",
+        "type": "HEADER"
+    },
+    {
+        "content": "All information on this website may not reflect the most recent transactions or account balances.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "content": "Out of network reimbursement",
+        "type": "HEADER"
+    },
+    {
+        "content": "It is important to understand how in-network providers may be able to help you save money. In-network doctors, health care professionals, dentists and X-ray laboratories have agreed in a contract with us to accept specific amounts for various covered services. Because there is no similar contract with out-of-network providers, absent a regulation or law, out-of-network providers may not be able to provide services to you unless they receive a prior authorization from Healthy Blue.\n",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Services provided by doctors, health care professionals, dentists and X-ray laboratories who have not contracted to treat members (“Non-Participating Providers”), and who do not receive prior authorization from Healthy Blue, may not be considered covered benefits. Providers may seek to hold you financially liable for non-covered benefits. If that occurs, providers should notify you in advance that you will be financially liable for these non-covered benefits. In that event, such providers may seek to hold you responsible for their full billed charges, and not just the amounts that would be due from Healthy Blue for covered benefits to a participating provider.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

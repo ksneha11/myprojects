@@ -1,0 +1,53 @@
+[
+    {
+        "content": "Other formats",
+        "type": "HEADER",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Members can get health plan information in other formats, like electronic, braille, large print and audio (CD or mp3). Call the Member Services number on the member ID card to ask for a document in a different format.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Health plan information",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Health and wellness information",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "HIPAA information",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Any other printed member information",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Whenever possible, our materials meet these national standards:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Braille materials – Braille Authority of North America",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Electronic formats - WCAG 2.0 Conformance Level AA Success Criteria",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Large print materials – Best Practices and Guidelines for Large Print Documents used by the Low Vision Community, issued by the Council of Citizens with Low Vision",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Audio CD materials – Delivered in a CD case with the name of the document provided in braille or large print, depending on the member’s request",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "MP3 alternative formats - Digital audio format compatible with an MP3 player",
+        "type": "BULLET_GROUP"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "content": "Terms and Conditions of Use",
+        "type": "HEADER"
+    },
+    {
+        "content": [
+            "By using the %1, a website owned and maintained by Amerigroup Partnership Plan, LLC or its affiliates (collectively, “Amerigroup”) (collectively, the “Web Site”) on behalf of Blue Cross and Blue Shield of North Carolina (“Blue Cross NC”), you agree to abide by the following Terms of Use.",
+            {
+                "action": "https://www.healthybluenc.com/",
+                "content": "Healthy Blue website",
+                "type": "LINK"
+            }
+        ],
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

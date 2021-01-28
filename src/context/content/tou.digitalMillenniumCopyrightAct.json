@@ -1,0 +1,47 @@
+[
+    {
+        "content": "Digital Millennium Copyright Act",
+        "type": "HEADER"
+    },
+    {
+        "content": "Blue Cross NC and Amerigroup respect the intellectual property of others and expects users of our services to do the same. If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible on this site or through this service, you must provide the following information when providing notice of the claimed infringement to Blue Cross NC and Amerigroup:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "A physical or electronic signature of a person authorized to act on behalf of the copyright owner and identification of the copyrighted work that is infringed;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Information reasonably sufficient to permit Blue Cross NC and Amerigroup to contact you, such as an address, telephone number and/or electronic mail address;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "A statement that you have a good faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent or law;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "A statement that the information in the notification is accurate and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "The above information must be submitted as a written notification to Blue Cross NC and Amerigroup through Healthy Blue Member Services at the toll-free number on the front of your Member ID card or by writing us at:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "1234 Street Address",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "City, State 000000",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "This information should not be construed as legal advice. For further details on the information required for valid DMCA notifications, see 17 U.S.C. 512(c)(3).",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

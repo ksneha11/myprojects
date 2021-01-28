@@ -1,0 +1,11 @@
+[
+    {
+        "content": "Appropriateness of content",
+        "type": "HEADER"
+    },
+    {
+        "content": "This website is not intended to attract children under the age of 13. We do not collect Personal Information from any person we know is under the age of 13. Some of the content on this web site may not be appropriate for children. Parent or guardians are solely responsible for providing supervision of minors’ use of the Healthy Blue web site.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "content": "Your submission",
+        "type": "HEADER"
+    },
+    {
+        "content": "Generally, communications which you post to the Web Site are not confidential. If particular Web pages permit the submission of communications which will be treated by Blue Cross NC and Amerigroup as confidential, that fact will be stated on those pages. You are responsible for your own communications and the consequences of such posting.\n",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "You may not:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Communicate material that is copyrighted, without the permission of the copyright owner;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Communicate material that reveals trade secrets, unless you have permission of the owner;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Communicate material that infringes on any other intellectual property rights of others or on the privacy or publicity rights of others;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Communicate material that is obscene, defamatory, threatening, harassing, abusive, hateful, or embarrassing to any person or entity;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Communicate a sexually-explicit image;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Communicate chain letters or pyramid schemes;",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Impersonate another person; or",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Violate the Children’s On Line Privacy Protection Act.",
+        "type": "BULLET_GROUP"
+    },
+    {
+        "content": "Blue Cross NC and Amerigroup do not represent or guarantee the truthfulness, accuracy, or reliability of any communications posted by other users or endorse any opinions expressed by other users. Any reliance on material posted by others is at your own risk.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

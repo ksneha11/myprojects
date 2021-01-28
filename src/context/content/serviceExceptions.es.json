@@ -1,0 +1,1212 @@
+[
+    {
+        "errorCode": "400",
+        "errorMessage": "Nopodemos procesar su solicitud en este momento. Comuníquese con Servicios al Miembros, al número de teléfono que figura en el dorso de su tarjeta de identificación de miembro, para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "403?",
+        "errorMessage": "Su cuenta se ha deshabilitado. Llame a Servicios al Miembro para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "500",
+        "errorMessage": "Le pedimos algo de tiempo para solucionarlo. Luego, vuelva a intentarlo",
+        "errorTitle": "Lo sentimos, parece que hay un problema",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.00",
+        "errorMessage": "Esta aplicación es para miembros de Amerigroup. No podemos localizar una cuenta de Amerigroup con ese nombre de usuario y contraseña. Después de seis intentos de iniciar sesión, vamos a bloquear su cuenta para proteger su información.\n%1 y %2 no son compatibles con esta aplicación.",
+        "errorTitle": "Incapaz de iniciar sesión",
+        "links": [
+            {
+                "action": "https://www.myamerigroup.com/Medicare2018/Pages/Medicare.aspx",
+                "text": "Medicare"
+            },
+            {
+                "action": "https://www.myamerigroup.com/txmmp/home.html",
+                "text": "MMP"
+            }
+        ],
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.01",
+        "errorMessage": "Toque Olvidé mi contraseña para restablecer su contraseña y desbloquear su cuenta. Si su cuenta se ha deshabilitado temporalmente, comuníquese con el número de servicios para miembros que figura en su tarjeta de identificación de miembro para obtener ayuda.",
+        "errorTitle": "Esta cuenta puede estar bloqueada o deshabilitada para su protección.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.02",
+        "errorMessage": "Actualmente no tenemos una aplicación que admita su estado de Medicaid. Comuníquese con Servicios al Miembros, al número de teléfono que figura en el dorso de su tarjeta de identificación de miembro, para obtener ayuda.",
+        "errorTitle": "Esta aplicación es compatible con los miembros de Amerigroup Medicaid.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.03",
+        "errorMessage": "Actualmente no tenemos una aplicación que admita su estado de Medicaid. Comuníquese con Servicios al Miembros, al número de teléfono que figura en el dorso de su tarjeta de identificación de miembro, para obtener ayuda.",
+        "errorTitle": "Esta aplicación es compatible con los miembros de Amerigroup Medicaid.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.04",
+        "errorMessage": "Ya no puede iniciar sesión. Nos complacerá ayudarlo si llama al número de Servicios al Miembro que figura en la tarjeta de identificación de miembro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.05",
+        "errorMessage": "Ya no puede iniciar sesión. Nos complacerá ayudarlo si llama al número de Servicios al Miembro que figura en la tarjeta de identificación de miembro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.06",
+        "errorMessage": "El miembro tiene una contraseña temporal.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.07",
+        "errorMessage": "Lo sentimos, pero este miembro ahora es mayor de 18 años. Los miembros que ya no son menores de edad deben administrar su propia cuenta. Si tiene preguntas, llame a Servicios al Miembro, al número que figura en el dorso de su tarjeta de identificación de miembro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.08",
+        "errorMessage": "Como este miembro es un menor, para tener acceso a la cuenta deberá esperar 7 días a partir del registro. Si necesita asistencia inmediata, llame a Servicios al Miembro, al número que figura en el dorso de la tarjeta de identificación de miembro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.401.13",
+        "errorMessage": "Esta aplicación es para los miembros de Amerigroup que tienen beneficios de Medicaid. Si es miembro de un estado diferente, verifique sus beneficios y encuentre la aplicación correcta.",
+        "errorTitle": "Incapaz de iniciar sesión",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.403.01",
+        "errorMessage": "Toque Olvidé mi contraseña para restablecer su contraseña y desbloquear su cuenta. Si su cuenta se ha deshabilitado temporalmente, comuníquese con el número de servicios para miembros que figura en su tarjeta de identificación de miembro para obtener ayuda.",
+        "errorTitle": "Esta cuenta puede estar bloqueada o deshabilitada para su protección.",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "auth.401.18",
+        "errorMessage": "Su respuesta no coincide con nuestros registros. Vuelva a intentarlo.",
+        "errorTitle": "Mmmm..."
+    },
+    {
+        "errorCode": "auth.password.check",
+        "errorMessage": "Verifique la contraseña.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.enter",
+        "errorMessage": "Ingrese una contraseña.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.guide",
+        "errorMessage": "Cree una contraseña mejor usando la guía 'i'.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.maxlength",
+        "errorMessage": "La contraseña no debe tener más de 20 caracteres.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.password.minlength",
+        "errorMessage": "La contraseña debe tener al menos 8 caracteres.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.username.check",
+        "errorMessage": "Verifique el nombre de usuario.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "auth.username.enter",
+        "errorMessage": "Ingrese un nombre de usuario.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.caregiverRegistered",
+        "errorMessage": "In Spanish: Thanks for registering! There's a 7-day waiting period for parents and guardians to access a member's account. However, if you need immediate assistance, or you can't log in after 7 days, please contact Member Services at the number on the back of your member ID card. The member will get a letter in the mail, notifying them that their account has been registered.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.iAmTheMember",
+        "errorMessage": "In Spanish: We're sorry, but only a parent or legal guardian of this member is allowed to register this account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.nonChecked",
+        "errorMessage": "In Spanish: In order to continue, please check the attestation box confirming that you are the parent or legal guardian of the member.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noneChecked",
+        "errorMessage": "In Spanish: Please select radio button and attestation to continue.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noneOfTheAbove",
+        "errorMessage": "In Spanish: Because you're under 18, you'll need to get a parent or guardian to register your account. If needed, you can contact Member Services at the number on the back of your member ID card for help.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "caregiver.noSelected",
+        "errorMessage": "In Spanish: We're sorry, but only parents and guardians are allowed to access an under 18 year old member's account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "core.500",
+        "errorMessage": "In Spanish: Please give our help line a call at 866-755-2680, M-F, 8am-8pm ET.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.01",
+        "errorMessage": "Verifique que ingresó su información correctamente.",
+        "errorTitle": "No tenemos una cuenta con esas credenciales."
+    },
+    {
+        "errorCode": "fup.401.03",
+        "errorMessage": "No podemos procesar su solicitud en este momento. Comuníquese con Servicios al Miembros, al número de teléfono que figura en el dorso de su tarjeta de identificación de miembro, para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.04",
+        "errorMessage": "Su respuesta no coincide con nuestros registros. Vuelva a intentarlo.",
+        "errorTitle": "Mmmm..."
+    },
+    {
+        "errorCode": "fup.401.05",
+        "errorMessage": "La contraseña es incorrecta. Un intento incorrecto más y su cuenta se bloqueará.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.07",
+        "errorMessage": "Verifique la información que ha ingresado. No coincide con nuestros registros..",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.08",
+        "errorMessage": "No tenemos una cuenta registrada para este miembro, que es menor de 18 años.  Si usted es el padre/madre/tutor legal de este miembro, continúe con el registro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.401.09",
+        "errorMessage": "Proceda con el registro para configurar su cuenta.",
+        "errorTitle": "No tenemos una cuenta registrada de este miembro.",
+        "primaryButtonTitle": "Registrarse",
+        "secondaryButtonTitle": "Ahora no"
+    },
+    {
+        "errorCode": "fup.403.01",
+        "errorMessage": "Proceda con el registro para configurar su cuenta.",
+        "errorTitle": "No tenemos una cuenta registrada de este miembro.",
+        "primaryButtonTitle": "Registrarse",
+        "secondaryButtonTitle": "Ahora no"
+    },
+    {
+        "errorCode": "fup.caregiver.register",
+        "errorMessage": "In Spanish: We do not have an account registered for this member, who is under 18 years of age. If you are the parent or legal guardian of this member, please proceed to registration.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.dob.check",
+        "errorMessage": "Por favor verifique la fecha de nacimiento.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.dob.enter",
+        "errorMessage": "Por favor, introduzca una fecha de nacimiento.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.id.check",
+        "errorMessage": "Por favor verifique el número de identificación.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.id.enter",
+        "errorMessage": "Por favor, introduzca un número de identificación.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.lastname.enter",
+        "errorMessage": "Por favor, introduzca un apellido.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.location.find",
+        "errorMessage": "No podemos encontrar esa ubicación.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.noncaregiver.register",
+        "errorMessage": "In Spanish: We do not have an account registered for this member. Please proceed to registration in order to setup your account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.check",
+        "errorMessage": "Verifique la contraseña.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.enter",
+        "errorMessage": "Ingrese una contraseña.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.guide",
+        "errorMessage": "Cree una contraseña mejor usando la guía 'i'.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.match",
+        "errorMessage": "Esas contraseñas no coinciden.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.maxlength",
+        "errorMessage": "La contraseña no debe tener más de 20 caracteres.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.minlength",
+        "errorMessage": "La contraseña debe tener al menos 8 caracteres.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.password.reenter",
+        "errorMessage": "In Spanish: Please re-enter the new password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.question.answer",
+        "errorMessage": "In Spanish: Please answer the security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.secquestion.answer",
+        "errorMessage": "In Spanish: Security answer is required.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.check",
+        "errorMessage": "In Spanish: Please check the information you have entered. It does not match our records.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.lock",
+        "errorMessage": "La contraseña es incorrecta. Un intento incorrecto más y su cuenta se bloqueará.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.temp.locked",
+        "errorMessage": "Su cuenta se ha deshabilitado. Llame a Servicios al Miembro para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.zip.check",
+        "errorMessage": "In Spanish: Please enter a valid ZIP code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "fup.zip.enter",
+        "errorMessage": "In Spanish: Please enter a ZIP code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "idcard.403.00",
+        "errorMessage": "Usted forma parte de un plan de beneficios que no permite el acceso a la tarjeta de identificación digital. Por favor, póngase en contacto con Servicios para Miembros para obtener ayuda.",
+        "errorTitle": "El acceso a la tarjeta de identificación es denegado"
+    },
+    {
+        "errorCode": "idcard.404.00",
+        "errorMessage": "Por favor, póngase en contacto con Servicios para Miembros para obtener ayuda.",
+        "errorTitle": "No podemos encontrar una tarjeta de identificación para usted en nuestro sistema."
+    },
+    {
+        "errorCode": "idcard.500.05",
+        "errorMessage": "No podemos encontrar una tarjeta de identificación para usted en nuestro sistema. Por favor, póngase en contacto con Servicios para Miembros para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "idcard.500.07",
+        "errorMessage": "No podemos encontrar una tarjeta de identificación para usted en nuestro sistema. Por favor, póngase en contacto con Servicios para Miembros para obtener ayuda.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "validateOtp.401.00",
+        "errorMessage": "",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pf.401.09",
+        "errorMessage": "El correo electrónico solo se puede actualizar una vez al día.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1000",
+        "errorMessage": "In Spanish: Invalid account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1001",
+        "errorMessage": "In Spanish: You must include either Bank or Credit Card information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1002",
+        "errorMessage": "In Spanish: There is a problem processing your payment. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1003",
+        "errorMessage": "In Spanish: You must enter a valid login and password for this service to enter this application.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1004",
+        "errorMessage": "In Spanish: Payment Remit Fields can not be longer than 35 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1005",
+        "errorMessage": "In Spanish: User is not authorized to process payment refunds.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1008",
+        "errorMessage": "In Spanish: The entered payment amount cannot be greater than the Maximum Allowed Limit",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1009",
+        "errorMessage": "In Spanish: The payment amount must be greater than $1.00.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1010",
+        "errorMessage": "In Spanish: There have been too many failed payment attempts with this bank account. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1011",
+        "errorMessage": "In Spanish: Our records show we already received payment or have payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1012",
+        "errorMessage": "In Spanish: You have reached the maximum number of payment attempts with this bank account information, please check your information and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1013",
+        "errorMessage": "In Spanish: Please send a request with either BANK_FUNDING or CREDIT_FUNDING. You can not submit both funding types.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1014",
+        "errorMessage": "In Spanish: This account is not actively enrolled in this system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1015",
+        "errorMessage": "In Spanish: Please send a single funding choice type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1016",
+        "errorMessage": "In Spanish: You must pass at least one of the following: BankAccount, CreditCard, DebitCard.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1017",
+        "errorMessage": "In Spanish: You can only pass one of the following: BankAccount, CreditCard, DebitCard.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1018",
+        "errorMessage": "In Spanish: Due to the status of your enrollment, you are not allowed to access this function.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1019",
+        "errorMessage": "In Spanish: You must pass all the standard funding account information i.e account-address-1, account-city, account-state, account-postal-code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1020",
+        "errorMessage": "In Spanish: Sorry, there are no funding accounts on file for this billing account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1021",
+        "errorMessage": "In Spanish: Sorry, this billing account is not registered with this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1022",
+        "errorMessage": "In Spanish: Sorry, funding account id must be provide with this request type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1023",
+        "errorMessage": "In Spanish: The incoming funding account id does not match the passed billing account id and/or the funding account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1024",
+        "errorMessage": "In Spanish: Our records show we already received payment or have a payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1025",
+        "errorMessage": "In Spanish: The expiration date for this credit/debit card is invalid. Please verify the expiration date on your card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1026",
+        "errorMessage": "In Spanish: Card number does not match card type selected.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1027",
+        "errorMessage": "In Spanish: The value entered for the security code is invalid. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1028",
+        "errorMessage": "In Spanish: Our records show we already received payment or have a payment pending for this bill. Please check back later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1029",
+        "errorMessage": "In Spanish: This funding account is no longer active.You are not allowed to perform any maintenance functions against it.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1030",
+        "errorMessage": "In Spanish: This funding account is no longer active.You cannot use it to make a payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1031",
+        "errorMessage": "In Spanish: The entered division code is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1032",
+        "errorMessage": "In Spanish: The billing account number/division code combination is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1033",
+        "errorMessage": "In Spanish: Sorry, you already have a funding account with that nickname in the system. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1034",
+        "errorMessage": "In Spanish: Sorry, you are trying to update the account nickname to a nickname that is already in use. Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1035",
+        "errorMessage": "In Spanish: Sorry, the funding account id/account nickname combination is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1036",
+        "errorMessage": "In Spanish: Sorry, your search request returned no results.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1039",
+        "errorMessage": "In Spanish: You've provided an invalid refund code.Please try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1040",
+        "errorMessage": "In Spanish: Reimbursement cannot be processed until the payment date is at least 5 days old.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1041",
+        "errorMessage": "In Spanish: Payment has already been fully reimbursed or returned.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1042",
+        "errorMessage": "In Spanish: The requested refund amount exceeds the amount of the original payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1043",
+        "errorMessage": "In Spanish: The requested refund amount exceeds the amount remaining against the original payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1044",
+        "errorMessage": "In Spanish: A payment with this Confirmation Number can not be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1045",
+        "errorMessage": "In Spanish: An unexpected error has occurred.Your refund request has not been processed.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1046",
+        "errorMessage": "In Spanish: The provided funding account can not be processed as a Debit Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1047",
+        "errorMessage": "In Spanish: This account has already been enrolled in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1048",
+        "errorMessage": "In Spanish: Invalid payment method type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1049",
+        "errorMessage": "In Spanish: Invalid autodebit type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1050",
+        "errorMessage": "In Spanish: Debit card funding can not be used for automatic payment.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1051",
+        "errorMessage": "In Spanish: Enrollment in autodebit can not be completed without a funding account.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1052",
+        "errorMessage": "In Spanish: The auto debit rule selected requires a value for auto debit day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1053",
+        "errorMessage": "In Spanish: The auto debit amount rule selected requires a value for auto debit set amount.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1054",
+        "errorMessage": "In Spanish: Auto debit rules are not permitted for the MAM auto debit type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1055",
+        "errorMessage": "In Spanish: Auto debit rules are not permitted for ON DEMAND payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1056",
+        "errorMessage": "In Spanish: There can only be one type of funding in the enrollment request.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1057",
+        "errorMessage": "In Spanish: Requests to this service may only be done for automatic payment enrollments.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1058",
+        "errorMessage": "In Spanish: Sorry, access this service is restricted.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1059",
+        "errorMessage": "In Spanish: Credit Card Authorization Failure. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1060",
+        "errorMessage": "In Spanish: The address that you entered does not match your credit/debit card address. Please check your entry and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1061",
+        "errorMessage": "In Spanish: Credit Card Authentication Failure: Invalid Security Code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1062",
+        "errorMessage": "In Spanish: You have reached the maximum number of attempts to use this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1063",
+        "errorMessage": "In Spanish: The auto debit rule selected requires a value for both auto debit days.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1064",
+        "errorMessage": "In Spanish: The auto debit rule selected requires a value for auto debit start date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1065",
+        "errorMessage": "In Spanish: You must enter either a billing account number or an email address in order to retrieve an enrollment profile.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1066",
+        "errorMessage": "In Spanish: Sorry, we are unable to retrieve an enrollment profile with the email address provided.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1067",
+        "errorMessage": "In Spanish: This company is not configured to allow enrollment profile retrieval with an email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1068",
+        "errorMessage": "In Spanish: Sorry, the account can not be enrolled.You have reached the maximum number of enrollments allowed in a profile.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1069",
+        "errorMessage": "In Spanish: You must pass at least one of the following: payment-id, confirmation-number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1070",
+        "errorMessage": "In Spanish: A payment can not be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1071",
+        "errorMessage": "In Spanish: Sorry, we are unable to set up paperless billing without a valid email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1072",
+        "errorMessage": "In Spanish: This payment cannot be canceled; it has already been processed.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1073",
+        "errorMessage": "In Spanish: You must pass a funding token id for this type of request.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1074",
+        "errorMessage": "In Spanish: The funding token id provided cannot be located in the system.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.1075",
+        "errorMessage": "In Spanish: The funding associated with the token has been deactivated.All the pending payments using this funding were canceled.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.14",
+        "errorMessage": "In Spanish: The credit/debit card number is invalid. Please verify it.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2000",
+        "errorMessage": "In Spanish: Information is missing in a required field.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2001",
+        "errorMessage": "In Spanish: Invalid characters have been found in one or more fields.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2002",
+        "errorMessage": "In Spanish: The amount you specified for your payment was not formatted correctly; dollars and cents, no commas. (i.e. 1000.00).",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2003",
+        "errorMessage": "In Spanish: The entered date is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2004",
+        "errorMessage": "In Spanish: The bank account type is not valid for this customer on this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2005",
+        "errorMessage": "In Spanish: Invalid Routing number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2006",
+        "errorMessage": "In Spanish: Invalid Account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2007",
+        "errorMessage": "In Spanish: The card type is not valid for this customer on this service.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2008",
+        "errorMessage": "In Spanish: Invalid Credit Card number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2009",
+        "errorMessage": "In Spanish: Invalid Expiration Month.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2010",
+        "errorMessage": "In Spanish: Invalid Expiration Date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2011",
+        "errorMessage": "In Spanish: The entered security code is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2012",
+        "errorMessage": "In Spanish: The entered ecommerce indicator is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2013",
+        "errorMessage": "In Spanish: The notification type is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2014",
+        "errorMessage": "In Spanish: Invalid Name on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2015",
+        "errorMessage": "In Spanish: Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2016",
+        "errorMessage": "In Spanish: Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2017",
+        "errorMessage": "In Spanish: Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2018",
+        "errorMessage": "In Spanish: Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2019",
+        "errorMessage": "In Spanish: Invalid address on payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2020",
+        "errorMessage": "In Spanish: The e-mail address is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2021",
+        "errorMessage": "In Spanish: The phone number is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2022",
+        "errorMessage": "In Spanish: The payment method is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2023",
+        "errorMessage": "In Spanish: The SEC code is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2024",
+        "errorMessage": "In Spanish: The paper preference is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2025",
+        "errorMessage": "In Spanish: The pin is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2026",
+        "errorMessage": "In Spanish: The division is not valid, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2027",
+        "errorMessage": "In Spanish: Invalid account number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2028",
+        "errorMessage": "In Spanish: You've entered an invalid request type, please re-enter.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2029",
+        "errorMessage": "In Spanish: The funding account id is required for this request type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2030",
+        "errorMessage": "In Spanish: The entered security code is not valid for this card type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2031",
+        "errorMessage": "In Spanish: The entered security code is not valid for this card type.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2032",
+        "errorMessage": "In Spanish: The country is not a valid. Please check the country and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2033",
+        "errorMessage": "In Spanish: One of your fields exceeds the maximum allowable length.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2034",
+        "errorMessage": "In Spanish: The entered date is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2035",
+        "errorMessage": "In Spanish: You entered a non numeric value in a numeric only field.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2036",
+        "errorMessage": "In Spanish: Invalid auto debit rule.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2037",
+        "errorMessage": "In Spanish: Invalid auto debit amount rule.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2038",
+        "errorMessage": "In Spanish: Invalid auto debit day.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2039",
+        "errorMessage": "In Spanish: The entered ecommerce indicator is not valid.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.2040",
+        "errorMessage": "In Spanish: You must enter a billing account number or confirmation number to perform a payment search.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.3002",
+        "errorMessage": "In Spanish: System is unavailable. Please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.3003",
+        "errorMessage": "In Spanish: System is unavailable. Please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5",
+        "errorMessage": "In Spanish: There is a problem processing your payment with this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5000",
+        "errorMessage": "In Spanish: You've exceeded the allowable number of attempts to login.Your login has been locked. Please see the system administrator to reset your password. (VL1)",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5001",
+        "errorMessage": "In Spanish: You must enter a valid login and password to enter this application. Please try again",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5065",
+        "errorMessage": "In Spanish: A scheduled payment cannot be more than 30 days in the future. Please re-enter the payment date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5087",
+        "errorMessage": "In Spanish: Invalid routing number or account number. Please check your entry and try again.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5090",
+        "errorMessage": "In Spanish: Invalid account information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5091",
+        "errorMessage": "In Spanish: Invalid Expiration date.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5092",
+        "errorMessage": "In Spanish: Expired Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5093",
+        "errorMessage": "In Spanish: Card expires in few days. Please enter another card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5094",
+        "errorMessage": "In Spanish: Invalid Card.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5095",
+        "errorMessage": "In Spanish: Account does not have sufficient funds.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5101",
+        "errorMessage": "In Spanish: We are unable to accept this account for payment. Please provide a different bank account or credit card number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.5243",
+        "errorMessage": "In Spanish: Invalid account information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.57",
+        "errorMessage": "In Spanish: There is a problem processing your payment with this credit/debit card. Please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.other",
+        "errorMessage": "In Spanish: Sorry, looks like something isn't working.  Please try again later, or you can call Member Services.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.pp",
+        "errorMessage": "In Spanish: Sorry, looks like something isn't working.  Please try again later, or you can call Member Services at <a href='tel:1-866-408-6131' target='_blank'>1-866-408-6131</a> (TTY 711) for Hoosier Healthwise and Healthy Indiana Plan or <a href='tel:1-844-284-1797' target='_blank'>1-844-284-1797</a> (TTY 711) for Hoosier Care Connect.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.problem1",
+        "errorMessage": "In Spanish: There is a problem processing your payment from this account, please contact your financial institution or use another payment method.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "pmb.problem2",
+        "errorMessage": "In Spanish: There is a problem with processing your request, please try again later.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "prof.401.03",
+        "errorMessage": "Este número ya está registrado a un miembro. Por favor ingrese un número diferente.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "prof.401.06",
+        "errorMessage": "No podemos procesar su solicitud en este momento. Por favor, inténtelo de nuevo más tarde",
+        "errorTitle": "La contraseña no se puede cambiar"
+    },
+    {
+        "errorCode": "prof.401.08",
+        "errorMessage": "No podemos procesar su solicitud en este momento. Por favor, inténtelo de nuevo más tarde",
+        "errorTitle": "La contraseña no se puede cambiar"
+    },
+    {
+        "errorCode": "prof.401.09",
+        "errorMessage": "El correo electrónico solo se puede actualizar una vez al día.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "prov.results.none",
+        "errorMessage": "In Spanish: Maybe try searching a different location, specialty or name?",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.01",
+        "errorMessage": "No se encontró cuenta",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.02",
+        "errorMessage": "Ya no puede iniciar sesión. Nos complacerá ayudarlo si llama al número de Servicios al Miembro que figura en la tarjeta de identificación de miembro.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.401.03",
+        "errorMessage": "Le pedimos algo de tiempo para solucionarlo. Luego, vuelva a intentarlo",
+        "errorTitle": "Lo sentimos, parece que hay un problema",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "reg.401.04",
+        "errorMessage": "Miembro no autorizado",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.422.01",
+        "errorMessage": "Parece que ya se ha registrado. Inicie sesión.",
+        "errorTitle": "Se ha registrado",
+        "hasFooter": true,
+        "primaryButtonTitle": "Inicie sesión."
+    },
+    {
+        "errorCode": "reg.422.02",
+        "errorMessage": "In Spanish: This app supports Anthem Indiana, Kentucky, Nevada, Wisconsin and Virginia Medicaid users. We couldn't find an Anthem Medicaid account with that username and password. After six attempts to log in, we'll lock your account to protect your information.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.422.03",
+        "errorMessage": "Nombre de usuario no disponible",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.502.00",
+        "errorMessage": "Le pedimos algo de tiempo para solucionarlo. Luego, vuelva a intentarlo",
+        "errorTitle": "Lo sentimos, parece que hay un problema",
+        "primaryButtonTitle": "OK"
+    },
+    {
+        "errorCode": "reg.answer.guide",
+        "errorMessage": "In Spanish: Create a better answer using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.answer.minlength",
+        "errorMessage": "In Spanish: Answer should be at least 4 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.age",
+        "errorMessage": "In Spanish: We can't register anyone under 18.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.check",
+        "errorMessage": "In Spanish: Please check the date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.dob.enter",
+        "errorMessage": "In Spanish: Please enter a date of birth.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.check",
+        "errorMessage": "In Spanish: Please check the email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.enter",
+        "errorMessage": "In Spanish: Please enter an email address.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.email.match",
+        "errorMessage": "In Spanish: Those email addresses don't match.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.id.enter",
+        "errorMessage": "In Spanish: Please enter an ID number.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.lastname.enter",
+        "errorMessage": "In Spanish: Please enter a last name.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.location.find",
+        "errorMessage": "In Spanish: We can't find that location.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.enter",
+        "errorMessage": "In Spanish: Please enter a password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.guide",
+        "errorMessage": "In Spanish: Create a better password using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.match",
+        "errorMessage": "In Spanish: Those passwords don't match.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.maxlength",
+        "errorMessage": "In Spanish: Password should not be more than 20 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.minlength",
+        "errorMessage": "In Spanish: Password should be at least 8 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.password.reenter",
+        "errorMessage": "In Spanish: Please re-enter the password.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.review.information",
+        "errorMessage": "In Spanish: Please review to make sure the information below is correct.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.secquestion.answer",
+        "errorMessage": "In Spanish: Please answer the security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.secquestion.select",
+        "errorMessage": "In Spanish: Please select a security question.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.enter",
+        "errorMessage": "In Spanish: Please create and enter a username.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.guide",
+        "errorMessage": "In Spanish: Create a better username using the 'i' guide.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.username.minlength",
+        "errorMessage": "In Spanish: Username should be at least 6 characters.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "reg.zip.enter",
+        "errorMessage": "In Spanish: Please enter a zip code.",
+        "errorTitle": ""
+    },
+    {
+        "errorCode": "sfvc.500.02",
+        "errorMessage": "El correo electrónico solo se puede actualizar una vez al día.",
+        "errorTitle": "No podemos actualizar su correo electrónico."
+    }
+]

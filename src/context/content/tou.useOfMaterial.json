@@ -1,0 +1,16 @@
+[
+    {
+        "content": "Use of material",
+        "type": "HEADER"
+    },
+    {
+        "content": "The contents of this Web Site are protected by copyright. The collective work of this Web Site may also include work that is the property of others, which work is also protected by copyright or other intellectual property laws. Unauthorized use may violate copyright, trademark, and other laws. Blue Cross NC and Amerigroup authorize you to view and download material on the Web Site solely for your own use. You must keep all copyright and other proprietary notices on any copies you make. You may not sell or modify the material or otherwise use it for any public or commercial purpose.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "You will not use this Web Site, in violation of any laws including without limitation, those pertaining to the fraud and abuse or anti-kickback provisions of the federal Medicare and Medicaid laws. Any advertisement, links with other web sites, co-hosts or references to third parties are not endorsements of such third parties’ products or services and are not intended to result in any referrals or compensation to you, Blue Cross NC or Amerigroup.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

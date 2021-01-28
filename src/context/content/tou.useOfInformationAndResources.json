@@ -1,0 +1,21 @@
+[
+    {
+        "content": "Use of information and resources",
+        "type": "HEADER"
+    },
+    {
+        "content": "Blue Cross NC and Amerigroup make this site available for the sole purposes of providing general educational information on health-related issues and providing access to health-related resources. This site and its health-related information and resources are not intended to be a substitute for professional medical advice or for the care that patients receive from their physicians. Nothing in this site is intended to be used for medical diagnosis or treatment. Always seek the advice of your physician before beginning any new treatment or if you have any questions regarding a medical condition. You should not disregard medical advice, or delay seeking medical advice, because of something you read in this site.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "This site and its health-related information and resources are not intended, and must not be taken, to be the rendering of medical, nursing, or professional health care advice or services, or the practice of medicine, nursing, or professional health care, in any jurisdiction. Additionally, Blue Cross NC and Amerigroup are not responsible for information provided by health information content providers, third party sites linked to or framed by the Web Site, or third-party sites, and does not make any representations regarding the content, accuracy, or timeliness of any of such information.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "By health-related information, we mean the health-related, medical, and wellness information available through the Web Site that includes, but is not limited to, text, graphics, video, and images; information created by health information content providers, licensors, suppliers, and other third parties; advertisements; and any other material, information or health information content accessible on third-party web sites to which the Healthy Blue website may have links.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

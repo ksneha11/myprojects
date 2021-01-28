@@ -1,0 +1,11 @@
+[
+    {
+        "content": "Provider finder",
+        "type": "HEADER"
+    },
+    {
+        "content": "Blue Cross NC and Amerigroup have made reasonable efforts to validate that its lists of providers displayed are up-to-date and accurate. Please call the provider prior to scheduling an appointment to verify that the provider continues to be part of the network. Blue Cross NC and Amerigroup shall not be liable for any losses, damages, or non-covered charges as a result of using the provider locator tool or receiving care from a provider listed in on our site.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

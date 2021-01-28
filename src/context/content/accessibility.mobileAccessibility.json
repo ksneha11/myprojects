@@ -1,0 +1,110 @@
+[
+    {
+        "content": "Mobile accessibility",
+        "type": "HEADER",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We test our apps to ensure they work for a variety of mobile devices and operating systems. Our features include:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Accessible Rich Internet Application (ARIA)] codes on every mobile web page to help users find information.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Web pages that support mobile screen readers.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Alternative text for applicable images and other non-text elements.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Semantic markup, using headings and lists, to show page structure.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Form fields with labels, so screen reader users can understand which fields they are filling out.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Error messages to help users correct information.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "ARIA attributes to help assistive aids communicate information about controls and links.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Data cells in data tables with their headers.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Page titles that clearly describe the purpose of each page.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "JavaScript and style sheets to enhance the look and functionality of our mobile apps and pages.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Logical swiping order for all links, buttons and other controls.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We welcome your feedback and suggestions. If you have any problems with our mobile applications or websites, please call us:\n",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "North Carolina Member Services",
+        "type": "SECTION_HEADER",
+        "weight": "BOLD"
+    },
+    {
+        "content": [
+            "%1 (TTY 711)\n",
+            {
+                "action": "8445945070",
+                "content": "(844) 594-5070",
+                "type": "PHONE_NUMBER"
+            }
+        ],
+        "type": "PARAGRAPH"
+    },
+    {
+        "content": [
+            "Learn more about [iOS] accessibility at:\n%1\n",
+            {
+                "action": "http://www.apple.com/accessibility/ios",
+                "content": "http://www.apple.com/accessibility/ios",
+                "type": "LINK"
+            }
+        ],
+        "type": "PARAGRAPH"
+    },
+    {
+        "content": [
+            "Learn more about [Android] accessibility at: %1",
+            {
+                "action": "http://support.google.com/accessibility/android",
+                "content": "http://support.google.com/accessibility/android",
+                "type": "LINK"
+            }
+        ],
+        "type": "PARAGRAPH"
+    }
+]

@@ -1,0 +1,3944 @@
+{
+    "androidCalendar": {
+        "currentMonth": {
+            "accessibilityLabel": "Current Month"
+        },
+        "nextMonth": {
+            "accessibilityLabel": "Next Month"
+        },
+        "previousMonth": {
+            "accessibilityLabel": "Previous Month"
+        },
+        "selectDate": {
+            "accessibilityLabel": "Select Date"
+        }
+    },
+    "accessibility": {
+        "navigator": {
+            "accessibility": "Accessibility",
+            "generalAccessibility": "General Accessibility",
+            "mobileAccessibility": "Mobile Accessibility",
+            "otherAccessibility": "Other Formats",
+            "pdfAccessibility": "PDF (Portable Document Format) Accessibility"
+        },
+        "subtitle": "We try to make sure our digital products can be used by everyone. Here's how:",
+        "title": {
+            "accessibility": "Accessibility",
+            "pdfAccessibility": "PDF Accessibility"
+        }
+    },
+    "addresses": {
+        "addAddressTextLink": "Add New Address",
+        "addAddressTextLinkAccessibilityLabel": "Add New Address",
+        "addressInformation": {
+            "accessibilityLabel": "Add a new address",
+            "addressField": {
+                "primaryLabel": "Address"
+            },
+            "addressFieldOptional": {
+                "addressFieldOptional": "(optional)",
+                "primaryLabel": "Address line 2"
+            },
+            "cityAndState": {
+                "city": "City",
+                "accessibilityLabel": "Select",
+                "state": "State"
+            },
+            "dropDownInitialValue": "Select",
+            "editAddressInfo": "The easiest way to make changes is to Add New. If that's not an option, or you need to delete, please call the Member Services number on your ID card.",
+            "errorMessages": {
+                "addressError": "Please enter a valid address",
+                "cityNameError": "Please enter a valid city",
+                "zipCodeError": "Please enter a valid ZIP code",
+                "stateError": "Please select a valid state"
+            },
+            "inputField": {
+                "address": "Address",
+                "addressLine2": "Address line 2",
+                "city": "City",
+                "state": "State",
+                "zipCode": "ZipCode"
+            },
+            "shippingInfo": "Make this your default shipping\naddress",
+            "shippingInfoEditDetail": "To change the default, turn on the default setting in another shipping address.",
+            "shippingInfoDetail": "Make this your default shipping address for all your orders, including Auto Refills.",
+            "state": {
+                "accessibilityLabel": "State",
+                "label": "State"
+            },
+            "addNewTitle": "Add a new address",
+            "editTitle": "Edit address",
+            "zipCode": {
+                "zipCodeLabel": "ZIP code"
+            }
+        },
+        "changeInfoLink": "How do I change this information?",
+        "changeInfoOverlay": {
+            "overlayText": "Please contact your benefit administrator to update your address. They’ll notify us of any changes.",
+            "overlayDismissText": "OK"
+        },
+        "needChanges": {
+            "accessibilityLabel": "Need to Make Changes?",
+            "label": "Need to Make Changes?"
+        },
+        "overlay": {
+            "primaryText": "OK"
+        },
+        "overlayContent": {
+            "addNew": "Add New",
+            "easiestWayToMakeChanges": "The easiest way to make changes is to %1.",
+            "ifNotAnOption": "If that's not an option, or you need to delete, please contact us or call our help desk at %1 %2, Monday-Friday, 8 a.m. to 8 p.m. ET.",
+            "phoneNumber": "1-XXX-XXX-XXXX",
+            "tty": {
+                "accessibilityLabel": "T T Y T D D 7 1 1",
+                "text": "(TTY/TDD: 711)"
+            }
+        },
+        "saveButtonText": "Save",
+        "sectionLabels": {
+            "accountAddressTitle": "Account Address",
+            "primaryAddressMissing": "The Primary address for your account is currently unavailable.",
+            "shippingAddressTitle": "Shipping Addresses"
+        },
+        "subtitle": "Set your default delivery address for all your orders, including Auto Refills.",
+        "title": "Addresses"
+    },
+    "automaticPaymentsDisabled": {
+        "youHaveUnenrolled": "You have unenrolled from automatic payments.",
+        "unerolledDisclaimer": "We will not automatically charge you for your specialty balance after today. You can set up automatic payments again or submit a one-time payment.",
+        "member": "Member:",
+        "status": "Status: Not enrolled",
+        "setUp": "Set Up",
+        "setUpAdditionalMembers": "Set up additional members for auto-payments",
+        "returnToHome": "Return to Home"
+    },
+    "appBiometrics": {
+        "biometryTypes": {
+            "faceid": "Face ID",
+            "fingerprint": "Fingerprint",
+            "touchid": "Touch ID",
+            "touchid/faceid": "Touch ID/Face ID"
+        },
+        "modalTypes": {
+            "primaryButtonTitle": "OK",
+            "secondaryButtonTitle": "Not Now",
+            "useBiometrics": "Yes",
+            "anotherAccountIsUsing": {
+                "primaryTitle": "Another account is using",
+                "bodyCopy": "can only be used to log in to one account. Please log in with a password."
+            },
+            "biometricsDisabled": {
+                "primaryButtonTitle": "Yes"
+            },
+            "biometricsFailed": {
+                "title": "Start by Adding a",
+                "primaryBodyCopy": "Please go to this",
+                "secondaryBodyCopy": "and then add a"
+            },
+            "enroll": {
+                "primaryBodyCopy": "Do you want to use",
+                "secondaryBodyCopy": "to securely login to the app?",
+                "primaryTitle": "Want to use",
+                "secondaryTitle": "?"
+            },
+            "optInFriendlyReminder": {
+                "primaryBodyCopy": "Friendly reminder: If someone else's",
+                "secondaryBodyCopy": "was added to this device, they'll be able to log in to the app as you.",
+                "primaryTitle": "Other",
+                "secondaryTitle": "s"
+            },
+            "optOut": {
+                "primaryBodyCopy": "If you change your mind, turn on",
+                "secondaryBodyCopy": "for this app in Profile under Login & Security.",
+                "title": "Not now"
+            },
+            "startAddingFingerprint": {
+                "title": "Start by adding a ",
+                "primaryBodyCopy": "Please go to this Phone's Settings, ",
+                "secondaryBodyCopy": " & Passcode, and then add a fingerprint."
+            }
+        }
+    },
+    "benefits": {
+        "callUsSection": {
+            "memberServicesNumber": "xxx-xxx-xxxx"
+        },
+        "headerSection": {
+            "header": "What you get",
+            "subheader": "This is just an overview of your benefits. For complete benefit information, please visit our %1 to view your member handbook.",
+            "subheaderLink": "",
+            "subheaderLinkText": "website"
+        },
+        "dentalCare": {
+            "content": "Your plan includes dental services.",
+            "title": "Dental Care"
+        },
+        "pharmacyCare": {
+            "content": "Many prescription and over-the-counter medicines are included in your plan.",
+            "title": "Pharmacy"
+        },
+        "medicalCare": {
+            "content": "Your benefits include doctor visits, labs and X-rays, hospitals stays and urgent care.",
+            "title": "Medical Care"
+        },
+        "visionCare": {
+            "content": "Your plan includes vision services.",
+            "title": "Vision Care"
+        },
+        "titleContainer": {
+            "title": "Benefits"
+        }
+    },
+    "bottomDrawer": {
+        "handler": {
+            "accessibilityClose": "Close bottom drawer",
+            "acessibilityExpand": "Expand bottom drawer"
+        }
+    },
+    "bottomNavRoutes": {
+        "home": "Home",
+        "idCard": "ID Card",
+        "findCare": "Find Care",
+        "more": "More",
+        "pharmacy": "Pharmacy"
+    },
+    "brandedHeader": {
+        "profileIcon": {
+            "accessibilityLabel": "Navigate to profile"
+        }
+    },
+    "callUsSection": {
+        "memberServicesNumber": "877-269-5707",
+        "tty": "(TTY 711)",
+        "title": "HAVE QUESTIONS? CALL US"
+    },
+    "changesNotSavedModal": {
+        "body": "These changes have not been saved. Continue without saving?",
+        "buttonContainer": {
+            "primaryButtonTitle": "Continue",
+            "secondaryButtonTitle": "Cancel"
+        },
+        "title": "Changes not saved",
+        "updates": {
+            "body": "These updates have not been saved. Continue without saving?",
+            "buttonContainer": {
+                "primaryButtonTitle": "Continue",
+                "secondaryButtonTitle": "No, Go Back"
+            },
+            "title": "Updates not saved"
+        }
+    },
+    "claims": {
+        "billedDetails": {
+            "accessibilityLabel": "View terms",
+            "averagePrice": "Average retail price:",
+            "clientPayAmount": "Insurance pays:",
+            "discountedPrice": "Our discounted price:",
+            "payAmount": "Your responsibility:",
+            "planSavings": "Plan savings:",
+            "planSavingsCalculation": "(Average retail price – your responsibility = plan savings)",
+            "planSavingsCalculationAccessible": "Average retail price minus your responsibility = plan savings",
+            "title": "Billed Details",
+            "viewTerms": {
+                "linkTitle": "View terms",
+                "text": "Need help with billing terms? "
+            }
+        },
+        "billingTerms": {
+            "discountedPrice": {
+                "title": "Our Discounted Price",
+                "text": "The price we negotiated to bring savings to you as an IngenioRx member."
+            },
+            "headerTitle": "Billing terms",
+            "insurancePays": {
+                "title": "Insurance Pays",
+                "text": "The amount your insurance plan paid the pharmacy for this medication."
+            },
+            "planSavings": {
+                "title": "Plan Savings",
+                "text": "The amount you saved by being an IngenioRx member. This savings is a result of our ability to negotiate better drug prices."
+            },
+            "retailPrice": {
+                "title": "Average Retail Price",
+                "text": "The average retail amount you’d pay if you didn’t have a pharmacy insurance benefit."
+            },
+            "yourResponsibility": {
+                "title": "Your Responsibility",
+                "text": "The amount you owe after any discounts, savings and plan payments have been applied."
+            }
+        },
+        "claimsCard": {
+            "card": {
+                "noRecentClaims": "You do not have any claims in the last 12 months.",
+                "title": "Recent Pharmacy Claims",
+                "footer": {
+                    "footerAccessibilityLabel": "View All Claims",
+                    "footerText": "View All Claims"
+                }
+            },
+            "claimItemContent": {
+                "dateOfBirth": "Date of birth: %1",
+                "forName": "For: %1",
+                "status": "Status:"
+            },
+            "iconContainer": {
+                "accessibilityLabel": "View Claim Details"
+            }
+        },
+        "claimDetails": {
+            "claimsContainer": {
+                "billedAmount": "Billed amount:",
+                "clientPayAmount": "Insurance pays:",
+                "dateOfBirth": "Date of birth: %1",
+                "forName": "For: %1",
+                "payAmount": "Your responsibility:",
+                "providedBy": "Provided by:",
+                "status": "Status:"
+            },
+            "claimNumber": "Claim number:",
+            "inNetwork": "In Network",
+            "network": "Network:",
+            "outNetwork": "Out of Network",
+            "subText": "We finished reviewing this claim and approved the claim under your plan.",
+            "text": "What does an approved claim mean?",
+            "title": "Claim Details"
+        },
+        "claimDetailsExpanded": {
+            "claimNumber": "Claim number:",
+            "inNetwork": "In Network",
+            "network": "Network:",
+            "outNetwork": "Out of Network",
+            "providedBy": "Provided by:"
+        },
+        "claimSearchBar": {
+            "search": "Search"
+        },
+        "claimStatusItem": {
+            "contentContainer": {
+                "billedAmount": "Billed amount:",
+                "clientPayAmount": "Insurance pays:",
+                "dateOfBirth": "Date of birth: %1",
+                "for": "For: %1",
+                "payAmount": "Your responsibility:",
+                "providedBy": "Provided by:",
+                "status": "Status:"
+            },
+            "iconContainer": {
+                "accessibilityLabel": "View Claim Details"
+            }
+        },
+        "content": {
+            "claimTitle": "Total Claims Covered",
+            "yearToDate": "Year to date since"
+        },
+        "disclaimer": {
+            "content": "Due to HIPAA privacy rules, some prescriptions may not appear on this page."
+        },
+        "navigator": {
+            "claimDetails": "Claim Details",
+            "claims": "Claims",
+            "claimsCovered": "Total Claims Covered"
+        },
+        "noClaims": {
+            "header": "No claims found?",
+            "mainText": "Can't find the claim you're looking for?",
+            "subText": "We'll need some time to process the claim before it shows up here.",
+            "text": "Try filtering by a longer date range to \nsearch for older claims."
+        },
+        "numberOfClaims": {
+            "claimText": "%1 claim",
+            "claimsText": "%1 claims",
+            "defaultText": "12 months",
+            "mainText": "Can't find a specific claim? ",
+            "subText": "We'll need some time to process the claim before it shows up here.",
+            "text": "You have %1 in the last %2."
+        },
+        "prescription": {
+            "accessibilityLabel": "Manage Your Refills?",
+            "daySupply": "Day supply:",
+            "manageRefill": "Manage Your Refills",
+            "medicine": "Medicine:",
+            "prescribedBy": "Prescribed by:",
+            "refillLeft": "Refill left:",
+            "rxNumber": "Rx:",
+            "title": "Prescription Details",
+            "quantity": "Quantity:"
+        },
+        "totalClaimsCovered": {
+            "clientPayAmount": "Insurance pays:",
+            "payAmount": "Your responsibility:",
+            "totalClaims": {
+                "claimTitle": "Total Claims Covered",
+                "yearToDate": "Year to date since"
+            }
+        }
+    },
+    "collapsible": {
+        "collapsed": {
+            "accessibilityLabel": "collapsed",
+            "accessibilityHint": "Double tap to expand"
+        },
+        "expanded": {
+            "accessibilityLabel": "expanded",
+            "accessibilityHint": "Double tap to collapse"
+        }
+    },
+    "common": {
+        "preceedingQuestionMark": "",
+        "succeedingQuestionMark": "?"
+    },
+    "contactInformation": {
+        "accountRecoveryNumber": {
+            "addAccountRecovery": {
+                "screenTitle": "Add an account recovery number",
+                "subHeading": "Please enter the new number you want us to send security codes to. Must be a landline or US cell phone."
+            },
+            "editAccountRecovery": {
+                "screenTitle": "Edit your account recovery number",
+                "subHeading": "This is your account recovery number that will only be used to help you get back into your account if you ever forget your password.",
+                "phoneNumberInputTitle": "Account Recovery Number"
+            },
+            "backButtonText": "Back",
+            "cancelButtonText": "Cancel",
+            "noNumberFound": "Add an Account Recovery Number",
+            "radioOptionVoice": "Voice",
+            "radioOptionText": "Text",
+            "saveButtonText": "Save",
+            "screenTitle": "Your account recovery number",
+            "sectionHeader": "ACCOUNT RECOVERY NUMBER",
+            "sectionHeaderVoice": "ACCOUNT RECOVERY VOICE NUMBER",
+            "sectionHeaderText": "ACCOUNT RECOVERY TEXT NUMBER",
+            "subHeading": "This is your account recovery number that will only be used to help you get back into your account if you ever forget your password.",
+            "successMessage": "You have updated your account with a new account recovery number.",
+            "successTitle": "Success!"
+        },
+        "emailAddress": {
+            "accountEmailSectionHeader": "ACCOUNT EMAIL ADDRESS",
+            "accountPharmacyEmailSectionHeader": "PHARMACY EMAIL ADDRESS",
+            "addEmailAddress": {
+                "addBannerPharmacyEmail": "You added a Pharmacy email address",
+                "confirmPharmacyAccount": "Confirm Pharmacy Email Address",
+                "intialPharmacyAddress": "Pharmacy Email Address",
+                "pharmacyScreenTitle": "Add pharmacy email address",
+                "pharmacySubheading": "This is the address used for your pharmacy communications.",
+                "screenTitle": "Add account email address"
+            },
+            "editEmailAddress": {
+                "accountEmailAdress": "Account Email Address",
+                "cancel": "Cancel",
+                "confirmEmailAddress": "Confirm Account Email Address",
+                "confirmPharmacyEmailAddress": "Confirm Pharmacy Email Address",
+                "editBannerPharmacyEmail": "You updated your Pharmacy email address",
+                "intialPharmacyAddress": "Pharmacy Email Address",
+                "pharmacyScreenTitle": "Edit pharmacy email address",
+                "pharmacySubheading": "This is the address used for your pharmacy communications.",
+                "save": "Save",
+                "screenTitle": "Edit account email address",
+                "subHeading": "You may change or edit your account email address below"
+            },
+            "noAccountEmailAddressFound": "Add Account Email Address",
+            "noPharmacyEmailAddressFound": "Add Pharmacy Email Address",
+            "screenTitle": "Your email addresses",
+            "subHeading": "These are the email addresses we will contact you at.",
+            "successMessage": "You have updated your account email with a new email address.",
+            "successTitle": "Success!"
+        },
+        "menuItems": {
+            "accountRecoveryNumber": "Account Recovery Number",
+            "emailAddresses": "Email Address",
+            "physicalAddresses": "Physical Addresses",
+            "textNumbers": "Text Numbers",
+            "voiceNumbers": "Voice Number"
+        },
+        "physicalAddresses": {
+            "addresses": {
+                "home": {
+                    "label": "HOME ADDRESS",
+                    "notOnFile": "No home address on file"
+                },
+                "mailing": {
+                    "label": "MAILING ADDRESS",
+                    "notOnFile": "No mailing address on file"
+                }
+            },
+            "header": {
+                "heading": "Your physical addresses",
+                "subHeading": "Your home and mailing addresses are below."
+            },
+            "linkToPortal": "How do I make other updates?",
+            "title": "Physical Addresses"
+        },
+        "screenTitle": "How can Amerigroup reach me?",
+        "subHeading": "View and update your contact information."
+    },
+    "contactInfoVoiceNumbers": {
+        "accountPharmacyNumber": "Pharmacy Voice Number",
+        "accountVoiceNumber": "ACCOUNT VOICE NUMBER",
+        "addAccountVoiceNumber": "Add Account Voice Number",
+        "addPharmacyVoiceNumber": "Add Pharmacy Voice Number",
+        "addVoiceNumberView": {
+            "accountVoiceNumberInputFieldTitle": "Account Voice Number",
+            "heading": "Add account voice number",
+            "cancel": "Cancel",
+            "save": "Save",
+            "subHeading": "This is the phone number used for your account information",
+            "success": "You have updated your account voice number with a new phone number."
+        },
+        "cancel": "Cancel",
+        "editAccountVoiceNumber": "Edit account voice number",
+        "editVoiceNumberView": {
+            "accountVoiceNumberInputFieldTitle": "Account Voice Number",
+            "heading": "Edit account voice number",
+            "cancel": "Cancel",
+            "save": "Save",
+            "subHeading": "This is the phone number used for your account information",
+            "success": "You have updated your account voice number with a new phone number."
+        },
+        "addPharmacyVoiceNumberView": {
+            "inputField": "Pharmacy Voice Number",
+            "buttonRow": {
+                "cancel": "Cancel",
+                "submit": "Save"
+            },
+            "subeading": "This is the phone number used for your pharmacy information.",
+            "title": "Add pharmacy voice number",
+            "validNumber": "Please provide a valid phone number.",
+            "success": "You added a Pharmacy Voice Number."
+        },
+        "editPharmacyVoiceNumberView": {
+            "title": "Edit pharmacy voice number",
+            "success": "You updated a Pharmacy Voice Number"
+        },
+        "save": "Save",
+        "screenTitle": "Your voice number",
+        "subHeading": "This is the phone number used for your account information",
+        "subtitle": "These are the voice numbers we will use to contact you about your account and pharmacy information.",
+        "voicePharmacyNumber": "PHARMACY VOICE NUMBER"
+    },
+    "contactUs": {
+        "howToReach": {
+            "emailAddress": "MPSWebInquiries.Inquiries@amerigroup.com",
+            "emailPhone": "We can be reached via email at %1 or you can reach us by telephone at %2.",
+            "mailingAddress": {
+                "content": "4425 Corporation Lane\nVirginia Beach, VA 23462",
+                "title": "Our mailing address is:"
+            },
+            "phone": "757-490-6900"
+        },
+        "title": "How to contact us"
+    },
+    "emailAddress": {
+        "screenTitle": "Your email address",
+        "subHeading": "This is  the email addresses we will contact you at.",
+        "sectionHeader": "Account Email Address"
+    },
+    "dashboard": {
+        "benefitsCarousel": {
+            "dentalCare": {
+                "content": "Your plan includes dental services.",
+                "title": "Dental Care"
+            },
+            "medicalCare": {
+                "content": "Your benefits include doctor visits, labs and X-rays, hospitals stays and urgent care.",
+                "title": "Medical Care"
+            },
+            "pharmacyCare": {
+                "content": "Many prescription and over-the-counter medicines are included in your plan.",
+                "title": "Pharmacy Benefits"
+            },
+            "visionCare": {
+                "content": "Your plan includes vision services.",
+                "title": "Vision Care"
+            }
+        },
+        "benefitsHeader": "Your Benefits",
+        "findCare": {
+            "content": "Helping you get the care that you need",
+            "title": "Find Care"
+        },
+        "idCard": {
+            "content": "View your digital ID card",
+            "title": "ID Card"
+        },
+        "memberInfo": {
+            "memberId": "Member ID: %1",
+            "renewalDate": "Renewal Date: %1"
+        },
+        "pharmacy": {
+            "content": "View and manage your prescriptions, see your account balance, and more.",
+            "deeplinkedContent": "Check your available prescriptions on our website",
+            "title": "Pharmacy"
+        },
+        "partialErrorMessage": "We’re sorry. Due to a system error, we're not able to show all of your prescriptions. Please try again later. If the problem continues, please call the Member Services number on your ID card.",
+        "renewalSoon": {
+            "content": "You need to renew your benefits soon. Learn more about renewal.",
+            "title": "Renewal Due Soon"
+        },
+        "welcomeBanner": {
+            "subtext": "With all your regular benefits, plus extras just for our members, we make getting to the doctor and living healthy a little easier.",
+            "title": "Welcome %1,"
+        }
+    },
+    "datePicker": {
+        "done": "Done",
+        "navigationDates": {
+            "goBackOneDayAccessibilityLabel": "Change date back by one day",
+            "goForwardOneDayAccessibilityLabel": "Change date forward by one day"
+        },
+        "rightIconAccessibilityLabel": "Select Date"
+    },
+    "deliveryDateCard": {
+        "datePicker": {
+            "accessibilityLabel": "Choose a delivery date",
+            "placeholder": "Select date",
+            "title": "Select a date"
+        },
+        "textContent": {
+            "subText": "Select a delivery date for your specialty prescriptions."
+        },
+        "title": "Delivery Date"
+    },
+    "dropDown": {
+        "done": "Done",
+        "item": {
+            "accessibilityLabel": "%1. Press to select option %2.",
+            "notSelected": "Not selected",
+            "selected": "Selected"
+        },
+        "selectedField": {
+            "accessibilityLabel": "Press to select a new option. Currently selected: %1"
+        }
+    },
+    "editDosage": {
+        "amountErrorMessage": "Please enter a valid whole number as amount",
+        "amountLabel": "Amount",
+        "cancelButton": "Cancel",
+        "daily": "Daily",
+        "frequencyLabel": "Frequency",
+        "monthly": "Monthly",
+        "supplyNeededErrorMessage": "Please enter a valid whole number as supply needed",
+        "supplyNeededLabel": "Supply needed (in days)",
+        "title": "Amount and Frequency",
+        "updateButton": "Update",
+        "weekly": "Weekly"
+    },
+    "errorBanner": {
+        "defaultText": "Sorry, something went wrong and we couldn’t display your prescriptions. Please try again.",
+        "primaryButton": "Try Again",
+        "secondaryButton": "Dismiss"
+    },
+    "errorModal": {
+        "errorMessageTitle": "Something Went Wrong",
+        "primaryText": "OK"
+    },
+    "filters": {
+        "filters": "Filters",
+        "headerRightText": "Done",
+        "reset": "Reset"
+    },
+    "findCare": {
+        "headerSection": {
+            "header": "What kind of care do you need?",
+            "subheader": "Let’s get you to the right place. Select the type of care you need."
+        },
+        "menu": {
+            "changePcp": {
+                "subtitle": "Go to our full website to change your PCP",
+                "title": "Change Primary Care Physician"
+            },
+            "communityResources": {
+                "subtitle": "Find free or low-cost services",
+                "title": "Community Resources"
+            },
+            "doctorsHospitals": {
+                "subtitle": "Search for a provider",
+                "title": "Find Doctors and Hospitals"
+            },
+            "findPharmacy": {
+                "subtitle": "Locate a pharmacy near you",
+                "title": "Find a Pharmacy"
+            },
+            "nurse": {
+                "subtitle": "24-hour Nurse HelpLine",
+                "title": "Talk to a Nurse"
+            },
+            "symptomChecker": {
+                "subtitle": "Not feeling well? Check your symptoms",
+                "title": "Check My Symptoms"
+            }
+        },
+        "talkToNurse": {
+            "title": "Talk to a Nurse"
+        },
+        "title": "Find Care"
+    },
+    "findPharmacy": {
+        "features": {
+            "bloodPressureScreening": "Blood Pressure Screening",
+            "compoundMedications": "Compound Medications",
+            "driveThru": "Drive Thru",
+            "durableMedicalEquipment": "Durable Medical Equipment",
+            "fluShots": "Flu Shots",
+            "onsiteMedicalClinic": "Onsite Medical Clinic",
+            "prescriptionDeliveryService": "Prescription Delivery",
+            "retail90": "Retail 90",
+            "rxMaintenance90": "Rx Maintenance 90",
+            "vaccinations": "Vaccinations"
+        }
+    },
+    "formField": {
+        "accessibilityLabel": "Text field, tap to edit",
+        "isDisabledText": "Disabled"
+    },
+    "formFieldValidator": {
+        "validatorItem": {
+            "matchedCondition": "Matched condition",
+            "unmatchedCondition": "Unmatched condition"
+        }
+    },
+    "formView": {
+        "isDisabledText": " Disabled"
+    },
+    "frequentQuestions": {
+        "headerSection": {
+            "header": "Frequent questions"
+        },
+        "questions": {
+            "a": "A:  ",
+            "contactUsNumber": {
+                "answer": {
+                    "content": "Call Member Services at %1 (TTY 711). We’re happy to help answer any questions.",
+                    "number": ""
+                },
+                "question": "I have a question about the mobile app or my benefits. Who should I call?"
+            },
+            "getUsernamePassword": {
+                "answer": {
+                    "content": "You can %1 or go to our %2",
+                    "goToWebsite": "full website.",
+                    "register": "register here",
+                    "websiteLink": ""
+                },
+                "question": "How do I get a username and password?"
+            },
+            "q": "Q:  ",
+            "wheresMyDoctor": {
+                "answer": {
+                    "content": "Your doctor may not be in the plan you searched. Call your doctor to ask if they accept your plan."
+                },
+                "question": "Why doesn’t my doctor show up in the search results?"
+            },
+            "useUsernamePassword": {
+                "answer": {
+                    "content": "Yes! Please use it here. No need to register again."
+                },
+                "question": "I already have a username and password from your full website. Can I use it here?"
+            }
+        }
+    },
+    "fup": {
+        "accountRecovery": {
+            "form": {
+                "newPassword": "New password",
+                "confirmNewPassword": "Confirm new password"
+            },
+            "loginLink": {
+                "bodyCopy": "If you remember your password, please %1",
+                "login": "continue to log in."
+            },
+            "screenTitle": "We found you",
+            "subHeading": "Username",
+            "subTitle": "Forgot your password?",
+            "successModal": {
+                "bodyCopy": "Please continue to login to see your password.",
+                "primaryButtonTitle": "Log In",
+                "title": "Password updated"
+            }
+        },
+        "answerSecurityQuestion": {
+            "buttonContainer": {
+                "primaryButtonTitle": "Continue",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "questionInput": {
+                "errorMessage": "Please provide a valid answer"
+            },
+            "screenTitle": "Keep your account safe",
+            "subHeading": "If you don't remember the answer to this question, please call Member Services for help. Their number is on the back of your member ID card."
+        },
+        "findUser": {
+            "forgotPassword": {
+                "screenTitle": "Don't worry, it happens.",
+                "subHeading": "We can help you get a new password. First, help us find your account."
+            },
+            "forgotUsername": {
+                "screenTitle": "Don't worry, it happens.",
+                "subHeading": "We can find your username for you. First, help us find your account."
+            },
+            "screenTitle": "Don't worry, it happens.",
+            "subHeading": "Help us find your account and verify your identity."
+        },
+        "navigator": {
+            "accountFound": "Account Found",
+            "answerSecurityQuestion": "Answer Your Security Question",
+            "defaultTitle": "Forgot Username or Password",
+            "findUser": "Forgot Username or Password",
+            "twoFa": "One-Time Security Code",
+            "securityCode": "Security Code"
+        }
+    },
+    "idCard": {
+        "accessibilityLabel": "ID Card",
+        "back": {
+            "accessibilityLabel": "View back of card fullscreen",
+            "header": "Back of Card"
+        },
+        "front": {
+            "accessibilityLabel": "View front of card fullscreen",
+            "header": "Front of Card"
+        },
+        "modal": {
+            "closeIcon": {
+                "accessibilityLabel": "Close ID card fullscreen"
+            }
+        },
+        "title": "ID Card",
+        "viewFullScreen": "View Full Screen"
+    },
+    "inAppBrowser": {
+        "navBar": {
+            "accessibilityLabels": {
+                "backLabel": "Back to app",
+                "backBrowser": "Go back a page in the browser",
+                "forwardBrowser": "Go forward a page in the browser"
+            },
+            "back": "Back"
+        }
+    },
+    "infoModal": {
+        "accessibilityLabel": "More information on",
+        "primaryText": "OK"
+    },
+    "inlineAlert": {
+        "confirm": {
+            "accessibilityLabel": "Alert confirm icon"
+        },
+        "info": {
+            "accessibilityLabel": "Alert info icon"
+        },
+        "warning": {
+            "accessibilityLabel": "Alert warning icon"
+        }
+    },
+    "listExpandable": {
+        "accessibilityLabelCollapse": "Double tap to collapse",
+        "accessibilityLabelExpand": "Double tap to expand"
+    },
+    "listItem": {
+        "renderRightColumn": {
+            "accessibilityLabel": "Double tap to select"
+        }
+    },
+    "liveChat": {
+        "chatNotAvailableContainer": {
+            "contactUs": "Contact Us",
+            "contactUsAccessible": "Contact us, double tap to navigate to contact us screen.",
+            "errorMessage": "Chat isn’t available",
+            "helpMessage": "Chat isn’t available at this time. Please visit %1 for other ways to get help."
+        },
+        "confirmLeaveChatDialog": {
+            "bodyText": "You’ll lose the transcript of this conversation if you end the chat.",
+            "primaryText": "Continue Chat",
+            "secondaryText": "Close Chat",
+            "title": "Are you sure you want to end your chat?"
+        },
+        "introMessage": {
+            "disclaimerContent": "This chat and its contents may be transferred to other representatives at their sole discretion. This may include transferring sensitive information discussed in this chat.",
+            "emergencyHelp": "If this is an emergency, please call 911.",
+            "name": "Hi, %1!",
+            "privacyPolicy": "Privacy Policy",
+            "privacyPolicyAccessible": "Privacy Policy, double tap to navigate to privacy policy.",
+            "termsOfUse": "Terms of Use.",
+            "termsOfUseAccessible": "Terms of Use, double tap to navigate to terms of use.",
+            "thanksMessage": "Thank you for choosing to chat with us. A representative will be with you shortly.",
+            "touContent": "%1 and %2",
+            "transcriptMessage": "You’ll be able to view a transcript of this chat once your session is over."
+        },
+        "participantJoined": {
+            "agentJoined": "You are now chatting with %1."
+        },
+        "participantLeft": {
+            "disconnect": "Your chat with %1 has ended."
+        },
+        "transferAgent": {
+            "agentLeft": "We need to transfer you to a new agent. Transferring now."
+        },
+        "replyContainer": {
+            "placeholderText": "Type your reply here",
+            "sendButtonAccessible": "Send"
+        }
+    },
+    "login": {
+        "appName": "",
+        "brandLogo": {
+            "accessibilityLabel": ""
+        },
+        "forgotUsernameOrPassword": "Forgot Username or Password?",
+        "formFieldErrorMessage": {
+            "passwordErrorMessage": "Please enter a password",
+            "usernameErrorMessage": "Please enter a username"
+        },
+        "fup": {
+            "createNewPassword": {
+                "buttons": {
+                    "cancel": "Cancel",
+                    "signIn": "Sign In",
+                    "update": "Update"
+                },
+                "forgotUsernameLink": {
+                    "accessibilityLabel": "Forgot username?",
+                    "forgot": "Forgot",
+                    "password": "Username"
+                },
+                "inputs": {
+                    "confirmPassword": "Confirm Password",
+                    "password": "New Password"
+                },
+                "title": "Hello,",
+                "newPasswordMessage": "Please create a new password for your account.",
+                "passwordErrorModal": {
+                    "bodyText": "Please reenter your password and try again. If you keep having a problem, please call the Member Services number on your ID card.",
+                    "primaryButtonTitle": "OK",
+                    "title": "Hmmm… Looks like there’s a problem."
+                }
+            },
+            "displayUsername": {
+                "button": "Sign In",
+                "forgotPasswordLink": {
+                    "accessibilityLabel": "Forgot password?",
+                    "forgot": "Forgot",
+                    "password": "password"
+                },
+                "title": "Hello, ",
+                "usernameMessage": "Here's your username:"
+            },
+            "forgot": "Forgot",
+            "forgotUsername": {
+                "accessibilityLabel": "Forgot username?"
+            },
+            "forgotPassword": {
+                "accessibilityLabel": "Forgot password?",
+                "successAlert": "Done! Sign in with your new password."
+            },
+            "or": "or",
+            "username": "Username",
+            "password": "Password?"
+        },
+        "inactivityModal": {
+            "body": "This is to protect your privacy",
+            "primaryButton": "Log In",
+            "title": "We logged you out."
+        },
+        "jailbreakAlert": {
+            "title": "We're sorry",
+            "bodyAndroid": "We do not support rooted phones so our app will not work on this device.",
+            "bodyIOS": "We do not support jailbroken phones so our app will not work on this device.",
+            "primaryButton": "OK"
+        },
+        "mandatoryUpdateModal": {
+            "body": "To continue please download the latest version of the app.",
+            "primaryButton": "Update",
+            "title": "We've updated the app"
+        },
+        "notSignedUp": "Not signed up?",
+        "password": "Password",
+        "passwordPlaceholder": "Enter password",
+        "register": "Register Here",
+        "registration": {
+            "toContinue": "Please sign in to continue.",
+            "notSignedUp": "Not signed up?",
+            "now": "now.",
+            "register": "Register Here",
+            "welcome": "Welcome"
+        },
+        "rememberUsername": "Remember my username",
+        "submitButton": "Log In",
+        "title": "Log In",
+        "username": "Username",
+        "usernamePlaceholder": "Enter username"
+    },
+    "loginSecurity": {
+        "passwordPlaceholder": "Enter Password",
+        "passwordVerification": {
+            "primaryButton": "Submit",
+            "secondaryButton": "Cancel",
+            "subText": "Please re-enter your password so we know it's you.",
+            "title": "Password Verification",
+            "passwordMismatchErrorMessage": "This password is incorrect. Please try again."
+        }
+    },
+    "maskableFormfield": {
+        "maskOffIcon": {
+            "acessibilityLabel": "%1 unmasked, tap to mask",
+            "unselected": "unselected"
+        },
+        "maskOnIcon": {
+            "acessibilityLabel": "%1 masked, tap to unmask",
+            "unselected": "unselected"
+        }
+    },
+    "messageCenter": {
+        "endOfMessages": "End of messages",
+        "headerTitle": {
+            "compose": "Compose",
+            "folders": "Folders",
+            "sort": "Sort"
+        }
+    },
+    "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "moreMenuCold": {
+        "appVersion": "App Version",
+        "backButton": "Back",
+        "languages": {
+            "title": {
+                "header": "App language"
+            },
+            "languageOptions": {
+                "english": "English",
+                "spanish": "Spanish"
+            },
+            "loginContinue": {
+                "content": "Please %1 to continue.",
+                "link": "log in"
+            }
+        },
+        "manageHealthcare": {
+            "findADoctor": "Find a Doctor",
+            "title": "MANAGE HEALTHCARE"
+        },
+        "navigator": {
+            "defaultTitle": "More",
+            "frequentQuestions": "Frequent Questions",
+            "languages": "App Language",
+            "termsOfUse": "Terms of Use",
+            "privacyPolicy": "Privacy Policy"
+        },
+        "support": {
+            "aboutUs": "About Us",
+            "accessibility": "Accessibility",
+            "appLanguage": "App Language",
+            "frequentQuestions": "Frequent Questions",
+            "legalDisclaimers": "Legal Disclaimers",
+            "nondiscrimination": "Nondiscrimination",
+            "privacyPolicy": "Privacy Policy",
+            "title": "SUPPORT",
+            "tou": "Terms of Use",
+            "visitWebsite": "Visit Our Full Website",
+            "wasteFraudAbuse": "Waste, Fraud and Abuse"
+        },
+        "title": "More"
+    },
+    "moreMenuHot": {
+        "manageHealthcare": {
+            "benefits": "Benefits",
+            "findCare": "Find Care",
+            "pharmacy": "Pharmacy",
+            "profile": "Profile",
+            "title": "MANAGE HEALTHCARE"
+        },
+        "support": {
+            "aboutApp": "About Our App",
+            "appLanguage": "App Language",
+            "contactUs": "Contact Amerigroup",
+            "frequentQuestions": "Frequent Questions",
+            "logout": "Log Out",
+            "messagesToUs": "Messages To Us",
+            "privacyPolicy": "Privacy Policy",
+            "requestACall": "Request a Call",
+            "title": "SUPPORT",
+            "tou": "Terms of Use",
+            "wasteFraudAbuse": "Waste, Fraud and Abuse"
+        },
+        "title": "More Menu"
+    },
+    "numberWords": {
+        "first": [
+            "",
+            "one ",
+            "two ",
+            "three ",
+            "four ",
+            "five ",
+            "six ",
+            "seven ",
+            "eight ",
+            "nine ",
+            "ten ",
+            "eleven ",
+            "twelve ",
+            "thirteen ",
+            "fourteen ",
+            "fifteen ",
+            "sixteen ",
+            "seventeen ",
+            "eighteen ",
+            "nineteen "
+        ],
+        "tens": ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+        "bigNumberSuffix": ["", "thousand", "million", "billion", "trillion"]
+    },
+    "onboard": {
+        "accessibilityLabel": {
+            "close": "Close onboarding"
+        },
+        "close": "Close",
+        "next": "Next",
+        "onboardingPages": {
+            "bottomNavigation": {
+                "bottomNavigationTitle": "Menu bar on every screen",
+                "bottomNavigationMessage": "We’ve added a simple menu bar to the bottom of every screen. View your ID card, find care or use the “more” button to see other options. The home button takes you back to your dashboard."
+            },
+            "completeYourMedicalProfile": {
+                "completeYourMedicalProfileTitle": "Complete your medical profile",
+                "completeYourMedicalProfileMessage": "You’ll need to answer a few questions about your medical history before you can place your first order. This will only take a few minutes.",
+                "fillOutYourMedicalProfileLink": "Fill out your medical profile"
+            },
+            "dashBoardIntroduction": {
+                "dashBoardIntroductionTitle": "Easy-to-use dashboard",
+                "dashBoardIntroductionMessage": "We’ve put the most used features right up front on your dashboard."
+            },
+            "getNotifications": {
+                "getNotificationTitle": "Get notifications",
+                "getNotificationMessage": "Set your communications preferences and we’ll alert you when your prescriptions are processed and shipped.",
+                "setYourAlertPreferencesLink": "Set your alert preferences"
+            },
+            "findCare": {
+                "findCareTitle": "Find care",
+                "findCareMessage": "Go here to quickly and easily find doctors and other providers nearby. You can also call the 24/7 NurseLine to speak with a nurse."
+            },
+            "pharmacyBenefitsTitle": "Introducing pharmacy benefits",
+            "refillAndRenew": {
+                "refillAndRenewTitle": "Refill and renew your medications",
+                "refillAndRenewMessage": "View which of your prescriptions are eligible for a refill and place your order.",
+                "refillAndRenewContent": "If a prescription needs to be renewed, tap “renew now” next to the medicine name and we’ll take care of the rest. "
+            },
+            "welcomeTitle": "Welcome to your new app experience!",
+            "WelcomeToOurApp": "Welcome to our app!"
+        },
+        "previous": "Previous"
+    },
+    "payAccountBalance": {
+        "paymentHistory": {
+            "noPaymentHistoryTitle": "You don't have any activity or payments for the past 12 months.",
+            "order": "Order #:",
+            "specialty": "Specialty",
+            "title": "Your activity for the past 12 months.",
+            "viewOrder": "View Order"
+        }
+    },
+    "paymentCard": {
+        "expiredCard": "Your card has expired. Please update.",
+        "footer": {
+            "accessibilityHint": "Add or select new payment method",
+            "accessibilityLabel": "Change Payment Method",
+            "addPayment": "Add Payment",
+            "changePayment": "Change"
+        },
+        "noDefaultPayment": "You don't have a default payment method on file.",
+        "noPaymentMethod": "You don’t have a payment method on file.",
+        "noPrimaryMethod": "You don't have a primary payment method on file.",
+        "paymentNotNecessary": "Payment is not needed for this order.",
+        "title": "Payment Method"
+    },
+    "pharmacy": {
+        "addresses": {
+            "headerText": "Select a shipping address for this order, or add a new one."
+        },
+        "abstractManageAuto": {
+            "primaryButtonText": {
+                "canCompleteEnrollment": "Complete Enrollment",
+                "cannotCompleteEnrollment": "Next"
+            },
+            "shippingAddressErrorText": "This order can't be shipped to a P.O. box because of your cold pack prescription."
+        },
+        "actionablePrescriptionItem": {
+            "autoEnrollmentContainer": {
+                "enrollInAutoRefill": "Enroll in Auto Refill",
+                "enrollInAutoRenew": "Enroll in Auto Renew",
+                "manageAutoRefill": "Manage Auto Refill",
+                "manageAutoRenew": "Manage Auto Renew"
+            },
+            "selectActionContainer": {
+                "accessibilityLabel": "Select to add or remove %1 from the cart"
+            },
+            "isSensitiveAlert": "To order a refill, please call the member services number on your id card."
+        },
+        "addPaymentMethod": {
+            "billingAddress": "Billing Address",
+            "paymentTypes": {
+                "bankAccount": "BANK ACCOUNT",
+                "creditCard": "CREDIT CARD"
+            },
+            "title": "Add a new payment method"
+        },
+        "addressRadioSelector": {
+            "actionAccessibilityLabels": {
+                "defaultActionAccessibilityLabel": "Edit Default address",
+                "nonDefaultActionAccessibilityLabel": "Edit address"
+            },
+            "contentAccessibilityLabel": "%1, %2, %3 %4",
+            "default": {
+                "defaultText": "Default",
+                "isDefaultAccessibility": "Default used for auto refill",
+                "notDefaultAccessibility": "Set as default"
+            },
+            "edit": "Edit"
+        },
+        "automaticPaymentsEnabledSpecialty": {
+            "enrollmentInfo": {
+                "chargeBalanceLimit": "Charge me the full balance up to %1",
+                "chargeBalanceLimitImmediate": "Charge me the full balance up to %1 %2",
+                "chargeFullBalance": "Charge me the full balance",
+                "chargeMe": "Charge me %1",
+                "everyNthOfTheMonth": "monthly every %1 of the month",
+                "expirationDate": "Expires %1",
+                "firstPaymentDate": "First payment date: %1",
+                "paymentMethod": "Payment method",
+                "specialtyOrderDate": "on the date a specialty order is processed",
+                "title": "Automatic Payment Settings"
+            },
+            "formView": {
+                "primaryButtonText": "Return to Home"
+            },
+            "memberInfo": {
+                "memberName": "Member: %1"
+            },
+            "setUpAdditionalMembers": {
+                "textLink": "Set up additional members for auto-payments"
+            },
+            "successContent": {
+                "subTitle": "You're enrolled to use automatic payments for your specialty pharmacy account balance.",
+                "title": "Success!"
+            }
+        },
+        "autoRefill": {
+            "autoRefillSubText": "Once you enroll, you won't be able to order a refill for 3-4 weeks. If you're running low, use Refill & Enroll.",
+            "autoRefillTitle": "Do you need a refill now?",
+            "prescriptionItem": {
+                "prescribedTo": "For: %1 %2"
+            },
+            "refillAndEnrollRadio": {
+                "enroll": {
+                    "accessibilityText": ". Estimate delivery 3 to 4 weeks",
+                    "text": "Est. delivery 3-4 weeks",
+                    "title": "Enroll"
+                },
+                "refillAndEnroll": {
+                    "accessibilityText": ". Estimate delivery 3 to 5 days",
+                    "text": "Est. delivery 3-5 days",
+                    "title": "Refill & Enroll"
+                }
+            },
+            "textLinkText": "Cancel"
+        },
+        "autoRenew": {
+            "autoRefillSubText": "When you enroll in Auto Renew, it will take 2 to 3 weeks to get your first refill. If you're running low on your medication now, use Renew & Enroll to get a refill sooner.",
+            "autoRefillTitle": "Do you need a refill now?",
+            "prescriptionItem": {
+                "prescribedTo": "For: %1 %2"
+            },
+            "refillAndEnrollRadio": {
+                "enroll": {
+                    "accessibilityText": ". Estimate delivery 3 to 4 weeks",
+                    "text": "Est. delivery 3-4 weeks",
+                    "title": "Enroll"
+                },
+                "refillAndEnroll": {
+                    "accessibilityText": ". Estimate delivery 3 to 5 days",
+                    "text": "Est. delivery 3-5 days",
+                    "title": "Renew & Enroll"
+                }
+            },
+            "textLinkText": "Cancel"
+        },
+        "bankAccountForm": {
+            "accountNumberContainer": {
+                "accessibilityLabel": "Account Number Textbox",
+                "label": "Account number"
+            },
+            "accountNumberDetails": "Account number",
+            "accountNumberError": {
+                "accountNumberEmpty": "Please enter an account number.",
+                "accountNumberLength": "Account number should have 4-20 digits."
+            },
+            "accountTypeContainer": {
+                "checkingAccount": "Checking Account",
+                "savingsAccount": "Savings Account",
+                "title": "Type of bank account"
+            },
+            "accountTypeDetails": "Type of bank account",
+            "changeBankAccountType": "Please choose a type of bank account.",
+            "exampleContainer": "Example",
+            "primaryButtonText": "Save",
+            "routingNumberContainer": {
+                "accessibilityLabel": "Routing Number Textbox",
+                "label": "Routing number"
+            },
+            "routingNumberDetails": "Routing Number",
+            "routingNumberError": {
+                "routingNumberEmpty": "Please enter a routing number.",
+                "routingNumberLength": "Routing number should have 9 digits."
+            },
+            "selectDefaultContainer": {
+                "accessibilityLabel": "Make this your default payment method",
+                "text": "Make this your default payment method for all orders, including Auto Refills.",
+                "title": "Make this your default payment"
+            }
+        },
+        "changeManageAutoPaymentMethod": {
+            "pageTitle": "Pharmacy payments",
+            "saveButtonText": "Save",
+            "subHeaderLabel": "Set your default payment method for all pharmacy orders, including Auto Refills."
+        },
+        "changePaymentMethods": {
+            "bankPrefix": "Account Ending in %1",
+            "iconLink": {
+                "accessibilityLabel": "Add New Payment Method",
+                "label": "Add New Payment Method"
+            },
+            "link": {
+                "accessibilityLabel": "Need to Make Changes?",
+                "label": "Need to Make Changes?"
+            },
+            "memberSelection": {
+                "accessibilityLabel": "Click to change user and payment methods: Current User %1 %2",
+                "dropDownTitle": "Select member",
+                "title": "Select member"
+            },
+            "overlay": {
+                "primaryText": "OK"
+            },
+            "overlayContent": {
+                "addNew": "Add New",
+                "howToMakeChanges": "The easiest way to make changes is to %1.",
+                "notAnOption": "If that's not an option, or you need to delete, please contact us or call our help desk at %1 %2, Monday-Friday, 8 a.m. to 8 p.m. ET.",
+                "phoneNumber": "1-XXX-XXX-XXXX",
+                "tty": {
+                    "accessibilityLabel": "T T Y T D D 7 1 1",
+                    "text": "(TTY/TDD: 711)"
+                }
+            },
+            "paymentMethod": {
+                "accessibilityLabel": "Edit payment method"
+            },
+            "paymentMethodsContainer": {
+                "bankAccount": "Bank Account",
+                "creditCard": "Credit Card"
+            },
+            "saveButtonText": "Save",
+            "subHeader": {
+                "paymentMethodsNotPresent": {
+                    "pbm": "You don't have a payment method on file.",
+                    "specialty": "You don't have a payment method on file for specialty medications."
+                },
+                "paymentMethodsPresent": {
+                    "pbm": "Set your default payment method for all pharmacy orders, including Auto Refills.",
+                    "specialty": ""
+                }
+            },
+            "successAlert": {
+                "title": "Success!",
+                "message": "You added a credit card to your account."
+            },
+            "titles": {
+                "pbm": "Pharmacy payments",
+                "specialty": "Specialty pharmacy payments"
+            }
+        },
+        "changePharmacyPaymentMethod": {
+            "pageTitle": "Pharmacy payments",
+            "saveButtonText": "Save",
+            "subHeaderLabel": "Select the payment method to use, or add a new one."
+        },
+        "changeReviewOrderPaymentMethod": {
+            "pageTitle": "Pharmacy payments",
+            "saveButtonText": "Save",
+            "subHeaderLabel": "Select the payment method for this order or add a new one."
+        },
+        "changeSpecialtyPaymentMethods": {
+            "pageTitle": "Specialty pharmacy payments",
+            "saveButtonText": "Save",
+            "subHeader": "Select the payment method to use, or add a new one."
+        },
+        "checkOrderDefaultFilters": {
+            "dateRange": {
+                "days": "Days",
+                "months": "Months",
+                "title": "Date Range"
+            },
+            "memberName": "Member Name"
+        },
+        "checkOrderDefaultSorts": {
+            "fulfillingPharmacy": "Fulfilling Pharmacy Name",
+            "orderDateNewestToOldest": "Order Date Newest To Oldest",
+            "orderDateOldestToNewest": "Order Date Oldest To Newest"
+        },
+        "checkOrderStatus": {
+            "orderCount": {
+                "orderDescription": {
+                    "subTitle": {
+                        "hasNoOrders": "Change the date filter if you're looking for an order further in the past.",
+                        "hasOrders": "We'll need some time to process the order before it shows up here. Orders that include more than one prescription may be sent in multiple shipments."
+                    },
+                    "title": "Don't see your order yet? "
+                },
+                "ordersPlaced": {
+                    "hasNoOrders": "You have 0 orders in the last %1.",
+                    "hasOrders": "You have placed %1 %2 in the last %3.",
+                    "order": "order",
+                    "orders": "orders"
+                }
+            },
+            "orderSearchBar": {
+                "search": "Search"
+            },
+            "partialErrorMessage": "We’re sorry. Due to a system error, we’re currently not able to display some of your order(s). Please try again later. If the problem continues, call the Member Services number on your ID card.",
+            "shipConsentRequiredAlert": {
+                "inlineAlert": {
+                    "text": "View order details and submit shipping consent."
+                }
+            }
+        },
+        "checkout": {
+            "checkout": "Checkout",
+            "estimatedSubtotal": "Estimated subtotal: %1",
+            "itemsSelected": "%1 selected"
+        },
+        "claimDefaultFilters": {
+            "all": "All",
+            "claim": "Claim",
+            "dateRange": {
+                "days": "Days",
+                "months": "Months",
+                "title": "Date Range"
+            },
+            "drugTitle": "Drug Name",
+            "memberName": "Member Name",
+            "rxTitle": "RX"
+        },
+        "claimDefaultSorts": {
+            "providedByAtoZ": "Provided by A-Z",
+            "providedByZtoA": "Provided by Z-A",
+            "fillDateNewest": "Date Newest",
+            "fillDateOldest": "Date Oldest",
+            "youPayHighest": "You Pay Highest",
+            "youPayLowest": "You Pay Lowest"
+        },
+        "confirmation": {
+            "advertisement": {
+                "buttonText": "Enroll Now",
+                "text": "There's an easier way to get refills. Start using Auto Refill & Auto Renew."
+            },
+            "autoEnrollment": {
+                "enrollInAutoRefill": "Enroll in Auto Refill",
+                "enrollInAutoRenewal": "Enroll in Auto Renew"
+            },
+            "confirmationData": {
+                "paymentMethod": "Payment Method",
+                "shippingAddress": "Shipping Address",
+                "shippingOptions": "Shipping Options"
+            },
+            "content": {
+                "dateOfBirth": "Date of birth:",
+                "for": "For:"
+            },
+            "goBackToHome": "Back to Home",
+            "header": "We've received your order.",
+            "partialErrorMessage": "Part of your order was not received due to a system error. Your prescriptions that were successfully ordered are displayed below. Please try placing your remaining prescription orders again later.",
+            "refillsHeader": "Prescriptions to be Delivered",
+            "renewalsHeaders": {
+                "pbm": "Pending Prescription Renewals",
+                "specialty": "Pending Specialty Renewals"
+            },
+            "shippingAndPaymentHeader": {
+                "pageTitle": {
+                    "pbm": "Pharmacy order confirmation",
+                    "specialty": "Specialty order confirmation"
+                }
+            },
+            "shippingOptions": {
+                "oneDayShipping": "One-Day Shipping",
+                "standardShipping": "Standard Shipping",
+                "twoDayShipping": "Two-Day Shipping"
+            },
+            "specialtyConfirmation": {
+                "deliveryDate": "Delivery Date",
+                "pickupDate": "Pickup Date",
+                "shippingAddress": "Shipping Address",
+                "storeLocation": "CVS Store Location"
+            },
+            "subheader": "We'll begin processing it soon and will notify you when it ships."
+        },
+        "creditCardForm": {
+            "creditCardError": {
+                "creditCardNumberEmpty": "Please enter a card number.",
+                "creditCardNumberInvalid": "Please check the card number.",
+                "expirationDateEmpty": "Please enter an expiration date.",
+                "expirationDateInvalid": "Please check the expiration date."
+            },
+            "creditCardInput": "Card number",
+            "creditCardNumberContainer": "Card number",
+            "expirationDateContainer": {
+                "label": "Expiration date",
+                "placeholder": "MM/YY"
+            },
+            "primaryButtonText": "Save",
+            "selectDefaultContainer": {
+                "subTitle": "Make this your default payment method for all orders, including Auto Refills.",
+                "title": "Make this your default payment"
+            },
+            "subHeader": {
+                "pbm": "We accept these credit, debit, FSA, HRA and HSA cards.",
+                "specialty": "We accept these credit, debit, FSA, HRA and HSA cards."
+            }
+        },
+        "editPaymentMethod": {
+            "billingAddress": "Billing Address",
+            "editBankAccount": "Edit bank account",
+            "editCreditCard": "Edit credit card"
+        },
+        "expressRefillCheckout": {
+            "content": {
+                "dateOfBirth": "Date of birth:",
+                "estimatedCost": "Estimated cost:",
+                "for": "For:"
+            },
+            "deselectAll": "Deselect all",
+            "disclaimer": "Due to HIPAA privacy rules, some prescriptions may not appear on this page.",
+            "renderItem": {
+                "checkbox": {
+                    "accessibilityLabel": "Select to add or remove %1 from the cart"
+                }
+            },
+            "selectAll": "Select all",
+            "titleContainer": {
+                "availabilityStatus": {
+                    "hasNoPrescriptions": "available for refill.\nCheck back soon or view all your prescriptions.",
+                    "hasPrescriptions": "available for refill or renewal"
+                },
+                "prescriptionCount": "prescriptions",
+                "prescriptionCountSingle": "prescription",
+                "subTitle": "You have ",
+                "title": "Express checkout"
+            }
+        },
+        "homeDelivery": {
+            "cancelSwitchTo90Day": "Cancel Switch to 90-Day",
+            "disclaimer": "* This is the amount we estimate you’ll pay for your medication. Your actual cost will be determined after your order is processed and insurance, coupons and other discounts and charges have been applied.",
+            "disclaimer2": "As a Medicare Part D Member you can have prescription drugs shipped directly to your home through IngenioRx Home Delivery Pharmacy. You can expect to receive your drugs within 7-10 days after you place your order. If your prescription does not arrive within 14 days, you should call the Member Services number of your ID card. You may be able to sign up for automatic delivery of eligible prescriptions to your home at any time by visiting Auto Refill & Renew.",
+            "noPrescriberSelected": "You don't have a prescriber selected",
+            "prescriber": {
+                "change": "Change",
+                "noPrescriberSelected": "You don't have a prescriber selected",
+                "select": "Select",
+                "title": "Approving Prescriber"
+            },
+            "prescription": "Prescription",
+            "primaryButton": "Submit",
+            "primaryButtonNoMedicalProfile": "Continue to Medical Profile",
+            "medicalProfile": {
+                "header1": "Before switching, please review the following required details.",
+                "header2": "You’ll also need to select a prescriber under Approving Prescriber. If we need updated health information, we’ll take you to your Medical Profile on the next page.",
+                "header3": "Please review before submitting. If your prescriber isn't shown, make sure to add before submitting.",
+                "update": "Update Medical Profile"
+            },
+            "phone": {
+                "text": "In case we have questions about your transfer, please provide a phone number where we can contact you.",
+                "alert": "You must have a phone number on file to place an order.",
+                "edit": "Edit",
+                "add": "Add Phone Number"
+            },
+            "email": {
+                "text": "We'll send a confirmation message to your email address on file.",
+                "alert": "You must have an email address on file to place an order.",
+                "edit": "Edit",
+                "add": "Add Email"
+            }
+        },
+        "homeDeliveryConfirmation": {
+            "confirmationData": {
+                "approvingPrescriber": {
+                    "content": {
+                        "noPrescriberSelected": "You don't have a prescriber selected"
+                    },
+                    "title": "Approving Prescriber"
+                },
+                "paymentMethod": {
+                    "content": {
+                        "expires": "Expires "
+                    },
+                    "title": "Payment Method"
+                },
+                "shippingAddress": "Shipping Address",
+                "shippingOptions": {
+                    "content": "Free Standard Shipping ($0.00)",
+                    "title": "Shipping Options"
+                }
+            },
+            "prescriptionHeader": "Prescription",
+            "primaryButton": "Return to Other Prescriptions",
+            "subTitle": "We'll begin processing it right away.  We'll let you know as soon as the switch is complete.",
+            "title": "Thanks!\nYour request was received."
+        },
+        "landingPage": {
+            "accountBalance": {
+                "subtext": "Manage your account balance for pharmacy and specialty prescriptions."
+            },
+            "allPrescriptions": {
+                "subtext": "Manage your medications",
+                "text": "All Prescriptions"
+            },
+            "findAPharmacy": {
+                "subtext": "Search for a pharmacy location"
+            },
+            "orderStatus": {
+                "subtext": "Check the status to track your shipment.",
+                "text": "Order Status"
+            },
+            "pharmacyClaims": {
+                "subtext": "View recent pharmacy claims",
+                "text": "Pharmacy Claims"
+            }
+        },
+        "makePayment": {
+            "automaticPaymentSection": {
+                "enrolled": "Enrolled",
+                "notEnrolled": "Not enrolled",
+                "setup": "Set Up",
+                "someEnrolled": "%1 of %2 enrolled",
+                "title": "Automatic Payments",
+                "viewSettings": "View Settings"
+            },
+            "enrolled": "Enrolled",
+            "makePaymentCard": {
+                "content": {
+                    "pharmacyText": "Pharmacy Account",
+                    "specialtyText": "Specialty Account",
+                    "automaticPaymentText": "Automatic Payments"
+                },
+                "footer": {
+                    "footerAccessibilityLabel": "View Payments",
+                    "text": "View Payments"
+                },
+                "title": "Make a Payment"
+            },
+            "mostRecentPayments": {
+                "noRecentPayments": "No Recent Payments",
+                "paidOn": "paid on",
+                "title": "Most Recent Payment",
+                "viewPaymentHistory": "View Payment History"
+            },
+            "navigator": {
+                "accountBalance": "Account Balance",
+                "addPaymentMethod": "Add EFT",
+                "orderDetails": "Order Details",
+                "paymentConfirmation": "Payment Confirmation",
+                "paymentHistory": "Payment & Activity History",
+                "paymentMethods": "Pharmacy Payment Methods"
+            },
+            "notEnrolled": "Not enrolled",
+            "pharmacyAccountBalance": {
+                "payNow": "Pay Now",
+                "pbmTitle": "Pharmacy Account",
+                "specialtyTitle": "Specialty Account"
+            }
+        },
+        "manageAutoMedicalProfile": {
+            "dropDownDisclaimer": {
+                "disclaimer": "If you don't have any allergies or health conditions, please select None. If you have any allergies or health conditions that aren't listed below, please call us at %1 ",
+                "phoneNumber": "xxx-xxx-xxxx",
+                "tty": {
+                    "accessibilityLabel": "T T Y T D D 7 1 1",
+                    "text": "(TTY/TDD: 711)."
+                }
+            }
+        },
+        "manageAutoPrescriptionDetails": {
+            "fulfilledBy": "Fulfilled By"
+        },
+        "manageAutoPrescriptionItem": {
+            "enrollRefillErrorMessage": "Sorry, something went wrong and we couldn't enroll this prescription in Auto Refill. Try again later or call the Member Services number on your ID card.",
+            "enrollRefillSuccessMessage": "Enrolled! This prescription is now in our Auto Refill service. You won’t be charged until we get the refill from your doctor and process the new prescription.",
+            "enrollRenewErrorMessage": "Sorry, something went wrong and we couldn't enroll this prescription in Auto Renew. Try again later or call the Member Services number on your ID card.",
+            "enrollRenewSuccessMessage": "Enrolled! This prescription is now in our Auto Renew service. You won’t be charged until we get the renewal from your doctor and process the new prescription.",
+            "oneTimeEnrollRenewSuccessMessage": "We received your renew order and will start processing it soon. We'll let you know when it ships.",
+            "phoneNumber": "xxx-xxx-xxxx",
+            "placeOrderRenewErrorMessage": "Sorry, something went wrong and we couldn't place this one time renewal. Try again later or call the Member Services number on your ID card.",
+            "placeOrderErrorMessage": "Sorry, something went wrong and we couldn't place this one time refill. Try again later or call the Member Services number on your ID card.",
+            "placeOrderSuccessMessage": "We received your order and will start processing it soon. We'll let you know when it ships.",
+            "refillSwitch": "Auto Refill",
+            "refillRenewSwitch": {
+                "toggleSwitch": {
+                    "accessibilityLabel": "%1 for %2"
+                }
+            },
+            "renderUnenrollConfirmModal": {
+                "body": "Are you sure you want to unenroll %1 from the Auto Refill service? If you unenroll, you'll need to order your own refill in the future.",
+                "cancelUnenroll": "No, Keep It Enrolled",
+                "confirmUnenroll": "Yes, Cancel and Unenroll",
+                "header": "Unenroll this prescription?"
+            },
+            "renderUnenrollConfirmRenewModal": {
+                "body": "Are you sure you want to unenroll %1 from the Auto Renew service? If you unenroll, you'll need to contact your doctor or pharmacy to request renewals in the future.",
+                "cancelUnenroll": "No, Keep It Enrolled",
+                "confirmUnenroll": "Yes, Cancel and Unenroll",
+                "header": "Unenroll this prescription?"
+            },
+            "renewSwitch": "Auto Renew",
+            "unenrollSuccessMessage": {
+                "unenrollRefillSuccessMessage": "The prescription is no longer enrolled in Auto Refill. Enroll again at any time.",
+                "unenrollRenewSuccessMessage": "The prescription is no longer enrolled in Auto Renew. Enroll again at any time."
+            }
+        },
+        "manageAutoSpecialty": {
+            "dateList": {
+                "everyNthOfTheMonth": "Every %1 of the month"
+            },
+            "errors": {
+                "invalidMinimumPaymentAmount": "The minimum payment is %1 please enter a valid amount.",
+                "invalidPaymentAmount": "Please enter a valid amount to pay"
+            },
+            "memberInfo": {
+                "enrolled": "Enrolled",
+                "member": "Member:",
+                "notEnrolled": "Not enrolled",
+                "status": "Status:"
+            },
+            "moreInfo": "If your balance is more than this limit, we'll charge this amount then call you to resolve the difference.",
+            "paymentAlert": {
+                "screenAlert": {
+                    "text": "If you made any payments in the last 48 hours, you’ll need to wait until those payments get processed before setting up automatic payments."
+                }
+            },
+            "paymentInfo": {
+                "header": "Payment Amount",
+                "paymentLimit": "Payment Limit",
+                "paymentLimitForBalance": "Minimum one third of the current balance",
+                "subHeader": "Charge me the full balance"
+            },
+            "paymentLinksSection": {
+                "managePaymentMethodLink": {
+                    "textLink": "Manage Your Specialty Payment Methods"
+                },
+                "paymentHistoryLink": {
+                    "textLink": "View Payment and Activity History"
+                }
+            },
+            "pendingPaymentContent": {
+                "content": {
+                    "helpText": "If you need help, please call the member services number on your ID card.",
+                    "paymentProcessing": "A payment is still processing, so automatic payments can't be set up at this time."
+                }
+            },
+            "primaryButtonText": "Agree and Enroll",
+            "textLinkText": "Cancel"
+        },
+        "manageAutoUserPreference": {
+            "alertDescriptions": {
+                "subTitle": "Find out if your prescription is ready for pickup, or if it's been shipped.",
+                "title": "Order status"
+            },
+            "alertHeader": "How would you like to be contacted?",
+            "alertOptions": {
+                "email": "Email",
+                "text": "Text",
+                "voice": "Voice"
+            },
+            "enrolled": "ENROLLED",
+            "modalPrimaryButton": "Ok",
+            "modalText": "Please make sure you agree to our Text Message Terms, Conditions and Disclosures.",
+            "primaryButtonText": "Complete Enrollment",
+            "textLinkText": "Cancel",
+            "touCopy": {
+                "iAgreeTo": "I agree to %1",
+                "termsOfUse": "terms of use",
+                "touCheckboxAccessibilityLabel": "I agree to terms of use"
+            },
+            "touHeader": "Accept Terms of Use"
+        },
+        "manageAutoView": {
+            "prescriptionsListTitle": "Prescriptions",
+            "prescriptionsListContainer": {
+                "iconAccessibilityLabel": "Prescription details"
+            },
+            "prescriptionsNotEligibleText": "You don't have any prescriptions that are eligible for Auto Refill & Renew",
+            "shippingAddressErrorText": "This order can't be shipped to a P.O. box because of your cold pack prescription.",
+            "shippingAndPaymentTitle": "Shipping and payment"
+        },
+        "medicalConditionsList": {
+            "bottomControls": {
+                "primaryButtonTitle": "Save",
+                "saveButtonDisclaimer": "Specialty members, please note: If changes are made to your allergy or health condition information, we may contact you to discuss if this will affect your treatment plan, or if changes to your Specialty Medical Profile are needed.",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "listContent": {
+                "accessibilityLabels": {
+                    "allergies": "Allergies",
+                    "healthConditions": "Health Conditions"
+                },
+                "allergies": "allergies",
+                "conditionHeader": "I have the following %1",
+                "healthConditions": "health conditions",
+                "none": "None"
+            },
+            "memberNumber": "Member %1 of %2",
+            "memberSelectDropDown": {
+                "accessibilityLabel": "Please select a member profile to view.",
+                "dropDownDisclaimer": "If you don't have any allergies or health conditions, please select None. If you have any allergies or health conditions that aren’t listed below, please call us at %1.",
+                "phoneNumber": "xxx-xxx-xxxx"
+            },
+            "title": "Medical Profile"
+        },
+        "medicalProfile": {
+            "dropDownDisclaimer": {
+                "dropDownDisclaimer": "Please update your allergy and health information. Select %1 when you’ve finished to continue your checkout. If you have an allergy or condition not listed here, contact Member Services by calling %2 ",
+                "phoneNumber": "xxx-xxx-xxxx",
+                "save": "Save",
+                "tty": {
+                    "accessibilityLabel": "T T Y T D D 7 1 1",
+                    "text": "(TTY/TDD: 711)."
+                }
+            },
+            "header": {
+                "title": "Review Your Order"
+            }
+        },
+        "medicalProfileList": {
+            "listElement": {
+                "completionLink": {
+                    "completed": "Review",
+                    "incomplete": "Add Profile"
+                },
+                "completionStatus": {
+                    "completed": "Completed",
+                    "incomplete": "Required before checkout"
+                },
+                "navigationAccessibilityLabel": "View %1's profile"
+            },
+            "medicalProfileListHeader": {
+                "alerts": {
+                    "allPrescriptionsRemoved": "You've removed all of your pharmacy prescriptions from your cart, so you can proceed to the next step."
+                },
+                "listDisclaimerText": "For your safety, we need information about your health conditions before we can fill your prescriptions.",
+                "title": "Medical profile"
+            }
+        },
+        "medicalProfiles": {
+            "medicalProfileList": {
+                "listDisclaimerText": "To help us provide the best possible care, we need the latest information on your health conditions. Please complete or update your profile."
+            },
+            "title": "Medical profile"
+        },
+        "nonActionablePrescriptionItem": {
+            "optedOutSuccessMessage": {
+                "phoneNumber": "XXX-XXX-XXXX",
+                "successMessage": "OK, we've got it. If you change your mind and want to switch later, contact us at %1."
+            },
+            "savingOpportunityButton": {
+                "buttonTitle": "Switch to a 90-day supply",
+                "successMessage": "Success! We've received your request. Please note that it may take up to 24 hours to process your request."
+            }
+        },
+        "optOut": {
+            "primaryButtonText": "Don't Switch",
+            "subTitle": "I understand that by not switching that it may take up to 24 hours to process. If I want to receive this medication as home delivery, I will need to get a new prescription from my physician.",
+            "textLinkText": "Cancel",
+            "title": "Are you sure you don't want to switch?"
+        },
+        "orderDetails": {
+            "addressCardContainer": {
+                "shippingAddressCard": {
+                    "alertText": "Shipping address is currently unavailable."
+                }
+            },
+            "disclaimerOrderDetails": "* This is the amount we estimate you'll pay for your medication. Your actual cost will be determined after your order is processed and insurance, coupons and other discounts and charges have been applied.",
+            "goBackToHome": "Back to Home",
+            "orderContent": {
+                "dateOrdered": "Date Ordered",
+                "numberOfPrescriptions": "%1 %2",
+                "orderNumber": "Order #: %1",
+                "orderTotal": "Order total: %1",
+                "prescription": "Prescription",
+                "prescriptions": "Prescriptions"
+            },
+            "orderSummary": "Order Summary",
+            "pickupDetailsCardContainer": {
+                "footer": {
+                    "accessibilityHint": "View more store details",
+                    "accessibilityLabel": "Store Details",
+                    "text": "Store Details"
+                },
+                "title": "Pickup Details"
+            },
+            "removePrescriptionModal": {
+                "header": "Remove and unenroll?",
+                "primaryText": "Yes, Remove and Unenroll",
+                "secondaryText": "No, Keep It In This Order"
+            },
+            "removePrescriptionModalBody": {
+                "body": "Removing will also unenroll %1  from Auto Refill or Auto Renew.  Are you sure?",
+                "title": "%1 %2 %3"
+            },
+            "shipConsentFailureAlert": {
+                "screenLevelAlert": {
+                    "text": "Please try to submit your consent again or call the Member Services number on your ID card for assistance."
+                },
+                "textLink": {
+                    "text": "Yes, ship this order"
+                }
+            },
+            "shipConsentRequiredScreenAlert": {
+                "screenLevelAlert": {
+                    "text": "Medicare regulations require us to get your consent before we can ship this prescription to you. Either your prescriber submitted it, or it is enrolled in our automatic refill/renewal program. Provide your consent now."
+                },
+                "textLink": {
+                    "text": "Yes, ship this order"
+                }
+            },
+            "shipConsentSuccessAlert": {
+                "screenLevelAlert": {
+                    "text": "We’ll begin processing your order soon and will notify you when it ships."
+                }
+            }
+        },
+        "orderItem": {
+            "content": {
+                "dateOfBirth": "Date of birth: %1",
+                "prescribedTo": "For: %1 %2",
+                "rxNumber": "Rx #: %1",
+                "status": "Status:"
+            },
+            "fulfillmentStatus": "Fulfilled by %1",
+            "futureFillContent": {
+                "disclaimer": "This prescription is enrolled in our auto refill or auto renewal program and is scheduled to begin processing on %1.",
+                "removePrescription": "Remove Prescription",
+                "removePrescriptionAccessibilityLabel": "Remove Prescription %1"
+            },
+            "orderStatus": {
+                "cancelled": "Canceled",
+                "orderStatusPlaceholder": "%1: %2",
+                "pickedUp": "Picked Up",
+                "ready": "Ready for Pick up",
+                "shipped": "Shipped on"
+            },
+            "paymentText": {
+                "estimatedCost": "Estimated cost:* "
+            },
+            "pickupStatus": "Pickup date:",
+            "prescriptionCanceledDisclaimer": {
+                "autoRefillRenew": "Auto Refill & Renew.",
+                "disclaimer": "Prescription canceled and unenrolled. To restart automatic refills or renewals, visit %1"
+            }
+        },
+        "orders": {
+            "navigator": {
+                "checkOrderStatus": "Check Order Status",
+                "orderDetails": "Order Details",
+                "pharmacyDetails": "Pharmacy Details"
+            }
+        },
+        "orderStatusItem": {
+            "contentContainer": {
+                "orderNumber": "Order #: %1",
+                "orderNumberNotAvailable": "Order #: N/A",
+                "trackShipment": "Track Shipment"
+            },
+            "iconContainer": {
+                "accessibilityLabel": "View order details"
+            }
+        },
+        "orderTotal": {
+            "chargedAtCheckout": "(Charged at Checkout)",
+            "orderTotal": "Order Total:",
+            "outstandingBalance": "Outstanding Pharmacy Balance:",
+            "shippingCost": "Shipping:",
+            "subTotal": "Subtotal:"
+        },
+        "paperlessPrescriptions": {
+            "errors": {
+                "emailAddressEmpty": "Please enter prescriber’s email address.",
+                "emailAddressInvalid": "Please check the prescriber’s email address.",
+                "medicationsEmpty": "Please enter specialty medications.",
+                "nameEmpty": "Please enter Prescriber's name.",
+                "phoneNumberEmpty": "Please enter prescriber’s phone number.",
+                "phoneNumberInvalid": "Please check the prescriber’s phone number."
+            },
+            "helpText": {
+                "contactNumber": "xxx-xxx-xxxx",
+                "contactUs": "Give us a call at",
+                "haveQuestions": "Question?"
+            },
+            "medicationList": {
+                "accessibilityLabel": "Please enter your specialty medications, separated by commas",
+                "label": "Enter your specialty medications, separated by commas"
+            },
+            "memberSelectionText": "Who is the prescription for?",
+            "memberSelector": {
+                "accessibilityLabel": "Please select the Member Name"
+            },
+            "nextAndCancelButtons": {
+                "primaryButtonText": "Submit",
+                "secondaryButtonText": "Cancel"
+            },
+            "pageTitle": "Please fill out this secure form and we'll start the process.",
+            "prescriberEmail": {
+                "accessibilityLabel": "Please enter Member's email address",
+                "label": "Member's email address"
+            },
+            "prescriberName": {
+                "accessibilityLabel": "Please enter Prescriber's name",
+                "label": "Prescriber's name"
+            },
+            "prescriberPhone": {
+                "accessibilityLabel": "Please enter prescriber’s phone number",
+                "label": "Prescriber's phone"
+            },
+            "selectMember": "Select member"
+        },
+        "paymentConfirmation": {
+            "accountBalance": {
+                "header": {
+                    "pbm": "Pharmacy Account Balance:",
+                    "specialty": "Specialty Pharmacy Account Balance:"
+                },
+                "makePayment": "Make a Payment for This Account"
+            },
+            "amountPaid": {
+                "subTitle": "Amount paid",
+                "title": {
+                    "pbm": "Pharmacy Account",
+                    "specialty": "Specialty Pharmacy Account"
+                }
+            },
+            "currentBalances": {
+                "text": "Your total balance will not be updated until your payment has processed.",
+                "title": "Current Balances"
+            },
+            "paymentBankAccount": {
+                "account": "Account %1",
+                "paymentMethod": "Payment Method"
+            },
+            "paymentConfirmationTitle": "Thank you for your payment!",
+            "paymentCreditCard": {
+                "expires": "Expires %1",
+                "paymentMethod": "Payment Method"
+            },
+            "primaryButtonText": "Return to Home",
+            "renderMemberAccountBalance": {
+                "textLink": {
+                    "paymentSent": "Payment Sent",
+                    "payNow": "Pay Now"
+                }
+            },
+            "subtitle": "We're working on your payment request. A confirmation will be sent to you by the method you chose in your profile. It might take a few business days for the payment to get processed."
+        },
+        "paymentInformation": {
+            "headerText": "Add credit cards or bank accounts, or change your preferred payment method.",
+            "pageTitle": "Payment information"
+        },
+        "paymentRadioSelector": {
+            "bankAccount": {
+                "bankAccountAccessibilityLabel": "%1. %2. %3.",
+                "bankAccountActionAccessiblityLabel": "Edit %1 Account ending in %2",
+                "bankAccountTypeChecking": "Checking Account",
+                "bankAccountTypeSavings": "Savings Account"
+            },
+            "creditCard": {
+                "creditCardAccessibilityLabel": "%1. %2. %3.",
+                "creditCardActionAccessibilityLabel": "Edit %1 ending in %2",
+                "invalidExpiryCardAccessibilityLabel": "Expired %1",
+                "validExpiryCardAccessibilityLabel": "Expires %1"
+            },
+            "currentDefaultCardAccessibilityLabel": "Default used for Auto Refill",
+            "defaultPayment": "Default",
+            "edit": "Edit",
+            "nonDefaultAccessibilityLabel": "Set as default"
+        },
+        "payNow": {
+            "accountAlert": {
+                "dialogBox": {
+                    "text": "Please use another payment method such as a credit card or bank account to complete your payment. Then file a claim with your FSA, HRA or HSA provider for reimbursement."
+                },
+                "paragraph": {
+                    "text": "FSA, HRA or HSA accounts can’t be used to pay a pharmacy balance. %1"
+                },
+                "touchableWithoutFeedBack": {
+                    "accessibilityLabel": "F S A, H R A or H S A accounts can’t be used to pay a pharmacy balance. Double tap to read more information."
+                }
+            },
+            "amountDue": "Amount Due",
+            "disclaimer": "By selecting “Submit Payment” below, I acknowledge that my amount due might not include orders that haven’t been shipped, are still pending insurance payment, or have been sent to an outside collection agency. Payments will be processed on the next day.",
+            "fsaCardNotAllowedAlert": "FSA cards can’t be used for this pharmacy account balance.",
+            "managePaymentMethodLink": "Manage Your Pharmacy Payment Methods",
+            "noPayment": "You don’t need to make a payment right now.",
+            "paymentActivity": "View Payment and Activity History",
+            "paymentAmount": "Payment Amount",
+            "payPharmacyAccount": "Pay pharmacy account",
+            "primaryButtonText": "Submit Payment",
+            "textLinkText": "Cancel",
+            "tooltip": "Amount excludes items not shipped or Limited Distribution medications filled elsewhere."
+        },
+        "pbmReview": {
+            "displayOrderOrDisplayTitle": {
+                "alerts": {
+                    "noPrescriptionsSelected": "You have 0 pharmacy prescriptions in your cart."
+                },
+                "orderTotal": "Order total",
+                "reviewOrder": "Review pharmacy order"
+            },
+            "orderSummary": {
+                "orderSummary": "Order Summary"
+            },
+            "partialErrorMessage": "We were not able to load specialty delivery dates for this order and only your pharmacy order will be processed. Please try to complete your specialty order again later. If the problem continues, call the Member Services number on your ID card.",
+            "renewListHeader": {
+                "header": "Pending Prescription Renewals",
+                "subtext": "We're contacting your prescriber for a new prescription. You won’t be charged until we receive your new prescription."
+            }
+        },
+        "pharmacyDetails": {
+            "adaAccessibility": {
+                "subTitle": "This store is accessible to customers with disabilities. Service animals are also welcomed.",
+                "title": "ADA Accessibility"
+            },
+            "county": "County: ",
+            "features": {
+                "title": "Features"
+            },
+            "featuresExpanded": {
+                "featureList": {
+                    "bloodPressureScreening": "Blood pressure screenings",
+                    "compoundMedications": "Compound medications",
+                    "driveThru": "Drive-thru services",
+                    "durableMedicalEquipment": "Durable medical equipment",
+                    "fluShots": "Flu shots",
+                    "languages": "Languages: %1",
+                    "onsiteMedicalClinic": "Onsite medical clinic",
+                    "open7Days": "Open 7 Days",
+                    "prescriptionDeliveryService": "Prescription delivery",
+                    "retail90": "Retail 90",
+                    "rxMaintenance90": "Rx maintenance 90",
+                    "twentyFourHourService": "24-hour-service",
+                    "vaccinations": "Vaccinations"
+                }
+            },
+            "getDirections": "Get directions",
+            "hoursOpen": {
+                "friday": "Friday",
+                "monday": "Monday",
+                "open24Hours": "This pharmacy is open 24 hours a day, seven days a week.",
+                "saturday": "Saturday",
+                "sunday": "Sunday",
+                "thursday": "Thursday",
+                "title": "Hours Open",
+                "tuesday": "Tuesday",
+                "wednesday": "Wednesday"
+            },
+            "moreDetails": {
+                "npi": "NPI:",
+                "preferred": {
+                    "disclaimer": "This pharmacy offers preferred pricing to our members, which means you may be able to save on your medications.",
+                    "title": "Tier 1 - Preferred Pharmacy (Tier 1)"
+                },
+                "pharmacyTypeDescription": "Pharmacy Type Description: %1",
+                "stateLicenseNumber": "State License: #",
+                "storeNumber": "Store Number: ",
+                "subTitle": "Type of Pharmacy: %1",
+                "title": "More Details"
+            },
+            "pharmacyDetailsFavorite": {
+                "selected": "This is your pharmacy",
+                "unselected": "Set as your favorite pharmacy"
+            }
+        },
+        "pharmacySearchController": {
+            "distanceOptions": {
+                "radioButtonGroup": {
+                    "accessibilityLabel": "Distance Options, please select a search radius.",
+                    "title": "Distance"
+                }
+            },
+            "pharmacySearchBar": {
+                "searchBar": {
+                    "textInputValue": "Current Location",
+                    "textPlaceholder": "Search by..."
+                },
+                "toggleMap": {
+                    "notShowingMap": "Map",
+                    "showingMap": "List"
+                }
+            },
+            "searchBarTitle": "Search by address, city and state, or ZIP code",
+            "title": "Store pickup"
+        },
+        "pharmacySearchDefaultFilters": {
+            "bloodPressureScreenings": {
+                "title": "Blood-pressure screenings"
+            },
+            "driveThruServices": {
+                "title": "Drive-thru services"
+            },
+            "durableMedicalEquipment": {
+                "title": "Durable medical equipment"
+            },
+            "languageFilters": {
+                "english": "English",
+                "spanish": "Spanish",
+                "title": "Language"
+            },
+            "onSiteMedicalClinic": {
+                "title": "On-site Medical Clinic"
+            },
+            "pharmacyName": "Pharmacy Name",
+            "pharmacyType": {
+                "title": "Pharmacy Type"
+            },
+            "preferredPharmacy": "Preferred",
+            "preferredStoreFilters": {
+                "preferredStoreTitle": "Preferred",
+                "preferedStoreDescription": "Using a preferred pharmacy may result in lower out-of-pocket costs."
+            },
+            "providesCompoundMedications": {
+                "title": "Compound medications"
+            },
+            "providesFluShots": {
+                "title": "Flu Shots"
+            },
+            "retail90": {
+                "description": "This is a pharmacy that can offer up to 90-day supply of your covered drugs.",
+                "title": "Retail 90"
+            },
+            "rxMaintenance90": {
+                "description": "This is a pharmacy that can offer a 90-day supply of covered drugs that you take on a regular, long-term basis.",
+                "title": "Rx Maintenance 90"
+            },
+            "storeHoursFilters": {
+                "open24Hours": "24 Hour Service",
+                "open7Days": "Open 7 Days"
+            },
+            "storeLevelFilters": {
+                "pharmacyLevel1Title": "Pharmacy Level 1",
+                "pharmacyLevel1Description": "Using a Level 1 pharmacy may result in lower out-of-pocket costs.",
+                "pharmacyLevel2Title": "Pharmacy Level 2",
+                "pharmacyLevel2Description": "Using a Level 2 pharmacy may result in higher out-of-pocket costs."
+            },
+            "storeNameFilters": {
+                "cvs": "CVS",
+                "walgreens": "walgreens"
+            },
+            "vaccinations": {
+                "title": "Vaccinations"
+            }
+        },
+        "pharmacySearchInitialScreen": {
+            "search": "Search"
+        },
+        "pharmacySearchResultsList": {
+            "listDescription": {
+                "level1": "Using a Level 1 pharmacy may result in lower out-of-pocket costs.",
+                "level2": "Using a Level 2 pharmacy may result in higher out-of-pocket costs.",
+                "preferred": "Using a preferred pharmacy may result in lower out-of-pocket costs.",
+                "retail90": "This is a pharmacy that can offer up to 90-day supply of you covered drugs.",
+                "rxMaintenance90": "This is a pharmacy that can offer a 90-day supply of covered drugs that you take on a regular, long-term basis."
+            },
+            "listEmpty": {
+                "subTitle": "Try removing a filter or changing the search area for more listings.",
+                "title": "No Pharmacies Found"
+            },
+            "listFooter": {
+                "inaccurateIncompleteMisleadingInformationDisclaimer": "Have you found inaccurate, incomplete or misleading information in this directory? If so, please e-mail us at ProviderDirectoryDiscrepancy@Ingenio-Rx.com.",
+                "inaccurateIncompleteMisleadingInformationDisclaimerFollowUp": "Members who have relied on inaccurate, incomplete or misleading information can also file a complaint by calling the Member Services number on their ID card.",
+                "inaccurateIncompleteMisleadingInformationPhoneNunber": "1-844-839-4049",
+                "networkProvidersDisclaimer": "Updates received from our network providers are generally added to the Find a Pharmacy tool on a daily basis. Last updated:",
+                "servicesDisclaimer": "Not all services at a pharmacy may be included in your plan. Please review your benefit details for covered services."
+            },
+            "listHeader": {
+                "pharmaciesFound": "pharmacies found",
+                "pharmacyFound": "pharmacy found"
+            },
+            "listSpecialtyStore": {
+                "add": "Add",
+                "miles": "miles",
+                "primaryButtonTitle": "Select"
+            },
+            "listStoreDispenseTypeName": {
+                "pharmacyType": "Type: %1"
+            },
+            "listStoreLevelIndicators": {
+                "level_indicator": "LEVEL"
+            },
+            "listStorePreferred": {
+                "preferred": "PREFERRED"
+            },
+            "pharmacyLevelIndicators": {
+                "level_1": "1",
+                "level_2": "2"
+            },
+            "pharmacyTypeNames": {
+                "clinic": "Clinic Pharmacy",
+                "communityOrRetail": "Community/Retail Pharmacy",
+                "compunding": "Compounding Pharmacy",
+                "customizedEquipment": "Customized Equipment",
+                "veteransAffairs": "Department of Veterans Affairs (VA) Pharmacy",
+                "dialysisEquipment": "Dialysis Equipment",
+                "durableMedicalEquipment": "Durable Medical Equipment",
+                "homeInfusionTherapy": "Home Infusion Therapy Provider",
+                "indianHealthPharmacy": "Indian Health Service/Tribal/Urban Indian Health (I/T/U) Pharmacy",
+                "institutional": "Institutional Pharmacy",
+                "longTermCare": "Long Term Care Pharmacy",
+                "mailOrder": "Mail Order Pharmacy",
+                "managedCare": "Managed Care Organization Pharmacy",
+                "nonDispensingSite": "Non-Pharmacy Dispensing Site",
+                "nuclear": "Nuclear Pharmacy",
+                "nursingFacility": "Nursing Facility Supplies",
+                "oxygenEquipment": "Oxygen Equipment",
+                "parentalAndEnteralNutrition": "Parenteral and Enteral Nutrition",
+                "specialty": "Specialty Pharmacy",
+                "unknown": "Unknown"
+            },
+            "storeContent": {
+                "miles": "miles",
+                "retail90": "Retail 90",
+                "rxMaintenance90": "Rx Maintenance 90"
+            }
+        },
+        "pharmacySearchResultsMap": {
+            "listEmpty": {
+                "noPharmacies": "No Pharmacies Found",
+                "noPharmaciesHelperText": "Try removing a filter or changing the search area for more listings."
+            }
+        },
+        "prescriberResults": {
+            "prescriberListItem": {
+                "buttonLabel": "Select"
+            },
+            "title": "Select your prescriber"
+        },
+        "prescriberSearch": {
+            "fieldCityStateZip": {
+                "errorMessage": "Please enter a city and state, or ZIP code.",
+                "label": "City and state, or ZIP code"
+            },
+            "fieldFirstName": "First name (optional)",
+            "fieldLastName": {
+                "errorMessage": "Please enter a last name.",
+                "label": "Last name"
+            },
+            "paragraph": "Find the prescriber who gave you this prescription. We'll contact them to update the prescription.",
+            "searchButton": "Search",
+            "subTitle": "2 of 3: Select Your Prescriber",
+            "title": "Prescriber search"
+        },
+        "prescriptionDetails": {
+            "fulfilledBy": {
+                "title": "Fulfilled By: "
+            },
+            "lastFilledDetail": {
+                "title": "Last filled:"
+            },
+            "ndcDetail": {
+                "title": "NDC:"
+            },
+            "prescriberDetail": {
+                "title": "Prescribed by:"
+            },
+            "prescriptionDirections": {
+                "title": "Directions:"
+            },
+            "prescriptionsNextFillDate": {
+                "nextFillDate": "This prescription is scheduled to begin processing on %1."
+            },
+            "refillDetails": {
+                "title": "Refills:",
+                "value": "%1 before %2"
+            },
+            "rxDetail": {
+                "title": "Rx #:"
+            },
+            "supplyDetail": {
+                "title": "Supply:",
+                "value": "%1 for %2 days",
+                "daysOnlyValue": "%1 days"
+            },
+            "title": "Prescription Details"
+        },
+        "prescriptionItem": {
+            "content": {
+                "costPbm": "Last price paid:",
+                "costSpecialty": "Estimated cost:*",
+                "dateOfBirth": "Date of birth:",
+                "for": "For:",
+                "fulfilledBy": "Fulfilled by:",
+                "notApplicable": "N/A",
+                "notAvailable": "Not available"
+            }
+        },
+        "prescriptionList": {
+            "refillListHeader": {
+                "refillInYourCart": "{prescriptionCount} refill in your cart",
+                "refillsInYourCart": "{prescriptionCount} refills in your cart",
+                "specialty": "specialty"
+            },
+            "renewListHeader": {
+                "subTitle": "We're contacting your prescriber for a new prescription. You won’t be charged until we receive your new prescription.",
+                "title": "Pending Prescription Renewals"
+            }
+        },
+        "prescriptions": {
+            "navigator": {
+                "prescriptions": "Prescriptions",
+                "reviewOrder": "Review Your Order"
+            },
+            "prescriptionsCount": {
+                "changeTheFilter": "Change the date filter if you're looking for a prescription further in the past.",
+                "prescription": "prescription",
+                "prescriptions": "prescriptions",
+                "prescriptionsInTheLast": "%1 %2 in the last %3.",
+                "youHave0Prescriptions": "You have 0 prescriptions in the last %1."
+            },
+            "prescriptionsList": {
+                "iconAccessibilityLabel": "Prescription Details"
+            },
+            "prescriptionSearchBar": {
+                "searchBar": {
+                    "textPlaceholder": "Search"
+                }
+            }
+        },
+        "prescriptionsDefaultFilters": {
+            "all": "All",
+            "dateRange": {
+                "filters": {
+                    "days": "Days",
+                    "months": "Months"
+                },
+                "title": "Date Range"
+            },
+            "memberName": "Member Name",
+            "prescriptionStatus": {
+                "filters": {
+                    "eligibleForAutoRefill": "Eligible for Auto Refill",
+                    "eligibleForAutoRenewal": "Eligible for Auto Renewal",
+                    "enrolledInAutoRefill": "Enrolled in Auto Refill",
+                    "enrolledInAutoRenewal": "Enrolled in Auto Renewal",
+                    "readyForRefill": "Ready for Refill",
+                    "readyForRenewal": "Ready for Renewal"
+                },
+                "title": "Prescription Status"
+            }
+        },
+        "prescriptionsDefaultSorts": {
+            "labelReset": "Reset Sort",
+            "sorters": {
+                "fulfilledBy": "Fulfilling Pharmacy Name",
+                "lastFilledNewestToOldest": "Last Filled Newest to Oldest",
+                "lastFilledOldestToNewest": "Last Filled Oldest to Newest",
+                "medicationName": "Medication Name",
+                "memberName": "Member Name"
+            }
+        },
+        "prescriptionsDisclaimer": {
+            "estimatedCopayDisclaimer": "* This is the amount we estimate you’ll pay for your medication. Your actual cost will be determined after your order is processed and insurance, coupons and other discounts and charges have been applied.",
+            "hipaaDisclaimer": "Due to HIPAA privacy rules, some prescriptions may not appear on this page.",
+            "lastPricePaidDisclaimer": "The last price paid displayed doesn't include secondary insurance, coupons and other discounts. If you have questions, please call the Member Services number on your ID card."
+        },
+        "retailPickup": {
+            "disclaimer": "Payment needs to be made at the CVS retail store when you pick up your prescription.",
+            "pickupDateDropDown": {
+                "accessibilityLabel": "Pickup date, Please select an option.",
+                "header": "Pickup date",
+                "placeholder": "Select date",
+                "title": "Pickup date"
+            },
+            "pickupTimeDropDown": {
+                "accessibilityLabel": "Pickup time, Please select an option.",
+                "header": "Pickup time (Eastern)",
+                "placeholder": "Select time",
+                "title": "Pickup time (Eastern)"
+            },
+            "primaryButtonText": "Submit",
+            "subTitle": "3 of 3: Select Pickup Date and Time",
+            "textLinkText": "Cancel",
+            "title": "Switch to 90-day CVS retail"
+        },
+        "retailSearch": {
+            "subTitle": "1 of 3: Select CVS Retail Store Location",
+            "title": "Switch to 90-day CVS retail"
+        },
+        "reviewOrder": {
+            "cancelOrder": "Cancel Order",
+            "cancelOrderModal": {
+                "header": "Cancel this order?",
+                "primaryText": "Yes, Cancel Order",
+                "secondaryText": "No",
+                "subtext": "This will clear your selected items and take you to your list of prescriptions."
+            },
+            "continueOrSubmitOrder": {
+                "continueTo": "Continue to ",
+                "submitOrder": "Submit Order"
+            },
+            "disclaimer": "* This is the amount we estimate you’ll pay for your medication. Your actual cost will be determined after your order is processed and insurance, coupons and other discounts and charges have been applied.",
+            "emailAlert": {
+                "screenLevelAlert": {
+                    "message": "Your email has been added."
+                }
+            },
+            "financialAssistanceDisclaimer": "Call Member Services on your ID card for potential ways to reduce the high cost of your medication.",
+            "header": "Review Your Order",
+            "headerInfo": {
+                "header": "Please review your order and make any needed changes before submitting.",
+                "updateMedicalProfile": "Update Medical Profile"
+            },
+            "needChanges": {
+                "header": "Need To Make A Change?",
+                "text": "You can add or remove medications for refill by using View Prescriptions.",
+                "viewPrescriptions": "View Prescriptions"
+            },
+            "shippingAddressErrorText": "This order can't be shipped to a P.O. box because of your cold pack prescription.",
+            "shippingOptionsErrorText": "Only free standard shipping is available for orders shipped to a PO Box.",
+            "shippingOptionsColdPackErrorText": "Cold pack medications are shipped using free expedited delivery.",
+            "specialtyQuestionsAlert": "Since your order has changed, please take another look at the Specialty Member Information below and then continue to the next step.",
+            "stepProgressor": {
+                "medicalProfile": "Medical Profile",
+                "pbmReview": "Review Pharmacy",
+                "specialtyQuestions": "Specialty Questions",
+                "specialtyReview": "Review Specialty",
+                "submitOrder": "Submit Order"
+            }
+        },
+        "reviewOrderEmail": {
+            "addEmail": "Add Email",
+            "editEmail": "Edit Email",
+            "emailConfirmationMessage": "We'll send a confirmation message to your email address on file.",
+            "noEmailAlert": "You must have an email address on file to place an order."
+        },
+        "reviewOrderPrescriptionItem": {
+            "content": {
+                "dateOfBirth": "Date of birth:",
+                "estimatedCost": "Estimated cost:*",
+                "for": "For:",
+                "fulfilledBy": "Fulfilled by:"
+            },
+            "originalFillAlert": {
+                "inlineAlert": {
+                    "text": "A representative will contact you for additional information to process your prescription."
+                }
+            },
+            "removePrescription": {
+                "accessibilityLabel": "Remove prescription, %1",
+                "removePrescription": "Remove"
+            },
+            "removePrescriptionModal": {
+                "primaryText": "Yes, Remove from Order",
+                "secondaryText": "No, Keep in Order",
+                "subTitle": "Are you sure you want to remove %1 from this order?",
+                "title": "Remove prescription?"
+            },
+            "requiresRenewal": "Renewal request"
+        },
+        "savingOpportunity": {
+            "description": "In order for this prescription to be covered by your plan, choose one of the following. If you don't switch to a 90-day supply, you'll be responsible for the full price of this medication.",
+            "homeDelivery": {
+                "buttonLabel": "Switch to 90-Day Home Delivery",
+                "paragraph": "Save a trip to the pharmacy by switching to a 90-day supply with home delivery and free standard shipping."
+            },
+            "optOutContainer": {
+                "header": "Not interested?",
+                "optOutLink": "I want to continue filling my prescription at my current pharmacy."
+            },
+            "retailPickup": {
+                "buttonLabel": "Switch to 90-Day at a CVS Retail Store",
+                "paragraph": "Save time and pick up your 90-day supply at a CVS retail store near you."
+            },
+            "title": "Switch to a 90-day supply"
+        },
+        "selectDate": {
+            "activeBalanceDue": {
+                "subTitle": "Every %1 of the month",
+                "title": "Payment Date"
+            },
+            "datePicker": {
+                "accessibilityLabel": "Date picker"
+            },
+            "datePickerModal": {
+                "header": {
+                    "leftText": "Cancel",
+                    "middleText": "Select payment date"
+                },
+                "initialItem": "Select payment date"
+            },
+            "noBalanceBankAccount": {
+                "missingText": "Missing Text",
+                "title": "Select Payment Date",
+                "subtitle": "Monthly by calendar day"
+            },
+            "paymentDate": {
+                "radioButtonGroup": {
+                    "accessibilityLabel": "You will be charged on the date a specialty order is processed.",
+                    "items": {
+                        "immediatePayment": "Immediate payment",
+                        "monthly": "Monthly by calendar day"
+                    },
+                    "title": "Select Payment Date"
+                }
+            },
+            "radioButtonDetails": {
+                "subText": "You will be charged on the date a specialty order is processed."
+            }
+        },
+        "shippingAddressCard": {
+            "footer": {
+                "accessibilityHint": "Selected alternative delivery address",
+                "accessibilityLabel": "Change Shipping Address",
+                "text": "Change"
+            },
+            "shippedOn": "Shipped on: ",
+            "shippingDetails": "SHIPPING DETAILS",
+            "title": "Shipping Address",
+            "tracking": "Tracking: ",
+            "trackingShipment": "Track Shipment"
+        },
+        "shippingOptions": {
+            "accessibilityLabels": {
+                "oneDayShipping": "One Day Shipping. Estimated delivery",
+                "standardShipping": "Free Standard Shipping. Estimated delivery ",
+                "twoDayShipping": "Two Day Shipping. Estimated delivery"
+            },
+            "estimatedDelivery": "Estimated Delivery",
+            "header": {
+                "info": "Choose when you want to receive your order.",
+                "title": "Shipping Options"
+            },
+            "oneDayShipping": "One-Day Shipping",
+            "standardShipping": "Free Standard Shipping",
+            "twoDayShipping": "Two-Day Shipping"
+        },
+        "shippingOptionsCard": {
+            "footer": {
+                "accessibilityHint": "Select alternative shipping options",
+                "accessibilityLabel": "More Shipping Options",
+                "text": "More Options"
+            },
+            "oneDayShipping": "One-Day Shipping",
+            "standardShipping": "Standard Shipping",
+            "title": "Shipping Options",
+            "twoDayShipping": "Two-Day Shipping"
+        },
+        "specialtyFirstFill": {
+            "helpText": {
+                "contactNumber": "xxx-xxx-xxxx",
+                "contactUs": "Give us a call at",
+                "question": "Question?"
+            },
+            "navigator": "Fill a Specialty Prescription",
+            "nextAndCancelButtons": {
+                "cancel": "Cancel",
+                "primaryButtonTitle": "Next"
+            },
+            "radioButtonContainer": {
+                "noPaperPrescription": "I do not have a paper prescription.",
+                "paperPrescription": "I have a paper prescription."
+            },
+            "specialtyOptionsTitle": "Let's get started filling your specialty prescription or refill."
+        },
+        "specialtyFirstFillSuccessScreen": {
+            "buttonContainer": {
+                "primaryButtonTitle": "OK, Thanks",
+                "secondaryButtonTitle": "Submit Another Specialty Drug"
+            },
+            "textContainer": {
+                "pageTitle": "Thank you! Form Submitted.",
+                "weWillContactYou": "We'll reach out to you about the status of your prescription or refill.",
+                "weWillContactYourPrescriber": "We'll contact your prescriber to review."
+            }
+        },
+        "specialtyPaperPrescription": {
+            "emailContainer": {
+                "subTitle": "IngenioRx Specialty Pharmacy\n180 Passaic Avenue\nFairfield, NJ 07004",
+                "title": "If it's easier, you can mail your prescription or refill directly to us:\n"
+            },
+            "findButton": "Find a CVS Retail Pharmacy Near You",
+            "helpText": {
+                "contactNumber": "xxx-xxx-xxxx",
+                "contactUs": "Give us a call at",
+                "haveQuestions": "Question?"
+            },
+            "instructionText": "Please take your prescription or refill to your nearest CVS pharmacy. They'll send it to IngenioRx Specialty Pharmacy for processing. We'll contact you for additional details."
+        },
+        "specialtyPayNow": {
+            "amountDue": {
+                "sectionLabel": "Current balance"
+            },
+            "automaticPayments": {
+                "manageAutoSpecialty": "Set Up",
+                "subTitle": "You can choose to schedule a payment on a specific day of the month, for either the full or partial balance amount.",
+                "title": "Automatic Payments"
+            },
+            "errors": {
+                "invalidMinimumPaymentAmount": "The minimum payment is %1 please enter a valid amount.",
+                "invalidPaymentAmount": "Please enter a valid amount to pay"
+            },
+            "memberContent": {
+                "member": "Member:",
+                "title": "Pay specialty account"
+            },
+            "noPaymentContent": {
+                "text": "You don’t need to make a payment right now."
+            },
+            "paymentAlert": {
+                "screenAlert": "If you made any payments in the last 48 hours, you’ll need to wait until those payments get processed before making another payment."
+            },
+            "paymentSection": {
+                "managePaymentMethodText": "Manage Your Specialty Payment Methods"
+            },
+            "payPartialBalance": {
+                "minimumPaymentText": "Minimum %1 (one third of the current balance)"
+            },
+            "pendingPaymentContent": {
+                "subtitle": "If you need help, please call us at %1 ",
+                "title": "A payment can’t be made at this time.",
+                "tty": {
+                    "accessibilityLabel": "T T Y T D D 7 1 1",
+                    "text": "(TTY/TDD: 711)."
+                }
+            },
+            "primaryButtonText": "Submit Payment",
+            "radioButtonContainer": {
+                "radioButtonGroup": {
+                    "accessibilityLabel": "You will be charged on the date a specialty order is processed.",
+                    "items": {
+                        "otherAmount": "Other Amount",
+                        "totalBalance": "Total Balance"
+                    }
+                },
+                "title": "Select a Payment Amount"
+            },
+            "textLinkText": "Cancel"
+        },
+        "specialtyPayNowMultipleMembers": {
+            "tooltip": "Amount excludes items not shipped or Limited Distribution medications filled elsewhere.",
+            "memberContent": {
+                "balance": "Balance:",
+                "title": "Pay specialty account"
+            },
+            "memberPayments": {
+                "content": "For specialty prescription orders, each member must have a payment method on file.",
+                "title": "Manage Member Payments"
+            }
+        },
+        "specialtyQuestionnaire": {
+            "dateQuestion": {
+                "errorMessage": "Must be a valid future date (MM/DD/YYYY)"
+            },
+            "numberQuestion": {
+                "errorMessage": "Must be a valid number"
+            },
+            "textQuestion": {
+                "errorMessage": "Field must not be empty"
+            }
+        },
+        "specialtyQuestions": {
+            "doseLeft": "DOSE LEFT",
+            "info": {
+                "noSpecialtyPrescriptionsAlert": "Since you don't have specialty prescriptions in your order, please continue to the next step.",
+                "phoneNumber": "xxx-xxx-xxxx",
+                "tty": {
+                    "accessibilityLabel": "T T Y T D D 7 1 1",
+                    "text": "(TTY/TDD: 711)"
+                },
+                "youMustAnswerAllQuestions": "You must answer all questions before you can finish checking out with your specialty medications. If you need help completing the questions, contact us at %1."
+            },
+            "memberQuestions": {
+                "for": "For %1"
+            },
+            "questions": {
+                "placeholder": "MM/DD/YYYY"
+            },
+            "title": "Specialty member information"
+        },
+        "specialtyReview": {
+            "changeShippingOptionsModal": {
+                "confirmCancelHomeDelivery": "Are you sure you want to cancel home delivery and switch to store pickup for this order?",
+                "confirmCancelStorePickup": "Are you sure you want to cancel store pickup and switch to home delivery for this order?",
+                "primaryText": {
+                    "switchToHomeDelivery": "Yes, Switch to Home Delivery",
+                    "switchToStorePickup": "Yes, Switch to Store Pickup"
+                },
+                "secondaryText": {
+                    "keepHomeDelivery": "No, Keep Home Delivery",
+                    "keepStorePickup": "No, Keep Store Pickup"
+                },
+                "switchToHomeDelivery": "Switch to home delivery?",
+                "switchToStorePickup": "Switch to store pickup?"
+            },
+            "deliveryOptionsSelector": {
+                "homeDelivery": "Home Delivery",
+                "storePickup": "Store Pickup",
+                "subTitle": "How would you like to receive your prescriptions?"
+            },
+            "homeDeliveryContent": {
+                "deliveryDateCard": {
+                    "subText": "Select a delivery date for your specialty prescriptions.",
+                    "title": "Delivery Date"
+                },
+                "paymentNotRequired": "Payment is not required when submitting your order.  We'll contact you about payment options."
+            },
+            "partialErrorMessage": "We were not able to load your mail order shipping methods for this order and only your specialty order will be processed. Please try to complete your pharmacy order again later. If the problem continues, call the Member Services number on your ID card.",
+            "shippingAddressCardError": "This order can't be shipped to a P.O. box because of your cold pack prescription.",
+            "shippingDeliveryNoAddress": {
+                "alertMessage": "Please add a shipping address for your specialty order.",
+                "footer": {
+                    "accessibilityLabel": "Add Address",
+                    "text": "Add Address"
+                }
+            },
+            "shippingPickupAddress": {
+                "footer": {
+                    "accessibilityHint": "Selected alternative Pickup address",
+                    "accessibilityLabel": "Change Pickup Address"
+                },
+                "title": "CVS Store Location"
+            },
+            "shippingPickupNoAddress": {
+                "alertMessage": "Please select a CVS store location.",
+                "footer": {
+                    "accessibilityHint": "Select a CVS Store location for pickup",
+                    "accessibilityLabel": "Add Location",
+                    "text": "Add Location"
+                },
+                "title": "CVS Store Location"
+            },
+            "storePickupContent": {
+                "deliveryDateCard": {
+                    "subText": "Select a pickup date for your specialty prescriptions.",
+                    "title": "Pickup Date"
+                },
+                "paymentNotRequired": "Payment is not required when submitting your order. Payment is due at pickup."
+            },
+            "title": {
+                "alerts": {
+                    "noPrescriptionsSelected": "You have 0 specialty prescriptions in your cart.",
+                    "signatureIsRequired": "Signature is required at time of delivery."
+                },
+                "disclaimer": "We recommend requiring a signature for delivery to ensure the medication isn't lost or stolen. if it is, you're responsible for the cost of replacing it.",
+                "requireASignature": "Require a signature for delivery.",
+                "title": "Review specialty order"
+            }
+        },
+        "submitOrder": {
+            "orderInfo": {
+                "and": "and",
+                "noPrescriptions": "0 Prescriptions",
+                "pharmacy": "pharmacy",
+                "prescription": "prescription",
+                "prescriptions": "prescriptions",
+                "specialty": "specialty",
+                "yourOrderInfo": "You have %1 in your order. %2",
+                "yourSpecialtyPrescriptions": "Your specialty prescriptions will be sent and billed separately."
+            },
+            "title": "Submit your order"
+        }
+    },
+    "phoneLink": {
+        "call": "call "
+    },
+    "prescriptionPricingCard": {
+        "brandPrescriptionType": "Brand",
+        "coverageStatus": {
+            "alternativeCoverageStatus": "(%1)",
+            "employerCost": "(%1 covered by plan)",
+            "noEmployerCost": "(Not Covered)",
+            "NotCovered": "Not Covered",
+            "covered": "Covered"
+        },
+        "genericPrescriptionType": "Generic",
+        "drugNotAvailable": "No results found",
+        "prescriptionLinks": {
+            "beAdvisedTextLink": "Be Advised",
+            "costDetailsTextLink": "Cost Details"
+        },
+        "pricing": {
+            "alternativePricingUnavailable": " Not available",
+            "memberCostTitle": "Your Cost",
+            "standardDrugPricingUnavaliable": "No price available"
+        },
+        "requestPrescriptionButton": "Request a New Prescription",
+        "requestANewPrescriptionAlert": "A New Prescription Request can't be submitted digitally for this medication. Contact your prescriber for a new prescription or select a different medication"
+    },
+    "privacyPolicy": {
+        "landingPage": {
+            "menuItems": {
+                "adServerCompaniesSubMenu": {
+                    "title": "Ad Server Companies"
+                },
+                "changesToPolicySubMenu": {
+                    "title": "Changes to This Policy"
+                },
+                "cookiesSubMenu": {
+                    "title": "Cookies"
+                },
+                "howToContactUsSubMenu": {
+                    "title": "How to Contact Us"
+                },
+                "informedMembersChoicesSubMenu": {
+                    "title": "Informed Members Make Better Health Care Choices"
+                },
+                "ourPledgeToMembersSubMenu": {
+                    "title": "Our Pledge to Our Members"
+                },
+                "personalInformationAndPrivacySubMenu": {
+                    "title": "Personal Information and Privacy"
+                },
+                "pharmacyPbmHomeDelivery": {
+                    "title": "IngenioRx Home Delivery Pharmacy Notice of Privacy"
+                },
+                "pharmacySpecialtyHomeDelivery": {
+                    "title": "IngenioRx Specialty Pharmacy Notice of Privacy"
+                },
+                "securitySubMenu": {
+                    "title": "Security"
+                },
+                "weTakePrivacySubMenu": {
+                    "title": "We Take Your Privacy Seriously"
+                },
+                "whenNeedCareSubMenu": {
+                    "title": "When You Need Care"
+                }
+            },
+            "subtitle": "This is the website privacy and security statement for Amerigroup and its affiliated companies (collectively “Amerigroup”), effective April 2012.",
+            "title": "Website privacy"
+        },
+        "navigator": {
+            "adServerCompanies": "Ad Server Companies",
+            "changesToPolicy": "Changes to This Policy",
+            "cookies": "Cookies",
+            "hipaaPrivacyPages": "HIPAA Notice of Privacy Practices",
+            "howToContactUs": "How to Contact Us",
+            "informedMembersChoices": "Informed Members",
+            "ingenioPbmPrivacy": "IngenioRx Home Delivery NOPP",
+            "ingenioSpecialtyPrivacy": "IngenioRx Specialty NOPP",
+            "ourPledgeToMembers": "Our Pledge to Our Members",
+            "personalInformationAndPrivacy": "Personal Information and Privacy",
+            "privacyPolicy": "Privacy Policy",
+            "security": "Security",
+            "weTakePrivacy": "We Take Your Privacy Seriously",
+            "whenNeedCare": "When You Need Care"
+        }
+    },
+    "priceAMed": {
+        "detailsPage": {
+            "additionalInformation": {
+                "additionalCharges": "Additional Charges:",
+                "copay": "Copay or coinsurance:",
+                "deductible": "applied to deductible"
+            },
+            "beAdvised": {
+                "contactUsLink": "Contact Us",
+                "primaryButtonText": "Back",
+                "screenTitle": "Be advised"
+            },
+            "button": "OK",
+            "disclaimer": "*Your cost is the amount you'd pay for a prescription under your benefit plan. Total cost includes the cost you'd pay (which may be a deductible, a fixed amount or the other charge) plus the balance, if any, paid by your benefit plan.",
+            "drugCostDetails": {
+                "additionalCharges": "Additional Charges",
+                "brandDrugType": "Brand",
+                "copay": "Copay or coinsurance",
+                "costDetails": "Cost Details",
+                "covered": "Covered by plan",
+                "deductible": "%1 amount applied to deductible",
+                "disclaimer": "Cost displayed is estimated based on your pharmacy benefit plan. There may be other factors that could adjust the estimated cost.",
+                "drugSupply": "%1-Day Supply %2",
+                "genericDrugType": "Generic",
+                "primaryButtonText": "Back",
+                "total": "Total cost",
+                "yourCost": "Your cost"
+            },
+            "drugOverview": {
+                "costDetails": "Cost Details for",
+                "daysSupply": "Days supply:",
+                "totalQuantity": "Total quantity:",
+                "via": "Via:"
+            }
+        },
+        "landingPage": {
+            "needANewPrescription": {
+                "description": "Select a member and then search for the medication name. We'll contact your doctor or prescriber to get a new 90-day prescription started.",
+                "title": "Need a new prescription? "
+            },
+            "planNameFormat": "%1: %2",
+            "PlanNameLabel": "Plan",
+            "planNotFound": "No plan available",
+            "previouslyFilledTitle": "Previously filled prescriptions",
+            "searchBar": {
+                "cancel": "Cancel",
+                "placeholder": "Search by drug name"
+            },
+            "showingResultsTitle": "Showing results for %1",
+            "staticContentsTitle": "Search and learn more about:",
+            "staticContents": {
+                "genericPrice": {
+                    "message": "Find generic versions of brand-name drugs that may cost less.",
+                    "title": "Generic Price Comparison"
+                },
+                "homeDeliveryPricing": {
+                    "message": "Find out if you can save by switching to home delivery.",
+                    "title": "Home Delivery Pricing"
+                },
+                "pharmacyPricing": {
+                    "message": "Compare the costs for a drug at nearby retail pharmacies.",
+                    "title": "Pharmacy Pricing"
+                },
+                "therapeuticAlternatives": {
+                    "message": "Research other drug options you can discuss with your doctor.",
+                    "title": "Therapeutic Alternatives"
+                }
+            }
+        },
+        "resultPage": {
+            "comparisonTable": {
+                "comparisonRow": {
+                    "accessibilityDrugDetails": "Drug details for %1",
+                    "additionalMessages": "See the messages that need your attention.",
+                    "costCovered": "(%1 covered)",
+                    "daySupply": "%1 Day Supply",
+                    "drugNotAvailable": "Not Available",
+                    "for": "for",
+                    "homeDeliveryunavailable": "Home Delivery price unavailable",
+                    "storePickupunavailable": "Store Pickup price unavailable",
+                    "notCovered": "(not covered)",
+                    "methods": {
+                        "homeDelivery": "Home delivery",
+                        "storePickup": "Store pickup"
+                    },
+                    "priceUnavailable": "Price Not Available",
+                    "rejectMessagesHeader": "Messages needing your attention",
+                    "rejectMessagesLink": "See the messages that need your attention.",
+                    "rejectMessagesPrimaryButton": "OK",
+                    "yourCost": "Your cost"
+                },
+                "headerRow": {
+                    "brandTypeInfo": {
+                        "modalContent": "Brand drugs are sold under the name created by the drug company that first developed a new drug.",
+                        "title": "Brand"
+                    },
+                    "drug": "Drug",
+                    "drugNotAvailable": "Not Available",
+                    "drugTypeInfoAccessibilityLabel": "More information",
+                    "genericTypeInfo": {
+                        "modalContent": "Generic drugs are chemically similar to brand-name drugs, just as safe and effective and typically less expensive.",
+                        "title": "Generic"
+                    },
+                    "modalContentButton": "OK"
+                }
+            },
+            "costDetails": {
+                "homeDelivery": {
+                    "description": "Brand and generic equivalent (if available) costs displayed are estimated based on your pharmacy benefit plan. There may be other factors that could adjust these estimated costs.",
+                    "pills": "%1s",
+                    "subtitle": "With free standard shipping",
+                    "supplyDetails": "%1-Day Supply / %2",
+                    "supplyAccessibilityLabel": "%1 day supply for %2 pills",
+                    "title": "Home Delivery Cost Details"
+                },
+                "retail": {
+                    "description": "You can add a pharmacy to view your pricing information. Mark your favorite pharmacy by selecting the star icon beside its name.",
+                    "pills": "%1s",
+                    "subtitle": "",
+                    "supplyDetails": "%1-Day Supply / %2",
+                    "supplyAccessibilityLabel": "%1 day supply for %2 pills",
+                    "title": "Retail Store"
+                },
+                "specialty": {
+                    "description": "Brand and generic equivalent (if available) costs displayed are estimated based on your pharmacy benefit plan. There may be other factors that could adjust these estimated costs.",
+                    "pills": "%1s",
+                    "subtitle": "",
+                    "supplyDetails": "%1-Day Supply / %2",
+                    "supplyAccessibilityLabel": "%1 day supply for %2 pills",
+                    "title": "Specialty Pharmacy Cost Details"
+                },
+                "subtitle": "Brand and generic equivalent (if available) prices shown are estimated costs covered under your plan.",
+                "therapeutic": {
+                    "homeDelivery": {
+                        "pills": "%1s",
+                        "subtitle": "With free standard delivery",
+                        "supplyDetails": "%1-Day Supply Home Delivery / %2",
+                        "supplyAccessibilityLabel": "%1 day supply home delivery for %2 pills"
+                    },
+                    "retail": {
+                        "pills": "%1s",
+                        "supplyDetails": "%1-Day Supply Retail / %2",
+                        "supplyAccessibilityLabel": "%1 day supply retail for %2 pills"
+                    }
+                },
+                "title": "Cost Details"
+            },
+            "dosageAndFrequency": {
+                "commonDosage": "Most Common Dosage",
+                "ownDosage": "Provide My Own Dosage Information",
+                "ownDosageDetails": "Number of %1s Taken %2 / Frequency %3 / Supply Needed %4 Days",
+                "title": "Prescription Amount and Frequency",
+                "notApplicable": "N/A"
+            },
+            "disclaimer": "*Your cost is the amount you'd pay for a prescription under your benefit plan. Total cost includes the cost you'd pay (which may be a deductible, a fixed amount or the other charge) plus the balance, if any, paid by your benefit plan.",
+            "drugNotAvailable": "No results found",
+            "homeDelivery": {
+                "header": {
+                    "subtitle": "With free standard shipping",
+                    "title": "Home Delivery"
+                }
+            },
+            "nonSolidDrugInfo": {
+                "content": "The option to select amount and frequency to calculate new costs isn't applicable for medications like creams and injectables. The cost for these types of medications is estimated based on the most commonly prescribed quantity for that medication. Questions? Please call the Member Services number on your ID card."
+            },
+            "prescriptionOverview": {
+                "drugName": "Drug Name",
+                "plan": "Plan:",
+                "prescribedMember": {
+                    "dropdownTitle": "Select a member",
+                    "title": "For"
+                }
+            },
+            "requestANewPrescriptionAlert": "A New Prescription Request can't be submitted digitally for this medication. Contact your prescriber for a new prescription or select a different medication",
+            "searchConfigurations": {
+                "mostCommonDosageTooltip": {
+                    "accessibilityLabel": "More information",
+                    "button": "OK",
+                    "content": "Most common dosage"
+                },
+                "quantity": {
+                    "accessibilityLabel": "Select quantity of pills",
+                    "title": "Pills"
+                },
+                "supply": {
+                    "accessibilityLabel": "Select duration of pills",
+                    "title": "For"
+                }
+            },
+            "specialtyDrugAlert": "This is a specialty prescription and it must be filled by the IngenioRx Specialty Pharmacy. Questions? Call the Member Services number on your ID card.",
+            "storePickup": {
+                "addPharmacy": "Add Another Pharmacy",
+                "defaultPharmacyAccessibilityLabel": "Mark your favorite pharmacy",
+                "header": {
+                    "subtitle": "You can add a pharmacy to view your pricing information. Mark your favorite pharmacy by selecting the star icon beside its name.",
+                    "title": "Store Pickup"
+                },
+                "pharmacyNotAvailable": "Not available at this location"
+            },
+            "therapeuticAlternatives": {
+                "header": {
+                    "subtitle": "Therapeutic Alternatives treat similar conditions using different ingredients. Prices are estimates only, and costs may vary based on the medication and dosage prescribed.",
+                    "title": "Therapeutic Alternatives"
+                },
+                "noAlternativesAvailable": "Not Available",
+                "table": {
+                    "headerRow": {
+                        "homeDelivery": {
+                            "method": "Home Delivery",
+                            "subtitle": "With free standard shipping",
+                            "title": "%1 Day Supply"
+                        },
+                        "storePickup": {
+                            "at": "at",
+                            "method": "In-Store Pickup",
+                            "subtitle": "",
+                            "title": "%1 Day Supply"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "profile": {
+        "landingPage": {
+            "menuItems": {
+                "accountDetailsSubMenu": {
+                    "addresses": "Addresses",
+                    "logout": "Log Out",
+                    "medicalProfile": "Medical Profile",
+                    "paymentInformation": "Payment Information",
+                    "pcpInformation": "Your PCP Information",
+                    "renewBenefits": "Renew Benefits",
+                    "title": "ACCOUNT DETAILS"
+                },
+                "accountSettingsSubMenu": {
+                    "loginAndContact": "Login & contact",
+                    "privacyAndAccess": "Privacy & access",
+                    "title": "ACCOUNT SETTINGS"
+                },
+                "communicationSubMenu": {
+                    "communicationPreferences": "Communication Preferences",
+                    "contactInformation": "Contact Information",
+                    "prescriptionNotifications": "Prescription notifications",
+                    "title": "COMMUNICATION"
+                },
+                "securitySubMenu": {
+                    "loginAndSecurity": "Login and Security",
+                    "title": "SECURITY",
+                    "updatePassword": "Update Password",
+                    "updateSecurityQuestions": "Update Security Questions"
+                }
+            },
+            "pageTitle": "Profile"
+        },
+        "loginAndSecurity": {
+            "androidInfoText": "Android Fingerprint allows you to securely log in to your account using a fingerprint.",
+            "androidSettings": "FINGERPRINT SETTINGS",
+            "fingerprintFooter1": "Your fingerprint is one of the best passcodes in the world. It's always with you, and no two are exactly alike.",
+            "fingerprintFooter2": "Touch ID doesn't store any images of your fingerprint. It stores only a mathematical representation of your fingerprint.",
+            "header": "Username and touch identity",
+            "subheadingAndroid": "Your username and Android Fingerprint settings are shown below.",
+            "subheadingIOS": "Your username and Touch ID settings are shown below.",
+            "touchInfoText": "Touch ID allows you to securely log in to your account using a fingerprint.",
+            "touchSettings": "TOUCH ID SETTINGS",
+            "useFingerprint": "Log In Using Fingerprint",
+            "username": "USERNAME",
+            "ios": {
+                "faceId": {
+                    "loginAndSecurityTitle": "Username and Face ID",
+                    "loginAndSecuritySubHeading": "Your username and Face ID settings are shown below.",
+                    "settingsSectionHeader": "Face ID Settings",
+                    "settingsSectionParagraph": "Face ID allows you to securely log in to your account using facial recognition.",
+                    "loginWithFingerprintBodyCopy": "Log In Using Face ID",
+                    "fingerprintDisclaimerFooterOne": "Face ID doesn’t store any images of your face. It stores only a mathematical representation of your face.",
+                    "fingerprintDisclaimerFooterTwo": ""
+                },
+                "touchId": {
+                    "loginAndSecurityTitle": "Username and Touch ID",
+                    "loginAndSecuritySubHeading": "Your username and Touch ID settings are shown below.",
+                    "settingsSectionHeader": "TOUCH ID SETTINGS",
+                    "settingsSectionParagraph": "Touch ID allows you to securely log in to your account using a fingerprint.",
+                    "loginWithFingerprintBodyCopy": "Log In Using Touch ID",
+                    "fingerprintDisclaimerFooterOne": "Your fingerprint is one of the best passcodes in the world. It's always with you, and no two are exactly alike.",
+                    "fingerprintDisclaimerFooterTwo": "Touch ID doesn't store any images of your fingerprint. It stores only a mathematical representation of your fingerprint."
+                },
+                "disabledBiometrics": {
+                    "loginAndSecurityTitle": "Username and touch/face identity",
+                    "loginAndSecuritySubHeading": "Your username and Touch ID/Face ID settings are shown below.",
+                    "settingsSectionHeader": "TOUCH ID/FACE ID SETTINGS",
+                    "settingsSectionParagraph": "Touch ID/Face ID allows you to securely log in to your account using a fingerprint or facial recognition.",
+                    "loginWithFingerprintBodyCopy": "Log In Using Touch ID/Face ID",
+                    "fingerprintDisclaimerFooterOne": "Your fingerprint is one of the best passcodes in the world. It's always with you, and no two are exactly alike.",
+                    "fingerprintDisclaimerFooterTwo": "Touch ID/Face ID don't store any images of your fingerprint or face. It stores only a mathematical representation of your fingerprint or face."
+                }
+            },
+            "android": {
+                "loginAndSecurityTitle": "Username and touch identity",
+                "loginAndSecuritySubHeading": "Your username and Android Fingerprint settings are shown below.",
+                "settingsSectionHeader": "FINGERPRINT SETTINGS",
+                "settingsSectionParagraph": "Android Fingerprint allows you to securely log in to your account using a fingerprint.",
+                "loginWithFingerprintBodyCopy": "Log In Using Fingerprint",
+                "fingerprintDisclaimerFooterOne": "Your fingerprint is one of the best passcodes in the world. It's always with you, and no two are exactly alike.",
+                "fingerprintDisclaimerFooterTwo": "Android Fingerprint doesn’t store any images of your fingerprint. It stores only a mathematical representation of your fingerprint."
+            },
+            "startAddingFingerprint": {
+                "androidBodyCopy": "Please go to this Android's Settings, Security & Fingerprint, and then add a fingerprint.",
+                "androidTitle": "Start by Adding a Fingerprint",
+                "iosBodyCopy": "Please go to this iPhone's settings, Touch ID/Face ID & Passcode, and then add a Touch/Face ID.",
+                "iosTitle": "Start by Adding a Touch ID/Face ID",
+                "primaryButtonTitle": "OK"
+            }
+        },
+        "medicalProfileListPage": {
+            "disclaimer": "For your safety, we need information about your health conditions before we can fill your prescriptions.",
+            "title": "Medical profile"
+        },
+        "medicalProfilePage": {
+            "header": {
+                "accessibilityLabel": "Go back to your profiles"
+            }
+        },
+        "memberInformation": {
+            "addFields": {
+                "addEmail": "Add email address",
+                "addTextNumber": "Add text number",
+                "addVoiceNumber": "Add voice number"
+            },
+            "changeInfoLink": "How do I change this information?",
+            "changePassword": {
+                "confirmPassword": "Confirm new password",
+                "currentPassword": "Current password",
+                "currentPasswordSkipped": "Please enter the current password",
+                "newPassword": "New password",
+                "save": "Save",
+                "successModal": {
+                    "content": "Your password has been updated.",
+                    "primaryButtonTitle": "OK",
+                    "title": "Account info updated!"
+                }
+            },
+            "dateOfBirth": "Date of birth:",
+            "edit": "Edit",
+            "emailAddress": {
+                "buttonText": {
+                    "cancel": "Cancel",
+                    "save": "Save"
+                },
+                "emailContainerLabel": "Email Address",
+                "emailErrorText": "Please enter a valid email address",
+                "pageTitle": "Email",
+                "placeHolder": "Add email address",
+                "screenLevelAlert": "Your email has been added."
+            },
+            "memberSectionLabels": {
+                "accountAddressTitle": "Account Address",
+                "changePasswordLink": "Change Password",
+                "emailTitle": "Email",
+                "maskedPassword": "********",
+                "name": "Name",
+                "passwordTitle": "Password",
+                "primaryAddressTitle": "Primary Address",
+                "textNumberTitle": "Text",
+                "userNameTitle": "Username",
+                "voiceNumnberTitle": "Voice"
+            },
+            "none": "None",
+            "overlay": {
+                "overlayText": "Please contact your benefit administrator to update your address. They’ll notify us of any changes.",
+                "overlayDismissText": "OK"
+            },
+            "primaryAddressMissing": "The Primary address for your account is currently unavailable.",
+            "textNumber": {
+                "addScreenLevelAlert": "Your text number has been added.",
+                "buttonText": {
+                    "cancel": "Cancel",
+                    "deleteNumber": "Delete Text Number",
+                    "save": "Save"
+                },
+                "deleteScreenLevelAlert": "Your text number has been removed",
+                "modal": {
+                    "deleteModalPrimaryText": "Delete",
+                    "deleteModalSecondaryText": "Cancel",
+                    "deleteModalText": "Are you sure you want to delete your text number? Doing so will remove your text number from any alerts where text was chosen as the preferred communications method. Please review your Prescription Alerts so you continue to receive notifications from us the way you want.",
+                    "deleteModalTitle": "Delete Text Number?"
+                },
+                "pageTitle": "Text",
+                "placeHolder": "Add text number",
+                "termsAndConditions": {
+                    "nonTextLink": "I agree with the %1",
+                    "textLink": "Text Message Terms, Conditions and Disclosures."
+                },
+                "textNumberContainerLabel": "Text Number",
+                "textNumberErrorText": "Please enter a valid text number"
+            },
+            "voiceNumber": {
+                "buttonText": {
+                    "cancel": "Cancel",
+                    "save": "Save"
+                },
+                "pageTitle": "Voice",
+                "placeHolder": "Add voice number",
+                "screenLevelAlert": "Your voice number has been added.",
+                "voiceContainerLabel": "Voice Number",
+                "voiceErrorText": "Please enter a valid voice number"
+            }
+        },
+        "navigator": {
+            "accountRecoveryNumber": "Account Recovery Number",
+            "addAccountRecoveryNumber": "Add an Account Recovery Number",
+            "addEmailAddress": "Add Account Email Address",
+            "addVoiceNumbers": "Add Account Voice Number",
+            "changePcp": "Change PCP",
+            "communicationPreferences": "Communication Preferences",
+            "contactInformation": "Contact Info",
+            "emailAddresses": "Email Address",
+            "editAccountRecoveryNumber": "Edit Account Recovery Number",
+            "editEmailAddress": "Edit Account Email Address",
+            "editVoiceNumbers": "Edit Account Voice Number",
+            "loginSecurity": "Login and Security",
+            "medicalProfile": "Medical Profile",
+            "paymentInformation": "Payment Information",
+            "pcpInformation": "Your PCP Information",
+            "pharmacyPaymentMethods": "Pharmacy Payment Methods",
+            "physicalAddresses": "Physical Addresses",
+            "renewalInformation": "Renewal Information",
+            "specialtyPaymentMethods": "Specialty Payment Methods",
+            "textNumbers": "Text Numbers",
+            "updatePassword": "Update Password",
+            "updateSecurityQuestions": "Update Security Questions",
+            "voiceNumbers": "Voice Number"
+        },
+        "pcpInfo": {
+            "addressInfo": {
+                "header": "Address"
+            },
+            "changePcp": "How do I change my PCP?",
+            "header": {
+                "pcpUnavailable": "PCP information unavailable",
+                "title": "PRIMARY CARE PHYSICIAN"
+            },
+            "phoneInfo": {
+                "header": "Phone"
+            },
+            "providerName": {
+                "dr": "Dr."
+            }
+        },
+        "planInformation": {
+            "saveButton": "Save"
+        },
+        "profileLandingPage": {
+            "memberInfo": {
+                "dateOfBirth": "Date of birth: %1",
+                "memberName": "Name: %1"
+            },
+            "title": "Profile"
+        },
+        "renewalBenefits": {
+            "changedInfo": {
+                "tty": "(TTY 711)",
+                "title": "Did you move?"
+            },
+            "contactUs": {
+                "phoneNumber": "xxx-xxx-xxxx"
+            },
+            "header": {
+                "content": "How to renew"
+            },
+            "howToRenew": {
+                "title": "Renew:"
+            },
+            "renewalDueCard": {
+                "content": "Your account is due for renewal. Please renew soon.",
+                "title": "Renewal Due %1"
+            },
+            "renewalDate": {
+                "content": "You’ll get a renewal notice in the mail when it’s time to renew.",
+                "title": "Your renewal date:",
+                "titleWithoutDate": "You’ll get a renewal notice in the mail when it’s time to renew."
+            },
+            "subheader": {
+                "content": "Don’t lose your benefits! You need to renew every year to keep your benefits."
+            }
+        },
+        "updatePassword": {
+            "confirmedPassword": {
+                "label": "Confirm New Password"
+            },
+            "currentPassword": {
+                "label": "Current Password"
+            },
+            "password": {
+                "label": "New Password"
+            },
+            "saveButtonText": "Save Changes",
+            "subHeading": "Create a new password for your account.",
+            "successModal": {
+                "content": "Your new password has been updated.",
+                "primaryButtonTitle": "OK",
+                "title": "Account info updated!"
+            },
+            "userGreeting": "Update password"
+        },
+        "updateSecurityQuestions": {
+            "primaryButtonTitle": "Save Changes",
+            "screenTitle": "Keep your account safe",
+            "successBanner": {
+                "content": "Success! You have updated your security questions and answers."
+            }
+        }
+    },
+    "radioButton": {
+        "notSelected": "not selected.",
+        "selected": "selected."
+    },
+    "registration": {
+        "accountRecovery": {
+            "primaryButtonTitle": "Continue"
+        },
+        "createAccount": {
+            "headerInfo": "Now that we know it's you, let's create your account."
+        },
+        "editInformation": {
+            "accountRecoveryNumber": {
+                "typeLabel": "Account Recovery Number Type",
+                "textNumberLabel": "Account Recovery Text Number",
+                "voiceNumberLabel": "Account Recovery Voice Number"
+            },
+            "buttonContainer": {
+                "primaryButtonTitle": "Save",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "subtitle": "Please review and edit your information below then click save once you’re ready.",
+            "title": "Edit your information",
+            "usernamePassword": {
+                "confirmPassword": "Confirm Password",
+                "password": "Password",
+                "username": "Username"
+            }
+        },
+        "eligibility": {
+            "buttonContainer": {
+                "primaryButtonTitle": "Find My Info",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "dateOfBirthInput": {
+                "errorMessage": "Please provide a valid date of birth",
+                "errorMessageEmpty": "Date of Birth is required",
+                "label": "Date of Birth (MM/DD/YYYY)"
+            },
+            "dateOfBirthPicker": {
+                "accessibilityLabel": "Select date of birth",
+                "invalidDateOfBirth": "Please provide a valid date of birth",
+                "placeholder": "mm/dd/yyyy",
+                "title": "Date of birth"
+            },
+            "errorBanner": {
+                "couldntFindExactMatch": "Hmmm... We couldn't find an exact match. Check your insurance card to make sure the information below matches your card.",
+                "stillCouldntFindExactMatch": "We still couldn't find an exact match. You can try again or call Member Services at the number on the back of your ID Card."
+            },
+            "errors": {
+                "checkEligibilityFooterText": "Forgot Username or Password?"
+            },
+            "findIdLink": {
+                "findMyMemberId": "Where can I find my Member ID?",
+                "idCard": {
+                    "accessibilityLabel": "Sample ID Card"
+                },
+                "yourMemberIdIsLocated": "Your Member ID is located on the right corner of your Amerigroup Member ID Card and will be called either Subscriber # or ID Number."
+            },
+            "findMemberHeader": {
+                "subHeading": "Tell us a bit about yourself.",
+                "screenTitle": "First, let's find you in our system."
+            },
+            "firstNameInput": {
+                "errorMessage": "Please provide a valid first name",
+                "label": "First Name"
+            },
+            "lastNameInput": {
+                "errorMessage": "Please provide a valid last name",
+                "label": "Last Name"
+            },
+            "memberIdInput": {
+                "errorMessage": "Please provide a valid Member ID",
+                "errorMessageEmpty": "Member ID is required",
+                "label": "Member ID"
+            },
+            "memberIdInputWithInfoTooltip": {
+                "errorMessage": "Please provide a valid Member ID",
+                "label": "Member ID",
+                "tooltipContent": "You can find your member ID number on your pharmacy ID card."
+            },
+            "registrationButtonContainer": {
+                "primaryButtonTitle": "Next",
+                "textLinkText": "Cancel"
+            },
+            "screenTitle": "Let's get started",
+            "subHeading": "Tell us a bit about yourself.",
+            "twoFactorAuthentication": {
+                "headerInfo": "Two factor authentication"
+            },
+            "zipCodeInput": {
+                "errorMessage": "Please provide a valid zip code",
+                "label": "Zip Code"
+            }
+        },
+        "emailAddress": {
+            "buttonContainer": {
+                "primaryButtonTitle": "Continue",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "confirmEmailInput": {
+                "accessibilityLabel": "Confirm Email Address",
+                "errorMessage": "Email addresses do not match",
+                "label": "Confirm Email Address"
+            },
+            "emailInput": {
+                "accessibilityLabel": "Email Address",
+                "errorMessage": "Please provide a valid email address",
+                "label": "Email Address"
+            },
+            "screenTitle": "Email address",
+            "subHeading": "Provide an email address so we can help you reset your password, if needed, in the future."
+        },
+        "navigator": {
+            "accountRecoveryNumberRegistration": "Step 3 of 5",
+            "addAccountRecoveryNumber": "Add an Account Recovery Number",
+            "editInformation": "Step 4 of 4",
+            "editInformation2FA": "Step 5 of 5",
+            "eligibility": "Register",
+            "emailAddress": "Step 2 of 4",
+            "emailAddress2FA": "Step 2 of 5",
+            "reviewInformation": "Step 4 of 4",
+            "reviewInformation2FA": "Step 5 of 5",
+            "securityCode": "Security Code",
+            "securityQuestions": "Step 3 of 4",
+            "securityQuestions2FA": "Step 4 of 5",
+            "title": "Register",
+            "twoFactorAuthentication": "Security Code",
+            "usernamePassword": "Step 1 of 4",
+            "usernamePassword2FA": "Step 1 of 5"
+        },
+        "reviewInformation": {
+            "buttonGroup": {
+                "primaryButtonTitle": "Register",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "formLabels": {
+                "arnTextNumber": "ARN Text Number",
+                "arnVoiceNumber": "ARN Voice Number",
+                "emailAddress": "Email Address",
+                "password": "Password",
+                "question1": "Question 1",
+                "question2": "Question 2",
+                "username": "Username"
+            },
+            "subHeading": {
+                "bodyCopy": "Please review to make sure the information below is correct. Or ",
+                "editYourInformation": "edit your information."
+            },
+            "successModal": {
+                "bodyCopy": "Your registration was a success! Please continue to login to see your account.",
+                "primaryButtonTitle": "Log In",
+                "title": "Success!"
+            },
+            "userGreeting": "Account Information"
+        },
+        "securityQuestions": {
+            "answer": {
+                "accessibilityLabel": "Answer",
+                "errorMessage": "Please provide a valid answer",
+                "fieldLabel": "Answer",
+                "validatorTitle": "Answer requirements"
+            },
+            "primaryButtonTitle": "Continue",
+            "question": {
+                "placeholder": "Select Question",
+                "title": "Select Question"
+            },
+            "question1": "Question 1",
+            "question2": "Question 2",
+            "screenTitle": "Keep your account safe",
+            "secondaryButtonTitle": "Cancel",
+            "subHeading": "Please select two security questions to help us identify you in the future.",
+            "termsOfUse": {
+                "bodyCopy": "Continuing means you're OK with our %1",
+                "termsOfUse": "terms of use."
+            },
+            "validators": {
+                "doesNotContainSpecialCharacters": "Don't use these characters | & ; $ % @ \" < > () + \\",
+                "doesNotMatchQuestion": "Cannot be the same as the security question",
+                "hasAtLeast4Characters": "Use 4 or more characters"
+            }
+        },
+        "twoFactorAuthentication": {
+            "headerInfo": "Two factor authentication"
+        },
+        "usernamePassword": {
+            "buttonGroup": {
+                "primaryButtonTitle": "Continue",
+                "secondaryButtonTitle": "Cancel"
+            },
+            "confirmedPassword": {
+                "errorMessage": "Those passwords don't match.",
+                "skippedErrorMessage": "Please confirm the new password"
+            },
+            "email": {
+                "disclaimer": "Change your email in Profile or by calling the Member Services number on your ID card.",
+                "subHeader": "Email"
+            },
+            "password": {
+                "errorMessage": "This password does not meet the requirements. Please try another password.",
+                "maskOffAccessibilityLabel": "Hide Password",
+                "maskOnAccessibilityLabel": "Show Password",
+                "samePasswordErrorMessage": "Looks like you've entered an incorrect current password or you've tried to re-use the same password. Please try again.",
+                "skippedErrorMessage": "Please provide a valid new password",
+                "validatorTitle": "Passwords are case sensitive"
+            },
+            "passwordValidators": {
+                "containsNumberUppercaseLetterAndSpecialCharacter": "Use 1 letter, 1 number, 1 uppercase, and 1 special character $ ! . @",
+                "doesNotContainThreeConsecutiveCharacters": "Do not consecutively repeat a character or number more than twice",
+                "doesNotContainThreeConsecutiveUsernameCharacters": "Don't use part of your username",
+                "doesNotContainWhiteSpaceCharacters": "Do not use spaces",
+                "hasAtLeastEightCharacters": "Do not use less than 8 characters"
+            },
+            "registrationButtonContainer": {
+                "primaryButton": {
+                    "title": "Complete Registration"
+                },
+                "textLink": {
+                    "text": "Cancel"
+                }
+            },
+            "subHeading": "Now that we've found you, let's create your account.",
+            "userGreeting": "Hello %1",
+            "userInput": {
+                "errors": {
+                    "usernameInvalid": "Please provide a valid username",
+                    "usernameUnavailable": "Username is unavailable"
+                },
+                "validatorTitle": "Username Requirements"
+            },
+            "userInputsContainer": {
+                "confirmPassword": "Confirm Password",
+                "password": "Password",
+                "username": "Username"
+            },
+            "usernameValidators": {
+                "doesNotHaveTwoLettersFollowedNyNumbers": "Do not have two letters followed by all numbers",
+                "doesNotStartOrEndWithPeriod": "Do not start or end with a period",
+                "doesNotStartWithNumber": "Do not start with a number",
+                "doesNotUseSpecialCharactersWithExceptions": "Do not use any special characters beside $ ! . @",
+                "hasNoSpaces": "Do not use spaces",
+                "isValidLength": "Use 6 - 20 characters"
+            }
+        }
+    },
+    "searchBar": {
+        "cancelButtonText": "Cancel",
+        "clearField": "Clear field",
+        "search": "search"
+    },
+    "securityCode": {
+        "cancelButtonText": "Cancel",
+        "doNotRememberMyDevice": "Don't remember my device. It's a shared device or I don't use it regularly, so I'll need a security code next time I sign in from this device.",
+        "dontRememberMyDeviceHeader": "Don't remember my device",
+        "nextButtonText": "Next",
+        "rememberMyDevice": "Remember my device. This way next time I sign in from this device, I won't have to enter a security code.",
+        "rememberMyDeviceHeader": "Remember my device",
+        "resendCodeText": "Resend code",
+        "resentCodeSucceedMessage": "We sent you a new security code.",
+        "securityCodeSentMessage": "Your one-time security code was sent to %1. Enter the six digits to continue.",
+        "subHeading": "Please enter your security code.",
+        "textFieldTitle": "Security code",
+        "title": "Enter the security code.",
+        "wrongCode": "Security code entered was incorrect"
+    },
+    "sorters": {
+        "accessibilityBackLabel": "Back",
+        "footerText": "Reset",
+        "headerRightText": "Done",
+        "listModalItemLabelFooter": "Reset",
+        "toggleLink": "Filters"
+    },
+    "setUpAutomaticPayments": {
+        "cancelEnrollmentDialogContent": {
+            "body": "Are you sure you want to unenroll from automatic payments?",
+            "primaryText": "Unenroll",
+            "secondaryText": "Cancel"
+        },
+        "header": {
+            "member": "Member:",
+            "statusEnrolled": "Status: Enrolled",
+            "cancelEnrollment": "Cancel Enrollment"
+        },
+        "body": {
+            "automaticPaymentSettings": "Automatic Payment Settings",
+            "checkingAccount": "Checking Account",
+            "expires": "Expires",
+            "paymentMethod": "Payment Method"
+        },
+        "chargeDisclaimers": {
+            "withDateWithPayAmount": "Charge me the full balance up to %1 monthly every %2 of the month",
+            "withDateNoPayAmount": "Charge me the full balance monthly every %1 of the month",
+            "immediateWithPayAmount": "Charge me the full balance up to %1 on the date a specialty order is processed",
+            "immediateNoPayAmount": "Charge me full balance on the date a specialty order is processed"
+        },
+        "footer": {
+            "done": "Done",
+            "changeSettings": "Change Settings"
+        }
+    },
+    "shippingCard": {
+        "shippingCardFooter": {
+            "add": "Add Address",
+            "change": "Change"
+        },
+        "shippingCardNoAddress": "You don't have an address on file."
+    },
+    "startANewPrescription": {
+        "cancelTextLink": "Cancel New Prescription Request",
+        "contentTitle": "Review Pharmacy Order",
+        "subTitle": "You'll also need to select a prescriber under Approving Prescriber. If we need updated health information, we’ll take you to your Medical Profile.",
+        "title": "Please review the following details."
+    },
+    "successBanner": {
+        "body": {
+            "title": "Success!"
+        }
+    },
+    "tagButtonGroup": {
+        "accessibilityLabel": "filter enabled. Select to remove Button"
+    },
+    "technicalSupport": {
+        "emailAddressForm": {
+            "errorMessage": "Please enter an email address.",
+            "headerTitle": "Email address"
+        },
+        "formView": {
+            "cancelButtonText": "Cancel",
+            "submitButtonText": "Submit"
+        },
+        "fullNameForm": {
+            "errorMessage": "Please enter a name.",
+            "headerTitle": "Full name"
+        },
+        "header": "Tell us how we can help.",
+        "helpListDropdown": {
+            "errorMessage": "Please make a selection.",
+            "headerTitle": "What can we help you with?",
+            "placeholder": "Select"
+        },
+        "phoneNumberForm": {
+            "errorMessage": "Please enter a phone number.",
+            "headerTitle": "Phone number where we can reach you",
+            "subheader": "(optional)"
+        },
+        "reasonForContactForm": {
+            "disclaimer": "This form is for reporting technical support issues only. Please don't include any information pertaining to medical conditions, medication, account password, or other sensitive information.",
+            "errorMessage": "Please enter the reason for contacting us.",
+            "headerTitle": "Please explain your reason for contacting us, in a few words",
+            "subheader": "(240 character limit)"
+        }
+    },
+    "technicalSupportConfirm": {
+        "headerText": "Thank you for contacting us. Your issue has been received.",
+        "subText1": "We'll contact you at the email address you provided, %1, within 24 hours. If you haven't heard from us, please check your Spam folders.",
+        "subText2": "If you need immediate assistance, please call Member Services at %1"
+    },
+    "tempPassword": {
+        "buttonContainer": {
+            "primaryButtonTitle": "Save",
+            "secondaryButtonTitle": "Cancel"
+        },
+        "confirmNewPassword": {
+            "errorMessage": "Those passwords don't match",
+            "label": "Confirm new password"
+        },
+        "enterNewPassword": {
+            "errorMessage": "This password does not meet the requirements. Please try another password.",
+            "label": "Enter new password",
+            "validatorTitle": "Passwords are case sensitive"
+        },
+        "enterTempPassword": {
+            "errorMessage": "Temporary Password has to be valid",
+            "label": "Enter temporary password",
+            "validatorTitle": "Passwords are case sensitive"
+        },
+        "navigator": {
+            "tempPassword": "Reset Password",
+            "title": "Reset Password"
+        },
+        "screenTitle": "Please reset your password.",
+        "subHeading": "You're using a temporary password.",
+        "successModal": {
+            "bodyCopy": "Please continue to login with your username and new password.",
+            "primaryButtonTitle": "Log In",
+            "title": "Password updated!"
+        }
+    },
+    "termsOfUse": {
+        "landingPage": {
+            "anthemApplication": "This Application is produced by Anthem Insurance Companies, Inc. at various locations including 120 Monument Circle, Indianapolis, IN 46204.\n\n\u00A9 2005-2019 Anthem Insurance Companies, Inc.",
+            "menuItems": {
+                "appropriatenessofContent": "Appropriateness of Content",
+                "caregiverAccess": "Caregiver Access",
+                "digitalMillenniumCopyrightAct": "Digital Millennium Copyright Act",
+                "encryption": "Encryption",
+                "legal": "Legal",
+                "liability": "Liability of Blue Cross NC and Amerigroup and Their Licensors and Suppliers",
+                "limitations": "Limitations",
+                "linkingtoOtherSites": "Linking to Other Sites",
+                "medicarePlans": "Medicare Plans",
+                "miscellaneous": "Miscellaneous",
+                "notices": "Notices",
+                "outofNetworkReimbursement": "Out of Network Reimbursement",
+                "passwordsandAccount": "Passwords and Account",
+                "privacyandSecurity": "Privacy and Security",
+                "providerFinder": "Provider Finder",
+                "questions": "Questions",
+                "statement": "Changes to This Terms of Use Statement",
+                "termination": "Termination",
+                "useOfInformationAndResources": "Use of Information and Resources",
+                "useOfMaterial": "Use Of Material",
+                "useOfVoiceEnabledDevices": "Use of Voice Enabled Devices",
+                "yourSubmission": "Your Submissions"
+            },
+            "screenTitle": "Terms and Conditions Of Use",
+            "title": {
+                "liability": "Liability of Blue Cross NC"
+            }
+        }
+    },
+    "toggleSwitch": {
+        "disabled": "disabled",
+        "off": "off",
+        "on": "on"
+    },
+    "twoFactorAuthentication": {
+        "addRecovery": {
+            "bottomDescriptionText": "Once you complete this added layer of security, your new phone number will be added to your profile.",
+            "headerText": "Add an Account Recovery Number",
+            "phoneInputError": "Phone number is required",
+            "phoneNumberInputTitle": "Enter Phone Number (XXX) XXX-XXXX",
+            "primaryButtonTitleDisabled": "Continue",
+            "primaryButtonTitleVoice": "Call Me Now",
+            "primaryButtonTitleText": "Send Code",
+            "radioOptionVoice": "Voice Number",
+            "radioOptionsText": "Text Number",
+            "radioOptionsHeader": "Type of Number",
+            "subHeading": "Please enter the new number where we should send your security code.  Must be a landline or U.S. cellphone."
+        },
+        "addRecoveryNumber": "Add an Account Recovery Number",
+        "answerSecurityQuestion": {
+            "subHeading": "If you don't remember the answer to this question, please call Member Services for help. The phone number is on your member ID card."
+        },
+        "headerInfo": "Let's make sure it's you.",
+        "otpConfirmationModal": {
+            "cancelButton": "Cancel",
+            "confirmButton": "OK",
+            "body": {
+                "email": "You'll receive an email with your code from do-not-reply@empireblue.com with the subject \"Your one-time security code.\" If you don't receive this email after several minutes, check your spam folder.",
+                "text": "You'll get a one-time SMS message, so make sure your phone is able to get texts. Standard data fees and text messaging rates may apply."
+            },
+            "title": {
+                "email": "Send OTP via email",
+                "text": "Send OTP via text"
+            }
+        },
+        "primaryButtonTitle": "Next",
+        "radioButtons": {
+            "emailPlural": "Email Addresses",
+            "emailSingular": "Email Address",
+            "phonePlural": "Voice Numbers",
+            "phoneSingular": "Voice Number",
+            "textPlural": "Text Numbers",
+            "textSingular": "Text Number"
+        },
+        "subHeading": "To be extra safe, we'll send you a one-time security code. Choose how to receive your code.",
+        "securityQuestionLink": "Answer Security Question Instead",
+        "securityVerification": {
+            "resendTitle": "Security code not working.",
+            "resendSubTitle": "The security code you entered is not working or has expired. Please try again.",
+            "reEnterCode": "Re-enter Code",
+            "reSendCode": "Re-send Code"
+        },
+        "selectionHeading": "Choose how to receive your security code:",
+        "textCancelLinkText": "Cancel"
+    },
+    "visitWebsite": {
+        "subTitle": "Tap the link to go to your state specific Amerigroup website.",
+        "title": "Select your state"
+    }
+}

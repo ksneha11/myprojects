@@ -1,0 +1,31 @@
+{
+    "name": "common-components",
+    "private": true,
+    "devDependencies": {
+        "@types/jest": "^25.1.3",
+        "tslint": "5.20.1",
+        "tslint-config-prettier": "1.18.0"
+    },
+    "scripts": {
+        "build-cli": "node node_modules/atlas-ui-build/scripts/cli.js --build",
+        "checkout": "node node_modules/atlas-ui-build/scripts/checkout.js",
+        "jenkinsBuild": "node node_modules/atlas-ui-build/scripts/jenkins/main.js",
+        "local-dev": "node node_modules/atlas-ui-build/scripts/localDev.js",
+        "lint": "cd packages/atlas && yarn lint",
+        "loadApp": "yarn run toolCheck && node node_modules/atlas-ui-build/scripts/cli.js --install",
+        "newc": "cd packages/atlas && yarn newc",
+        "pods": "cd packages/atlas/ios && pod install",
+        "postinstall": "node ./scripts/postInstall.js",
+        "pr": "cd packages/atlas && yarn pr",
+        "pr-build": "cd packages/atlas && yarn pr-build",
+        "pull-dev": "node node_modules/atlas-ui-build/scripts/pullDev.js",
+        "renamePackageAtlas": "cd packages/atlas && yarn renamePackageAtlas",
+        "run-android": "cd packages/atlas && yarn run-android ",
+        "run-ios": "cd packages/atlas && yarn run-ios ",
+        "start": "cd packages/atlas && yarn start",
+        "setup": "yarn && yarn run toolCheck && node node_modules/atlas-ui-build/scripts/cli.js --setup",
+        "test": "cd packages/atlas && yarn test",
+        "toolCheck": "node ./scripts/toolChecker.js",
+        "tsc": "cd packages/atlas && yarn tsc"
+    }
+}

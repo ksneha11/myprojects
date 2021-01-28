@@ -1,0 +1,79 @@
+[
+    {
+        "content": "General accessibility",
+        "type": "HEADER",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Our site meets the Web Content Accessibility Guidelines (WCAG) version 2.0 Level AA of the World Wide Web Consortium Web Accessibility Initiative (W3C WAI) standard, as well as Section 508 of the U.S. Rehabilitation Act. Our Anthem mobile apps for cellphones or tablets will meet the WCAG 2.0 AA standard.\n\nWe test our site to make sure it’s easy to use. We fix things that might stop you from getting the information you need. To make sure you can read our site:",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use SkipLinks to help you move from page to page.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use alternative words for appropriate images and other non-text elements.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use ARIA (Accessible Rich Internet Applications) to explain links and show new browser windows.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use structural markup to indicate headings and lists (semantics) to help you understand pages.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We label form fields and show error messages using ARIA.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We put information in tables that are easy to follow.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use titles and title tags.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "We use JavaScript and style sheets to improve website layout and performance.",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "Our content can be read by tools like Job Access with Speech (JAWS) or Non-visual Desktop Access (NVDA).\n",
+        "type": "BULLET_GROUP",
+        "weight": "NORMAL"
+    },
+    {
+        "content": [
+            "For more insight about accessibility, visit: %1\n",
+            {
+                "action": "http://www.w3.org/WAI/",
+                "content": "http://www.w3.org/WAI/",
+                "type": "LINK"
+            }
+        ],
+        "type": "PARAGRAPH"
+    },
+    {
+        "content": [
+            "For more insight about mobile accessibility, visit: %1",
+            {
+                "action": "http://www.w3.org/WAI/mobile",
+                "content": "http://www.w3.org/WAI/mobile",
+                "type": "LINK"
+            }
+        ],
+        "type": "PARAGRAPH"
+    }
+]

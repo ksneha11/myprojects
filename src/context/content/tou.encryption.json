@@ -1,0 +1,11 @@
+[
+    {
+        "content": "Encryption",
+        "type": "HEADER"
+    },
+    {
+        "content": "To ensure the security of valuable and personal information, users of the Web Site may only access our services using a browser equipped with 128-bit encryption or higher.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

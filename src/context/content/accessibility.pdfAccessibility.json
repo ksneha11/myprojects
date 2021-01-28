@@ -1,0 +1,16 @@
+[
+    {
+        "content": "PDF accessibility",
+        "type": "HEADER"
+    },
+    {
+        "content": "Some information on this site is in PDF files. You can view and print them using Adobe Acrobat Reader® or other PDF readers. We make sure screen readers, like JAWS or NVDA, can relay words. This includes “tagging” pictures with words and using headings and lists. We also set the language and title properties. This helps electronic reading tools know what language to use and how to speak the words on the page. Some of our older PDFs may not have these features. If there’s a PDF you can’t read, please use the contact information below to let us know. We can send it to you in another format.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    },
+    {
+        "content": "If you don’t have a screen reader on your computer, you can get a free one, like NVDA, online.",
+        "type": "PARAGRAPH",
+        "weight": "NORMAL"
+    }
+]

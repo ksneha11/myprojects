@@ -1,0 +1,15 @@
+export enum PrivacyPolicyActions {
+    AD_SERVER_COMPANIES_PRESSED = 'adServerCompaniesPressed',
+    CHANGES_TO_POLICY_PRESSED = 'changesToPolicyPressed',
+    COOKIES_PRESSED = 'cookiesPressed',
+    HIPAA_PRIVACY_POLICY_PRESSED = 'hipaaPagePressed',
+    HOW_TO_CONTACT_US_PRESSED = 'howToContactUsPressed',
+    INFORMED_MEMBERS_CHOICES_PRESSED = 'informedMembersChoicesPressed',
+    OUR_PLEDGE_TO_MEMBERS = 'ourPledgeToMembersPressed',
+    PERSONAL_INFORMATION_AND_PRIVACY_PRESSED = 'personalInformationAndPrivacyPressed',
+    INGENIO_HOME_DELIVERY_NOTICE = 'INGENIO_HOME_DELIVERY_NOTICE',
+    INGENIO_SPECIALTY_NOTICE = 'INGENIO_SPECIALTY_NOTICE',
+    SECURITY_PRESSED = 'securityPressed',
+    WE_TAKE_PRIVACY_PRESSED = 'weTakePrivacyPressed',
+    WHEN_NEED_CARE_PRESSED = 'whenNeedCarePressed',
+}
